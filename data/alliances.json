@@ -1,0 +1,66 @@
+[
+  {
+    "id": "alliance-apex",
+    "name": "The Apex Vanguard",
+    "motto": "By Vigilance, We Illuminate the Horizon.",
+    "headquarters": "Apex Citadel, Orbiting Sky-Tower",
+    "leader": "Solaris",
+    "members": [
+      "Solaris",
+      "Titanix",
+      "Zephyr"
+    ],
+    "reputation": 92,
+    "perk": "+15% Maximum Health & +20% Public Approval gains from heroic deeds.",
+    "icon": "Shield",
+    "bannerColor": "#FFD700"
+  },
+  {
+    "id": "alliance-street",
+    "name": "Street Knights Coalition",
+    "motto": "No Shadow Darker Than Our Resolve.",
+    "headquarters": "The Belfry, Gothic Quarter",
+    "leader": "Nocturne",
+    "members": [
+      "Nocturne",
+      "Phantom Blade",
+      "Vanguard Ronin"
+    ],
+    "reputation": 74,
+    "perk": "+20% Critical Strike Chance and +25% Clue Discovery during patrols.",
+    "icon": "Moon",
+    "bannerColor": "#00F0FF"
+  },
+  {
+    "id": "alliance-aegis",
+    "name": "Aegis Tech Syndicate",
+    "motto": "Tomorrow’s Defense, Engineered Today.",
+    "headquarters": "Helix Labs R&D Complex",
+    "leader": "Circuit Breaker",
+    "members": [
+      "Circuit Breaker",
+      "Pulse Vector",
+      "Exo-Centurion"
+    ],
+    "reputation": 80,
+    "perk": "+20 Max Energy and 15% discount on all HQ upgrades & gadgets.",
+    "icon": "Zap",
+    "bannerColor": "#3B82F6"
+  },
+  {
+    "id": "alliance-cosmic",
+    "name": "The Arcane Enclave",
+    "motto": "Guardians Beyond the Veiled Veil.",
+    "headquarters": "Sanctum Arcanum",
+    "leader": "Dr. Mythos",
+    "members": [
+      "Dr. Mythos",
+      "Madame Astral",
+      "Spellweaver"
+    ],
+    "reputation": 85,
+    "perk": "+25% Resistance to all negative status effects and +30% Super Meter charge rate.",
+    "icon": "Sparkle",
+    "bannerColor": "#8A2BE2"
+  }
+]

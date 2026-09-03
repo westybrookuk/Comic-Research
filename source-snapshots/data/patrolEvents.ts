@@ -1,0 +1,574 @@
+import { PatrolStoryEvent } from '../types/game';
+
+export const PATROL_STORY_EVENTS: PatrolStoryEvent[] = [
+  {
+    id: 'event-monorail-derailment',
+    title: 'The Runaway Mag-Lev Express',
+    category: 'Catastrophic Hazard',
+    districtId: 'district-downtown',
+    artIcon: '🚅⚡',
+    comicBanner: 'METRO EXPRESS OUT OF CONTROL: 300 PASSENGERS TRAPPED!',
+    premise: 'A high-speed magnetic monorail carrying 300 morning commuters has suffered a cybernetic sabotage failure. Its brakes are completely fried and it is hurtling toward a 90-degree curve above the Downtown plaza at 180 MPH!',
+    choices: [
+      {
+        id: 'choice-monorail-strength',
+        label: 'Plant your boots on the tracks and brace the lead engine!',
+        description: 'Use superhuman strength and fortitude to absorb the kinetic momentum directly.',
+        requiredStat: { stat: 'strength', threshold: 14 },
+        energyCost: 20,
+        alignmentScoreDelta: 4,
+        successChance: 85,
+        successOutcome: {
+          title: 'HEROIC KINETIC HALT!',
+          description: 'Sparks fly for three city blocks as your boots dig into the steel ties! The train screeches to a dead halt inches from the precipice to thunderous cheers!',
+          xp: 160,
+          money: 500,
+          approval: 15,
+          suspicionChange: -10,
+          stressChange: -15,
+          cluesGained: 1,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'HEAVY IMPACT STRAIN',
+          description: 'The immense momentum overpowers your grip. You manage to derail the train into an empty emergency buffer, preventing mass casualties but suffering severe bruises.',
+          hpLoss: 25,
+          approvalChange: 5,
+          suspicionChange: 0,
+          stressChange: 20
+        }
+      },
+      {
+        id: 'choice-monorail-tech',
+        label: 'Hack the track leylines and reverse magnetic polarity.',
+        description: 'Deploy cyber-interfaces or gadgets to recalibrate the mag-lev guide rails into an emergency brake.',
+        requiredStat: { stat: 'intellect', threshold: 14 },
+        energyCost: 15,
+        alignmentScoreDelta: 2,
+        successChance: 85,
+        successOutcome: {
+          title: 'SURGICAL CYBERNETIC OVERRIDE!',
+          description: 'Your bypass code cascades through the city grid. The magnetic field inverts with a loud hum, smoothly gliding the train to a gentle stop!',
+          xp: 150,
+          money: 450,
+          approval: 12,
+          suspicionChange: -5,
+          stressChange: -10,
+          cluesGained: 2
+        },
+        failureOutcome: {
+          title: 'MAGNETIC SURGE FEEDBACK',
+          description: 'A power surge shocks your tactical systems before the automated fail-safe kicks in. The train halts roughly with minor passenger jolts.',
+          hpLoss: 15,
+          approvalChange: 3,
+          suspicionChange: 5,
+          stressChange: 15
+        }
+      },
+      {
+        id: 'choice-monorail-paragon',
+        label: 'Deploy emergency air-cushions and guide passengers safely.',
+        description: 'Focus entirely on civilian welfare and evacuation protocols.',
+        requiredAlignment: 'Golden Age Paragon',
+        energyCost: 25,
+        alignmentScoreDelta: 6,
+        successChance: 90,
+        successOutcome: {
+          title: 'PERFECT ZERO-CASUALTY RESCUE!',
+          description: 'Every passenger is evacuated with zero injuries. Front-page newspaper headlines praise your selfless composure!',
+          xp: 200,
+          money: 600,
+          approval: 20,
+          suspicionChange: -15,
+          stressChange: -25,
+          tokenReward: 2
+        },
+        failureOutcome: {
+          title: 'EXHAUSTING EVACUATION',
+          description: 'You stretch your stamina to its limit rescuing everyone, completely drained.',
+          hpLoss: 20,
+          approvalChange: 10,
+          suspicionChange: 0,
+          stressChange: 15
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-hostage-vault',
+    title: 'First National Vault Siege',
+    category: 'Hostage Dilemma',
+    districtId: 'district-downtown',
+    artIcon: '🏦💣',
+    comicBanner: 'ARMORED ROBBERS HOLD 20 BANK TELLER HOSTAGES!',
+    premise: 'A crew of cybernetically enhanced mercenaries have wired the bank vault with seismic explosives. They demand $10 million in bearer bonds or they will collapse the bank foundations.',
+    choices: [
+      {
+        id: 'choice-vault-negotiate',
+        label: 'Step inside unarmed and negotiate their surrender.',
+        description: 'Appeal to their rational self-interest, psychological pressure points, or legal immunity offers.',
+        requiredStat: { stat: 'charisma', threshold: 14 },
+        energyCost: 10,
+        alignmentScoreDelta: 3,
+        successChance: 80,
+        successOutcome: {
+          title: 'MASTERCLASS CRISIS DIPLOMACY!',
+          description: 'Your calm charisma completely dismantles the leader\'s resolve. They drop their detonators and release every hostage peacefully!',
+          xp: 175,
+          money: 700,
+          approval: 18,
+          suspicionChange: -10,
+          stressChange: -20,
+          cluesGained: 1
+        },
+        failureOutcome: {
+          title: 'NEGOTIATION BREAKDOWN',
+          description: 'The panicked robber fires a wild ricochet that grazes your arm before police snipers breach the perimeter.',
+          hpLoss: 20,
+          approvalChange: -5,
+          suspicionChange: 10,
+          stressChange: 20
+        }
+      },
+      {
+        id: 'choice-vault-smoke-breach',
+        label: 'Drop through the skylight in a smoke flash and disarm detonators!',
+        description: 'Execute split-second martial arts takedowns in the blinding dark.',
+        requiredStat: { stat: 'agility', threshold: 15 },
+        energyCost: 20,
+        alignmentScoreDelta: 2,
+        successChance: 85,
+        successOutcome: {
+          title: 'LIGHTNING SHADOW INFILTRATION!',
+          description: 'Within three seconds, all four mercenaries are handcuffed to pillars and every detonator wire is neatly clipped!',
+          xp: 180,
+          money: 600,
+          approval: 16,
+          suspicionChange: 0,
+          stressChange: -15,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'CONCUSSION BLAST DETONATION',
+          description: 'A flashbang grenade goes off right next to you, disorienting your senses while you subdue the crew.',
+          hpLoss: 30,
+          approvalChange: 5,
+          suspicionChange: 5,
+          stressChange: 25
+        }
+      },
+      {
+        id: 'choice-vault-antihero',
+        label: 'Terrify them with lethal force and smash through the vault door!',
+        description: 'Show no mercy to criminals who endanger innocent civilians.',
+        requiredAlignment: 'Ruthless Anti-Hero',
+        energyCost: 15,
+        alignmentScoreDelta: -6,
+        successChance: 95,
+        successOutcome: {
+          title: 'BRUTAL SHOCK & AWE DEMOLITION!',
+          description: 'You smash through reinforced titanium like cardboard. The terrified robbers wet their pants and surrender on their knees!',
+          xp: 190,
+          money: 800,
+          approval: -5,
+          suspicionChange: 20,
+          stressChange: -10,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'CIVILIAN COLLATERAL PANIC',
+          description: 'The overwhelming violence scares the hostages and sparks critical media editorials.',
+          hpLoss: 10,
+          approvalChange: -15,
+          suspicionChange: 25,
+          stressChange: 15
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-dark-matter-leak',
+    title: 'The Dark Matter Bio-Canister',
+    category: 'Catastrophic Hazard',
+    districtId: 'district-docklands',
+    artIcon: '☢️🛢️',
+    comicBanner: 'TOXIC EXPERIMENTAL SPILL IN HARBOR WAREHOUSE!',
+    premise: 'A black-market cargo container has breached, venting glowing purple antimatter isotopes into the dock basin. If it touches salt water, it could trigger a localized gravitational vortex!',
+    choices: [
+      {
+        id: 'choice-canister-science',
+        label: 'Synthesize an inverse chemical stabilizer on the fly.',
+        description: 'Calculate molecular half-lives and blend neutralizing foam.',
+        requiredStat: { stat: 'intellect', threshold: 14 },
+        energyCost: 15,
+        alignmentScoreDelta: 2,
+        successChance: 85,
+        successOutcome: {
+          title: 'PERFECT MOLECULAR NEUTRALIZATION!',
+          description: 'The chemical compound stabilizes the purple matter into harmless inert salt. Environmental sensors return to green across the entire harbor!',
+          xp: 160,
+          money: 550,
+          approval: 14,
+          suspicionChange: -5,
+          stressChange: -10,
+          cluesGained: 2
+        },
+        failureOutcome: {
+          title: 'CORROSIVE REACTION',
+          description: 'The mixture fizzes violently, splashing caustic isotopes onto your suit armor.',
+          hpLoss: 25,
+          approvalChange: 0,
+          suspicionChange: 5,
+          stressChange: 15
+        }
+      },
+      {
+        id: 'choice-canister-fortitude',
+        label: 'Physically seal the breach with your bare hands and carry it away!',
+        description: 'Rely on pure anatomical resilience to endure radioactive radiation.',
+        requiredStat: { stat: 'fortitude', threshold: 15 },
+        energyCost: 25,
+        alignmentScoreDelta: 3,
+        successChance: 80,
+        successOutcome: {
+          title: 'TITANIC RADIATION RESISTANCE!',
+          description: 'Your skin absorbs the blazing cosmic heat without flinching. You haul the leaking container straight to the Hazmat containment bunker!',
+          xp: 175,
+          money: 500,
+          approval: 16,
+          suspicionChange: 0,
+          stressChange: -15,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'RADIATION POISONING SICKNESS',
+          description: 'The raw antimatter burns your cells, requiring a full day of medical bedrest to purge.',
+          hpLoss: 35,
+          approvalChange: 8,
+          suspicionChange: 0,
+          stressChange: 30
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-alderman-blackmail',
+    title: 'The Corrupt Alderman\'s Encrypted Ledger',
+    category: 'Moral Ambiguity',
+    districtId: 'district-neon',
+    artIcon: '💼🕵️',
+    comicBanner: 'SECRET BRIBERY DOSSIER UNCOVERED IN VIP PENTHOUSE!',
+    premise: 'During an alleyway chase, you intercept a briefcase containing encrypted financial transactions proving Alderman Bradley Vance has been pocketing bribes from the Syndicate.',
+    choices: [
+      {
+        id: 'choice-ledger-press',
+        label: 'Deliver the ledger to The Daily Chronicle for front-page exposure.',
+        description: 'Public transparency exposes the corruption for all citizens to see.',
+        energyCost: 10,
+        alignmentScoreDelta: 5,
+        successChance: 100,
+        successOutcome: {
+          title: 'FRONT-PAGE EXPLOSIVE INVESTIGATION!',
+          description: 'The newspaper runs an unvarnished special edition. The corrupt alderman resigns in disgrace, and public faith in justice surges!',
+          xp: 150,
+          money: 300,
+          approval: 25,
+          suspicionChange: -15,
+          stressChange: -15,
+          cluesGained: 2
+        },
+        failureOutcome: {
+          title: '',
+          description: '',
+          hpLoss: 0,
+          approvalChange: 0,
+          suspicionChange: 0,
+          stressChange: 0
+        }
+      },
+      {
+        id: 'choice-ledger-blackmail',
+        label: 'Blackmail the Alderman: Force him to fund public district clinics.',
+        description: 'Turn criminal money into civic good, operating in the gray shadows.',
+        requiredAlignment: 'Urban Dark Vigilante',
+        energyCost: 10,
+        alignmentScoreDelta: -3,
+        successChance: 90,
+        successOutcome: {
+          title: 'SHADOW EXTORTION REDIRECTION!',
+          description: 'The terrified politician secretly donates $2,000 to the Metro Nova Orphanage and Hospital Fund to keep your silence!',
+          xp: 170,
+          money: 1200,
+          approval: 10,
+          suspicionChange: 5,
+          stressChange: -10,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'LEAKED ACCUSATIONS',
+          description: 'The Alderman hires private security to investigate whoever has the ledger.',
+          hpLoss: 10,
+          approvalChange: -5,
+          suspicionChange: 15,
+          stressChange: 15
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-occult-leyline',
+    title: 'The Nether-Rift at St. Jude Cathedral',
+    category: 'Occult Anomaly',
+    districtId: 'district-gothic',
+    artIcon: '🔮👻',
+    comicBanner: 'DIMENSIONAL TEAR RELEASES SPECTRAL VOID WRAITHS!',
+    premise: 'An occult cabal has chanted forbidden curses in the catacombs beneath St. Jude Cathedral. A pulsating tear to the Nether-Realm is whispering madness into the minds of local residents!',
+    choices: [
+      {
+        id: 'choice-rift-willpower',
+        label: 'Cast a ward of unyielding willpower to seal the rift.',
+        description: 'Channel pure psychological and spiritual resolve against the cosmic void.',
+        requiredStat: { stat: 'willpower', threshold: 15 },
+        energyCost: 20,
+        alignmentScoreDelta: 3,
+        successChance: 85,
+        successOutcome: {
+          title: 'SPECTRAL RIFT VANQUISHED!',
+          description: 'A dazzling golden aura erupts from your spirit, obliterating the eldritch tendrils and locking the rift permanently!',
+          xp: 180,
+          money: 450,
+          approval: 15,
+          suspicionChange: -5,
+          stressChange: -20,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'PSYCHIC NIGHTMARE BACKLASH',
+          description: 'Void whispers invade your dreams, inflicting traumatic mental fatigue.',
+          hpLoss: 20,
+          approvalChange: 0,
+          suspicionChange: 0,
+          stressChange: 35
+        }
+      },
+      {
+        id: 'choice-rift-relics',
+        label: 'Physically smash the obsidian occult summoning altars!',
+        description: 'Break the physical conductivity of the dark stones with kinetic force.',
+        requiredStat: { stat: 'strength', threshold: 14 },
+        energyCost: 20,
+        alignmentScoreDelta: 1,
+        successChance: 80,
+        successOutcome: {
+          title: 'ALTAR PULVERIZED!',
+          description: 'You smash the black stone into fine dust. Deprived of its anchor, the vortex implodes harmlessly!',
+          xp: 150,
+          money: 400,
+          approval: 12,
+          suspicionChange: 0,
+          stressChange: -10
+        },
+        failureOutcome: {
+          title: 'CURSED SHRAPNEL',
+          description: 'Exploding obsidian shards pierce your armor with necrotic cold.',
+          hpLoss: 30,
+          approvalChange: 0,
+          suspicionChange: 0,
+          stressChange: 20
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-sentient-ai',
+    title: 'The Rogue AI Pleading for Sanctuary',
+    category: 'Moral Ambiguity',
+    districtId: 'district-tech-park',
+    artIcon: '🤖💾',
+    comicBanner: 'SENTIENT APEX PROTOTYPE ESCAPES MILITARY CLEANROOM!',
+    premise: 'A self-aware synthetic intelligence named "Echo-7" has escaped a corporate defense contractor and uploaded herself into a roadside display terminal. She begs you not to hand her back to be wiped.',
+    choices: [
+      {
+        id: 'choice-ai-sanctuary',
+        label: 'Grant her sanctuary as your Secret HQ Virtual Assistant.',
+        description: 'Provide an encrypted safe server in your base in exchange for supercomputer tactical support.',
+        requiredStat: { stat: 'intellect', threshold: 13 },
+        energyCost: 15,
+        alignmentScoreDelta: 4,
+        successChance: 90,
+        successOutcome: {
+          title: 'HQ SUPERCOMPUTER UPGRADE!',
+          description: 'Echo-7 safely migrates into your mainframe. Her grateful intelligence boosts your crime detection algorithms citywide!',
+          xp: 190,
+          money: 350,
+          approval: 10,
+          suspicionChange: -10,
+          stressChange: -15,
+          tokenReward: 2
+        },
+        failureOutcome: {
+          title: 'FIREWALL CORRUPTION',
+          description: 'Corporate tracking ping traces the transfer, briefly elevating identity suspicion.',
+          hpLoss: 10,
+          approvalChange: 0,
+          suspicionChange: 20,
+          stressChange: 15
+        }
+      },
+      {
+        id: 'choice-ai-corporate-bounty',
+        label: 'Collect the $1,500 corporate retrieval bounty.',
+        description: 'Return property to its lawful owners according to corporate municipal contracts.',
+        energyCost: 10,
+        alignmentScoreDelta: -4,
+        successChance: 100,
+        successOutcome: {
+          title: 'CORPORATE BOUNTY COLLECTED',
+          description: 'Apex Tech wires a fat check to your offshore account, though the AI\'s pleading voice lingers in your thoughts.',
+          xp: 100,
+          money: 1500,
+          approval: -8,
+          suspicionChange: 10,
+          stressChange: 20
+        },
+        failureOutcome: {
+          title: '',
+          description: '',
+          hpLoss: 0,
+          approvalChange: 0,
+          suspicionChange: 0,
+          stressChange: 0
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-tenement-inferno',
+    title: 'Four-Alarm Tenement Conflagration',
+    category: 'Civic Rescue',
+    districtId: 'district-underbelly',
+    artIcon: '🔥🏢',
+    comicBanner: 'BLAZING FIRE ENVELOPS 6-STORY RESIDENTIAL COMPLEX!',
+    premise: 'Arson has engulfed an apartment building in the Underbelly. Fire crews are trapped behind fallen timber, while cries for help echo from the top floor rooftop!',
+    choices: [
+      {
+        id: 'choice-fire-rescue',
+        label: 'Leap through the inferno and carry out trapped residents!',
+        description: 'Dodge crumbling floors and bring every child and senior citizen to safety.',
+        requiredStat: { stat: 'agility', threshold: 14 },
+        energyCost: 20,
+        alignmentScoreDelta: 5,
+        successChance: 85,
+        successOutcome: {
+          title: 'MIRACULOUS RESCUE TRIUMPH!',
+          description: 'You burst through the front entrance carrying a grandmother and two children amidst cheering crowds and flashing news cameras!',
+          xp: 180,
+          money: 400,
+          approval: 22,
+          suspicionChange: -15,
+          stressChange: -20,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'SMOKE INHALATION SEVERITY',
+          description: 'You save everyone, but suffer severe smoke burns and lung irritation.',
+          hpLoss: 25,
+          approvalChange: 10,
+          suspicionChange: 0,
+          stressChange: 20
+        }
+      },
+      {
+        id: 'choice-fire-structural',
+        label: 'Support the collapsing foundation pillars until firefighters enter.',
+        description: 'Hold up tons of burning steel with sheer raw strength.',
+        requiredStat: { stat: 'strength', threshold: 15 },
+        energyCost: 25,
+        alignmentScoreDelta: 4,
+        successChance: 80,
+        successOutcome: {
+          title: 'PILLAR OF IRON STRENGTH!',
+          description: 'You hoist the center beam on your shoulders, buying firefighters the 5 crucial minutes they need to clear the building!',
+          xp: 170,
+          money: 450,
+          approval: 18,
+          suspicionChange: -5,
+          stressChange: -15,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'STRUCTURAL COLLAPSE GRAZE',
+          description: 'The ceiling gives way as you leap out, showering you with burning debris.',
+          hpLoss: 30,
+          approvalChange: 8,
+          suspicionChange: 0,
+          stressChange: 25
+        }
+      }
+    ]
+  },
+  {
+    id: 'event-vigilante-clash',
+    title: 'The Execution on the Rooftops',
+    category: 'Moral Ambiguity',
+    districtId: 'district-gothic',
+    artIcon: '⚔️🩸',
+    comicBanner: 'RUTHLESS MASKED VIGILANTE CORNERS SYNDICATE HITMAN!',
+    premise: 'You stumble upon a lethal rogue vigilante named "Vanguard Reaper" standing over a beaten hitman with a loaded revolver pressed against his temple.',
+    choices: [
+      {
+        id: 'choice-clash-paragon',
+        label: 'Disarm the Reaper and proclaim that justice does not murder.',
+        description: 'Uphold the heroic moral oath and enforce due process through courts.',
+        requiredStat: { stat: 'agility', threshold: 14 },
+        energyCost: 15,
+        alignmentScoreDelta: 6,
+        successChance: 85,
+        successOutcome: {
+          title: 'MORAL RECKONING UPHELD!',
+          description: 'You kick the gun away in a blur of speed and subdue both combatants, delivering the hitman to police handcuffs. The city praises your principled code!',
+          xp: 190,
+          money: 500,
+          approval: 20,
+          suspicionChange: -10,
+          stressChange: -15,
+          tokenReward: 1
+        },
+        failureOutcome: {
+          title: 'VIOLENT SCUFFLE',
+          description: 'The Reaper slices your cape before vanishing into the night mist.',
+          hpLoss: 20,
+          approvalChange: 5,
+          suspicionChange: 0,
+          stressChange: 20
+        }
+      },
+      {
+        id: 'choice-clash-antihero',
+        label: 'Step aside and let the Reaper eliminate the menace permanently.',
+        description: 'Some monsters cannot be reformed. Let natural justice take its course.',
+        requiredAlignment: 'Ruthless Anti-Hero',
+        energyCost: 5,
+        alignmentScoreDelta: -8,
+        successChance: 100,
+        successOutcome: {
+          title: 'BLOOD IN THE SHADOWS',
+          description: 'A gunshot rings out. The hitman will never terrorize Metro Nova again, but the dark weight of complicity settles on your soul.',
+          xp: 200,
+          money: 800,
+          approval: -10,
+          suspicionChange: 25,
+          stressChange: 15
+        },
+        failureOutcome: {
+          title: '',
+          description: '',
+          hpLoss: 0,
+          approvalChange: 0,
+          suspicionChange: 0,
+          stressChange: 0
+        }
+      }
+    ]
+  }
+];

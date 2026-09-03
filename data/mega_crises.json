@@ -1,0 +1,118 @@
+[
+  {
+    "id": "crisis-dark-sun",
+    "title": "THE BLACK SUN INCURSION",
+    "codename": "CRISIS CODE: OBLIVION DAWN",
+    "description": "An extraterrestrial dreadnought fleet under the command of Null Void has enveloped the upper atmosphere of Metro Nova, threatening to trigger a permanent dark matter eclipse!",
+    "type": "CosmicSingularity",
+    "threatLevel": 35,
+    "isActive": true,
+    "resolved": false,
+    "currentStageIndex": 0,
+    "participatingVillains": [
+      "villain-null-void",
+      "villain-queen-pyre"
+    ],
+    "affectedDistricts": [
+      "district-downtown",
+      "district-underbelly",
+      "district-tech-park"
+    ],
+    "loreHeadline": "COSMIC ANOMALY COVERS SKY: MAYOR DECLARES MARTIAL LAW",
+    "rewards": {
+      "xp": 2500,
+      "money": 10000,
+      "approval": 45,
+      "heroTokens": 25,
+      "commemorativeBadge": "🌟 Savior of the Black Sun Crossover"
+    },
+    "stages": [
+      {
+        "id": "stage-1",
+        "name": "Stage I: Downtown Civilian Evacuation & Shield Defenses",
+        "description": "Evacuate 500 pinned civilians from collapsing skyscrapers and establish hard-light perimeter shields.",
+        "objectiveType": "Evacuate",
+        "targetCount": 3,
+        "currentCount": 0,
+        "completed": false
+      },
+      {
+        "id": "stage-2",
+        "name": "Stage II: Dismantle the Dark Tachyon Generators",
+        "description": "Raid the subterranean energy nodes powering the orbital invasion beam.",
+        "objectiveType": "Combat",
+        "targetCount": 2,
+        "currentCount": 0,
+        "completed": false
+      },
+      {
+        "id": "stage-3",
+        "name": "Stage III: Alliance Orbital Flagship Strike (Climax)",
+        "description": "Board the Dreadnought flagship with your alliance team and defeat Null Void in an epic showdown!",
+        "objectiveType": "Combat",
+        "targetCount": 1,
+        "currentCount": 0,
+        "bossVillainId": "villain-null-void",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "crisis-nanite-surge",
+    "title": "PROJECT GORGONNET: NANITE PLAGUEWAVE",
+    "codename": "CRISIS CODE: CYBER-APOCALYPSE",
+    "description": "Cyber-Gorgon has transmitted an infectious neural virus across the municipal smart-grid, converting city police mechs and transit trains into autonomous kill-bots.",
+    "type": "CyberPlague",
+    "threatLevel": 20,
+    "isActive": false,
+    "resolved": false,
+    "currentStageIndex": 0,
+    "participatingVillains": [
+      "villain-cyber-gorgon",
+      "villain-iron-juggernaut"
+    ],
+    "affectedDistricts": [
+      "district-tech-park",
+      "district-neon",
+      "district-docklands"
+    ],
+    "loreHeadline": "ROGUE AUTOMATED DEFENSES TURN AGAINST CIVILIANS",
+    "rewards": {
+      "xp": 2200,
+      "money": 8500,
+      "approval": 40,
+      "heroTokens": 20,
+      "commemorativeBadge": "⚡ Circuit Savior Medal"
+    },
+    "stages": [
+      {
+        "id": "stage-gorgon-1",
+        "name": "Stage I: Neutralize Infected Mech Patrols",
+        "description": "Defeat 4 rogue cybernetic heavy drones rampaging through the Neon District.",
+        "objectiveType": "Combat",
+        "targetCount": 4,
+        "currentCount": 0,
+        "completed": false
+      },
+      {
+        "id": "stage-gorgon-2",
+        "name": "Stage II: Upload EMP Firewall to Central Mainframe",
+        "description": "Infiltrate Aero-Tech Park and upload the countermeasures.",
+        "objectiveType": "Investigation",
+        "targetCount": 2,
+        "currentCount": 0,
+        "completed": false
+      },
+      {
+        "id": "stage-gorgon-3",
+        "name": "Stage III: Confront Cyber-Gorgon Prime at the Apex Core",
+        "description": "Engage Cyber-Gorgon in the heart of the infected supercomputer chamber.",
+        "objectiveType": "Combat",
+        "targetCount": 1,
+        "currentCount": 0,
+        "bossVillainId": "villain-cyber-gorgon",
+        "completed": false
+      }
+    ]
+  }
+]

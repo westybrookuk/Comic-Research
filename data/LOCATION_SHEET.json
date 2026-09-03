@@ -1,0 +1,151 @@
+{
+  "districts": [
+    {
+      "id": "district-downtown",
+      "name": "Downtown Metropolis",
+      "theme": "Glass skyscrapers, financial towers, media headquarters, and crowded avenues.",
+      "description": "The bustling heart of Metro Nova. High public visibility, massive comic press exposure, but bank heists and hostage crises are frequent.",
+      "icon": "Building2",
+      "dangerLevel": "Medium",
+      "crimeRate": 35
+    },
+    {
+      "id": "district-docklands",
+      "name": "The Iron Docklands",
+      "theme": "Heavy industrial shipping yards, rusting cranes, cargo warehouses, and shadowy docks.",
+      "description": "A hotbed for arms smuggling, illicit tech trafficking, and brute mob enforcers.",
+      "icon": "Anchor",
+      "dangerLevel": "High",
+      "crimeRate": 58
+    },
+    {
+      "id": "district-neon",
+      "name": "Neon District",
+      "theme": "Cyberpunk glow, holographic billboards, underground clubs, and high-tech black markets.",
+      "description": "Vibrant nightlife paired with data heists, neural hacking, and flashy rogue turf wars.",
+      "icon": "Sparkles",
+      "dangerLevel": "Medium",
+      "crimeRate": 45
+    },
+    {
+      "id": "district-gothic",
+      "name": "Gothic Quarter & Asylum",
+      "theme": "Victorian gargoyles, mist-draped alleys, ancient cathedrals, and the maximum-security Blackgate Asylum.",
+      "description": "Occult rituals, supervillain breakout attempts, and psychological terror lurk behind every foggy corner.",
+      "icon": "Skull",
+      "dangerLevel": "High",
+      "crimeRate": 68
+    },
+    {
+      "id": "district-tech-park",
+      "name": "Aero-Tech Research Park",
+      "theme": "Clean minimalist science campuses, fusion generators, cleanrooms, and orbital transport pads.",
+      "description": "Frequent target of corporate espionage, high-end power prototype thefts, and rogue AI meltdowns.",
+      "icon": "Cpu",
+      "dangerLevel": "Low",
+      "crimeRate": 25
+    },
+    {
+      "id": "district-underbelly",
+      "name": "Subterranean Underbelly",
+      "theme": "Abandoned subway tunnels, radioactive runoff conduits, toxic subterranean bunkers.",
+      "description": "The lawless subterranean frontier where mutated renegades and exiled supervillains build doomsday machines.",
+      "icon": "Flame",
+      "dangerLevel": "Extreme",
+      "crimeRate": 75
+    }
+  ],
+  "rebuilding_sites": [
+    {
+      "id": "proj-downtown-bridge",
+      "district": "Downtown Metropolis",
+      "facility": "Metro Central Sky-Bridge & Monorail",
+      "description": "Repair structural steel spans damaged during heavy battle with supervillains."
+    },
+    {
+      "id": "proj-docklands-filtration",
+      "district": "The Iron Docklands",
+      "facility": "Harbor Water & Chemical Detox Grid",
+      "description": "Cleanse contaminated runoff tanks following arms syndicate clashes."
+    },
+    {
+      "id": "proj-gothic-cathedral",
+      "district": "Gothic Quarter & Asylum",
+      "facility": "St. Jude Heritage Medical Clinic",
+      "description": "Restore emergency trauma center serving low-income families and asylum staff."
+    },
+    {
+      "id": "proj-neon-grid",
+      "district": "Neon District",
+      "facility": "Holographic Communications Sub-Station",
+      "description": "Reboot fiber-optic relays disrupted by cybernetic EMP grenades."
+    }
+  ],
+  "alliance_headquarters": [
+    {
+      "alliance": "The Apex Vanguard",
+      "headquarters": "Apex Citadel, Orbiting Sky-Tower"
+    },
+    {
+      "alliance": "Street Knights Coalition",
+      "headquarters": "The Belfry, Gothic Quarter"
+    },
+    {
+      "alliance": "Aegis Tech Syndicate",
+      "headquarters": "Helix Labs R&D Complex"
+    },
+    {
+      "alliance": "The Arcane Enclave",
+      "headquarters": "Sanctum Arcanum"
+    }
+  ],
+  "date_locations": [
+    {
+      "id": "date-chloe-cafe",
+      "name": "Candlelit Espresso & Sketching at Roaster's Haven",
+      "location": "Roaster's Haven Café, Downtown",
+      "partner": "Chloe Rivera"
+    },
+    {
+      "id": "date-sarah-observatory",
+      "name": "Helios Celestial Observatory Rooftop Gala",
+      "location": "Helios Observatory, High District",
+      "partner": "Dr. Sarah Sterling"
+    },
+    {
+      "id": "date-liam-jazz",
+      "name": "Midnight Vinyl & Drinks at The Blue Note",
+      "location": "The Blue Note Lounge, Neon District",
+      "partner": "Liam Vance"
+    }
+  ],
+  "lair_dungeons": [
+    {
+      "id": "lair-null-void",
+      "villainId": "villain-null-void",
+      "villainName": "Null Void",
+      "lairTitle": "Quantum Graviton Citadel",
+      "theme": "Quantum Citadel",
+      "bgGradient": "from-purple-950 via-indigo-950 to-slate-950",
+      "threatLevel": "Omega-Level",
+      "loreDescription": "An inverted skyscraper hovering inside a localized spacetime rift. Gravity shifts violently between chambers.",
+      "cutsceneId": "cutscene-nullvoid-preboss"
+    },
+    {
+      "id": "lair-queen-pyre",
+      "villainId": "villain-queen-pyre",
+      "villainName": "Queen Pyre",
+      "lairTitle": "Volcanic Steel Foundry",
+      "theme": "Volcanic Foundry",
+      "bgGradient": "from-red-950 via-amber-950 to-stone-950",
+      "threatLevel": "Catastrophic",
+      "loreDescription": "An abandoned steel mill retrofitted into an active geothermal magma foundry.",
+      "cutsceneId": "cutscene-pyre-foundry"
+    }
+  ],
+  "cutscene_backdrops": [
+    "QuantumCore",
+    "VolcanoLair",
+    "CafeInterior"
+  ]
+}

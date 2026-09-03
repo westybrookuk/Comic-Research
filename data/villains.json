@@ -1,0 +1,700 @@
+[
+  {
+    "id": "villain-null-void",
+    "name": "Null Void",
+    "alias": "Victor Vance",
+    "dangerTier": "City Scourge",
+    "category": "Cosmic",
+    "backstory": "Former particle physicist consumed by dark matter during an antimatter collider disaster. Believes the universe must return to peaceful absolute nothingness.",
+    "motive": "Devour Metro Nova in a miniature black hole singularity.",
+    "stats": {
+      "strength": 14,
+      "agility": 15,
+      "intellect": 18,
+      "fortitude": 16,
+      "willpower": 18,
+      "charisma": 12
+    },
+    "maxHp": 220,
+    "currentHp": 220,
+    "armor": 20,
+    "powers": [
+      {
+        "id": "power-eldritch-bolt",
+        "name": "Eldritch Flame",
+        "category": "Mystic",
+        "type": "Ranged",
+        "energyCost": 22,
+        "cooldown": 0,
+        "damage": 30,
+        "accuracy": 90,
+        "critChance": 20,
+        "statusEffects": [
+          "Burn",
+          "Confused"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 6,
+        "description": "Casts an otherworldly purple flame that burns both body and soul.",
+        "flavorQuote": "By the ancient seals, be purged!",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 160,
+        "animationType": "darkness"
+      },
+      {
+        "id": "power-astral-chains",
+        "name": "Astral Binding Chains",
+        "category": "Mystic",
+        "type": "Debuff",
+        "energyCost": 30,
+        "cooldown": 2,
+        "damage": 22,
+        "accuracy": 95,
+        "critChance": 10,
+        "statusEffects": [
+          "Webbed",
+          "Weakened"
+        ],
+        "statusDuration": 3,
+        "statusPotency": 10,
+        "description": "Summons spectral sigil chains that entangle and sap the foe of their strength.",
+        "flavorQuote": "You cannot sever chains forged in the Nether-Realm.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 240,
+        "animationType": "darkness"
+      },
+      {
+        "id": "power-cosmic-vortex",
+        "name": "Void Rift Singularity",
+        "category": "Mystic",
+        "type": "Ultimate",
+        "energyCost": 80,
+        "cooldown": 4,
+        "damage": 125,
+        "accuracy": 95,
+        "critChance": 35,
+        "statusEffects": [
+          "Confused",
+          "Weakened",
+          "Burn"
+        ],
+        "statusDuration": 3,
+        "statusPotency": 12,
+        "description": "Ultimate Power: Opens a tear to the dimensional void, devouring enemy resistance.",
+        "flavorQuote": "Gaze into infinity and weep!",
+        "unlocked": false,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 550,
+        "animationType": "darkness"
+      }
+    ],
+    "avatarIcon": "🕳️",
+    "color": "#3B0764",
+    "status": "Plotting",
+    "timesDefeated": 0,
+    "escapedCount": 1,
+    "nemesisScore": 35,
+    "grudgeLevel": 40,
+    "isNemesisPrime": true,
+    "breakoutRisk": 30,
+    "adaptations": [
+      {
+        "type": "Thermal Kinetic Coating",
+        "description": "Absorbs 40% incoming Energy and Fire damage.",
+        "counterCategory": "Energy"
+      }
+    ],
+    "defeatHistory": [],
+    "activeMasterplanId": "plan-singularity",
+    "quips": [
+      "Your light is merely a brief spark before eternal darkness!",
+      "All atoms will bow before the void!",
+      "You cannot punch an event horizon, hero!"
+    ]
+  },
+  {
+    "id": "villain-queen-pyre",
+    "name": "Queen Pyre",
+    "alias": "Ignacia Drake",
+    "dangerTier": "Supervillain",
+    "category": "Energy",
+    "backstory": "A pyromancer who leads the Inferno Syndicate, ruling the underground black market with an iron and fiery fist.",
+    "motive": "Extort the city government by threatening to ignite the subterranean fuel reserves.",
+    "stats": {
+      "strength": 12,
+      "agility": 16,
+      "intellect": 15,
+      "fortitude": 14,
+      "willpower": 16,
+      "charisma": 17
+    },
+    "maxHp": 180,
+    "currentHp": 180,
+    "armor": 14,
+    "powers": [
+      {
+        "id": "power-solar-beam",
+        "name": "Solar Beam",
+        "category": "Energy",
+        "type": "Ranged",
+        "energyCost": 20,
+        "cooldown": 0,
+        "damage": 28,
+        "accuracy": 95,
+        "critChance": 15,
+        "statusEffects": [
+          "Burn"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 6,
+        "description": "Channels concentrated solar radiation into a devastating focused beam.",
+        "flavorQuote": "Taste the brilliance of a thousand suns!",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 150,
+        "animationType": "laser"
+      },
+      {
+        "id": "power-plasma-burst",
+        "name": "Plasma Burst",
+        "category": "Energy",
+        "type": "Ranged",
+        "energyCost": 35,
+        "cooldown": 2,
+        "damage": 48,
+        "accuracy": 90,
+        "critChance": 25,
+        "statusEffects": [
+          "Burn"
+        ],
+        "statusDuration": 3,
+        "statusPotency": 10,
+        "description": "Fires an unstable sphere of superheated plasma that explodes on impact.",
+        "flavorQuote": "Warning: volatile thermal reaction imminent.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 250,
+        "animationType": "fire"
+      },
+      {
+        "id": "power-supernova-blast",
+        "name": "Supernova Genesis",
+        "category": "Energy",
+        "type": "Ultimate",
+        "energyCost": 75,
+        "cooldown": 4,
+        "damage": 110,
+        "accuracy": 100,
+        "critChance": 35,
+        "statusEffects": [
+          "Burn",
+          "Stun"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 15,
+        "description": "Ultimate Power: Gathers cosmic energy and releases a blinding cataclysmic blast.",
+        "flavorQuote": "Behold the dawn of total victory!",
+        "unlocked": false,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 500,
+        "animationType": "laser"
+      }
+    ],
+    "avatarIcon": "🔥",
+    "color": "#DC2626",
+    "status": "At Large",
+    "timesDefeated": 1,
+    "escapedCount": 1,
+    "nemesisScore": 30,
+    "grudgeLevel": 55,
+    "breakoutRisk": 45,
+    "adaptations": [
+      {
+        "type": "Reflex Neural Enhancers",
+        "description": "+25% Evasion against physical strikes.",
+        "counterCategory": "Agility"
+      }
+    ],
+    "defeatHistory": [
+      {
+        "day": 1,
+        "heroName": "Solaris",
+        "primaryPowerUsed": "Solar Beam",
+        "injuryInflicted": "Third-degree retinal burn on right eye"
+      }
+    ],
+    "activeMasterplanId": "plan-inferno",
+    "quips": [
+      "Is it getting warm in here, or is that just your impending defeat?",
+      "Metro Nova was built to burn!",
+      "Bow before the queen of flames!"
+    ]
+  },
+  {
+    "id": "villain-cyber-gorgon",
+    "name": "Cyber-Gorgon",
+    "alias": "Dr. Evelyn Cross",
+    "dangerTier": "Supervillain",
+    "category": "Tech",
+    "backstory": "An outcast cybernetics researcher who replaced her organic nervous system with a self-evolving neural network and venomous micro-drones.",
+    "motive": "Infect the city's central AI grid and convert citizens into augmented drones.",
+    "stats": {
+      "strength": 15,
+      "agility": 14,
+      "intellect": 20,
+      "fortitude": 15,
+      "willpower": 14,
+      "charisma": 11
+    },
+    "maxHp": 195,
+    "currentHp": 195,
+    "armor": 22,
+    "powers": [
+      {
+        "id": "power-emp-grenade",
+        "name": "Volt EMP Grenade",
+        "category": "Tech",
+        "type": "Ranged",
+        "energyCost": 20,
+        "cooldown": 1,
+        "damage": 24,
+        "accuracy": 95,
+        "critChance": 15,
+        "statusEffects": [
+          "Stun"
+        ],
+        "statusDuration": 1,
+        "statusPotency": 0,
+        "description": "Hurls an electro-magnetic pulse grenade that scrambles tech and shocks nervous systems.",
+        "flavorQuote": "System reboot in 3... 2... 1.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 150,
+        "animationType": "lightning"
+      },
+      {
+        "id": "power-micro-missiles",
+        "name": "Swarm Micro-Missiles",
+        "category": "Tech",
+        "type": "Ranged",
+        "energyCost": 40,
+        "cooldown": 2,
+        "damage": 52,
+        "accuracy": 92,
+        "critChance": 25,
+        "statusEffects": [
+          "Burn",
+          "Bleed"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 8,
+        "description": "Fires a volley of heat-seeking micro-warheads with surgical precision.",
+        "flavorQuote": "Target lock confirmed. Firing full payload.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 280,
+        "animationType": "tech"
+      },
+      {
+        "id": "power-orbital-cannon",
+        "name": "Orbital Strike Protocol",
+        "category": "Tech",
+        "type": "Ultimate",
+        "energyCost": 80,
+        "cooldown": 4,
+        "damage": 130,
+        "accuracy": 95,
+        "critChance": 40,
+        "statusEffects": [
+          "Burn",
+          "Stun"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 15,
+        "description": "Ultimate Power: Designates coordinates for an Apex satellite particle beam bombardment.",
+        "flavorQuote": "Orbital beam calibrated. Cleanse the grid.",
+        "unlocked": false,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 550,
+        "animationType": "tech"
+      }
+    ],
+    "avatarIcon": "🤖",
+    "color": "#059669",
+    "status": "At Large",
+    "timesDefeated": 0,
+    "escapedCount": 0,
+    "nemesisScore": 25,
+    "grudgeLevel": 20,
+    "breakoutRisk": 25,
+    "adaptations": [
+      {
+        "type": "Anti-EM Faraday Plating",
+        "description": "Immune to Stun and -40% Tech damage.",
+        "counterCategory": "Tech"
+      }
+    ],
+    "defeatHistory": [],
+    "activeMasterplanId": "plan-grid-lock",
+    "quips": [
+      "Flesh is weak. Logic is eternal.",
+      "Analyzing attack vector... probability of your survival: 0.04%.",
+      "Uploading your obsolescence now."
+    ]
+  },
+  {
+    "id": "villain-iron-juggernaut",
+    "name": "Iron Juggernaut",
+    "alias": "Boris Vance",
+    "dangerTier": "Local Menace",
+    "category": "Brawn",
+    "backstory": "A disgraced mercenary clad in heavy hydraulic power-armor, specialized in high-risk armored bank heists and demolitions.",
+    "motive": "Rob the Federal Depository and crush any cape who dares stand in his path.",
+    "stats": {
+      "strength": 19,
+      "agility": 9,
+      "intellect": 10,
+      "fortitude": 19,
+      "willpower": 13,
+      "charisma": 10
+    },
+    "maxHp": 210,
+    "currentHp": 210,
+    "armor": 30,
+    "powers": [
+      {
+        "id": "power-heavy-strike",
+        "name": "Meteor Punch",
+        "category": "Brawn",
+        "type": "Melee",
+        "energyCost": 15,
+        "cooldown": 0,
+        "damage": 26,
+        "accuracy": 95,
+        "critChance": 20,
+        "statusEffects": [
+          "Weakened"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 5,
+        "description": "A thunderous punch delivered with superhuman kinetic force.",
+        "flavorQuote": "Feel the weight of raw justice!",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 150,
+        "animationType": "punch"
+      },
+      {
+        "id": "power-ground-slam",
+        "name": "Tectonic Slam",
+        "category": "Brawn",
+        "type": "Melee",
+        "energyCost": 35,
+        "cooldown": 2,
+        "damage": 42,
+        "accuracy": 90,
+        "critChance": 15,
+        "statusEffects": [
+          "Stun"
+        ],
+        "statusDuration": 1,
+        "statusPotency": 0,
+        "description": "Smashes both fists into the pavement, creating shockwaves that rattle all foes.",
+        "flavorQuote": "Earthquake incoming!",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 250,
+        "animationType": "punch"
+      },
+      {
+        "id": "power-iron-fortitude",
+        "name": "Adamantine Stance",
+        "category": "Brawn",
+        "type": "Buff",
+        "energyCost": 20,
+        "cooldown": 3,
+        "damage": 0,
+        "healing": 25,
+        "shield": 30,
+        "accuracy": 100,
+        "critChance": 0,
+        "statusEffects": [
+          "Empowered",
+          "Regenerating"
+        ],
+        "statusDuration": 3,
+        "statusPotency": 10,
+        "description": "Hardens muscles to steel density, recovering health and increasing defense.",
+        "flavorQuote": "I can do this all day.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 220,
+        "animationType": "shield"
+      }
+    ],
+    "avatarIcon": "🦾",
+    "color": "#4B5563",
+    "status": "At Large",
+    "timesDefeated": 0,
+    "escapedCount": 0,
+    "nemesisScore": 15,
+    "grudgeLevel": 15,
+    "breakoutRisk": 20,
+    "adaptations": [
+      {
+        "type": "Hydraulic Muscle Weave",
+        "description": "-40% damage from Melee & Brawn attacks.",
+        "counterCategory": "Brawn"
+      }
+    ],
+    "defeatHistory": [],
+    "quips": [
+      "You're like a fly on my reinforced titanium plating!",
+      "Time to smash some superhero skulls!",
+      "Out of my way, runt!"
+    ]
+  },
+  {
+    "id": "villain-madame-mirage",
+    "name": "Madame Mirage",
+    "alias": "Selene Moreau",
+    "dangerTier": "Supervillain",
+    "category": "Psionic",
+    "backstory": "A master psionic illusionist and international jewel thief who manipulates memories and bends sensory reality to execute impossible heists.",
+    "motive": "Steal the Astral Diamond and frame the city's superhero league for the crime.",
+    "stats": {
+      "strength": 10,
+      "agility": 18,
+      "intellect": 17,
+      "fortitude": 12,
+      "willpower": 19,
+      "charisma": 18
+    },
+    "maxHp": 165,
+    "currentHp": 165,
+    "armor": 12,
+    "powers": [
+      {
+        "id": "power-mind-flay",
+        "name": "Psionic Spike",
+        "category": "Psionic",
+        "type": "Ranged",
+        "energyCost": 20,
+        "cooldown": 0,
+        "damage": 27,
+        "accuracy": 98,
+        "critChance": 20,
+        "statusEffects": [
+          "Confused"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 8,
+        "description": "Drives a sharp spear of pure psychic willpower straight into the mind.",
+        "flavorQuote": "Your thoughts betray you.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 150,
+        "animationType": "psychic"
+      },
+      {
+        "id": "power-smoke-vanish",
+        "name": "Smoke Shroud Evade",
+        "category": "Agility",
+        "type": "Buff",
+        "energyCost": 20,
+        "cooldown": 2,
+        "damage": 0,
+        "shield": 35,
+        "accuracy": 100,
+        "critChance": 0,
+        "statusEffects": [
+          "Shielded",
+          "Empowered"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 20,
+        "description": "Drops a high-density smoke canister, confusing attackers and bolstering counter-attacks.",
+        "flavorQuote": "Now you see me... now you don't.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 180,
+        "animationType": "darkness"
+      },
+      {
+        "id": "power-psychic-cataclysm",
+        "name": "Synaptic Supernova",
+        "category": "Psionic",
+        "type": "Ultimate",
+        "energyCost": 75,
+        "cooldown": 4,
+        "damage": 115,
+        "accuracy": 100,
+        "critChance": 30,
+        "statusEffects": [
+          "Confused",
+          "Stun"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 15,
+        "description": "Ultimate Power: Radiates an overwhelming psionic wave that overwhelms all enemy mental faculties.",
+        "flavorQuote": "Total neurological collapse!",
+        "unlocked": false,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 520,
+        "animationType": "psychic"
+      }
+    ],
+    "avatarIcon": "🎭",
+    "color": "#9333EA",
+    "status": "At Large",
+    "timesDefeated": 0,
+    "escapedCount": 0,
+    "nemesisScore": 20,
+    "grudgeLevel": 10,
+    "breakoutRisk": 35,
+    "adaptations": [
+      {
+        "type": "Obsidian Mind Aegis",
+        "description": "Immune to Confusion and -40% Psionic damage.",
+        "counterCategory": "Psionic"
+      }
+    ],
+    "defeatHistory": [],
+    "quips": [
+      "Are you sure what you are seeing is real?",
+      "A hero blinded by their own self-righteous illusions.",
+      "You struck a phantom, darling."
+    ]
+  },
+  {
+    "id": "villain-chronos-master",
+    "name": "Chronos Master",
+    "alias": "Professor Tiberius Vance",
+    "dangerTier": "Cosmic Threat",
+    "category": "Tech",
+    "backstory": "A mad temporal physicist who created a localized tachyon time-distortion harness to manipulate entropy and conquer all timelines.",
+    "motive": "Rewind Metro Nova to 1920 to rule it as an immortal temporal monarch.",
+    "stats": {
+      "strength": 11,
+      "agility": 19,
+      "intellect": 20,
+      "fortitude": 15,
+      "willpower": 17,
+      "charisma": 15
+    },
+    "maxHp": 240,
+    "currentHp": 240,
+    "armor": 22,
+    "powers": [
+      {
+        "id": "power-lightning-kick",
+        "name": "Hyper-Sonic Sweep",
+        "category": "Agility",
+        "type": "Melee",
+        "energyCost": 32,
+        "cooldown": 1,
+        "damage": 44,
+        "accuracy": 94,
+        "critChance": 25,
+        "statusEffects": [
+          "Stun"
+        ],
+        "statusDuration": 1,
+        "statusPotency": 0,
+        "description": "Executes a spinning roundhouse kick at near supersonic speed.",
+        "flavorQuote": "Did the breeze catch you?",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 240,
+        "animationType": "sonic"
+      },
+      {
+        "id": "power-orbital-cannon",
+        "name": "Orbital Strike Protocol",
+        "category": "Tech",
+        "type": "Ultimate",
+        "energyCost": 80,
+        "cooldown": 4,
+        "damage": 130,
+        "accuracy": 95,
+        "critChance": 40,
+        "statusEffects": [
+          "Burn",
+          "Stun"
+        ],
+        "statusDuration": 2,
+        "statusPotency": 15,
+        "description": "Ultimate Power: Designates coordinates for an Apex satellite particle beam bombardment.",
+        "flavorQuote": "Orbital beam calibrated. Cleanse the grid.",
+        "unlocked": false,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 550,
+        "animationType": "tech"
+      },
+      {
+        "id": "power-astral-chains",
+        "name": "Astral Binding Chains",
+        "category": "Mystic",
+        "type": "Debuff",
+        "energyCost": 30,
+        "cooldown": 2,
+        "damage": 22,
+        "accuracy": 95,
+        "critChance": 10,
+        "statusEffects": [
+          "Webbed",
+          "Weakened"
+        ],
+        "statusDuration": 3,
+        "statusPotency": 10,
+        "description": "Summons spectral sigil chains that entangle and sap the foe of their strength.",
+        "flavorQuote": "You cannot sever chains forged in the Nether-Realm.",
+        "unlocked": true,
+        "level": 1,
+        "maxLevel": 5,
+        "upgradeCost": 240,
+        "animationType": "darkness"
+      }
+    ],
+    "avatarIcon": "⏳",
+    "color": "#CA8A04",
+    "status": "Plotting",
+    "timesDefeated": 0,
+    "escapedCount": 0,
+    "nemesisScore": 40,
+    "grudgeLevel": 50,
+    "breakoutRisk": 50,
+    "adaptations": [
+      {
+        "type": "Runic Warding Glyphs",
+        "description": "-40% damage from Arcane and Mystic spells.",
+        "counterCategory": "Mystic"
+      }
+    ],
+    "defeatHistory": [],
+    "quips": [
+      "I have already seen every move you will ever make.",
+      "Your defeat was written three minutes ago in my ledger.",
+      "Time ticks onward, hero!"
+    ]
+  }
+]

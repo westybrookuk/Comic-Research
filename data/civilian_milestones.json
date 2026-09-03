@@ -1,0 +1,48 @@
+[
+  {
+    "id": "milestone-apartment",
+    "title": "Downtown Penthouse / Loft Lease",
+    "category": "Personal",
+    "isUnlocked": true,
+    "dayAchieved": 1,
+    "description": "Secured a personal civilian residence in Metro Nova with a secret rooftop access hatch.",
+    "rewardPerk": "-10% Daily Stress accumulation",
+    "icon": "Home"
+  },
+  {
+    "id": "milestone-promotion",
+    "title": "Senior Career Promotion",
+    "category": "Career",
+    "isUnlocked": false,
+    "description": "Achieved high performance reviews at your civilian workplace, earning elevated salary bonuses.",
+    "rewardPerk": "+25% Weekly Day Job Salary",
+    "icon": "Briefcase"
+  },
+  {
+    "id": "milestone-first-date",
+    "title": "First Romantic Skyline Date",
+    "category": "Romance",
+    "isUnlocked": false,
+    "description": "Shared an intimate candlelit rooftop evening with your civilian love interest.",
+    "rewardPerk": "Homemade lunch box restores +20 AP daily",
+    "icon": "Heart"
+  },
+  {
+    "id": "milestone-birthday",
+    "title": "Surprise Birthday Party",
+    "category": "Social",
+    "isUnlocked": false,
+    "description": "Celebrated with childhood friends and colleagues, grounding your human identity.",
+    "rewardPerk": "Reduces Identity Suspicion by 20%",
+    "icon": "Gift"
+  },
+  {
+    "id": "milestone-mayoral-medal",
+    "title": "Mayor’s Key to Metro Nova",
+    "category": "Social",
+    "isUnlocked": false,
+    "description": "Received official municipal recognition for outstanding civic contributions.",
+    "rewardPerk": "+15% Public Approval and +10% Comic Sales",
+    "icon": "Award"
+  }
+]

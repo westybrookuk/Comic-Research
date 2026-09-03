@@ -1,0 +1,47 @@
+[
+  {
+    "id": "plan-singularity",
+    "villainId": "villain-null-void",
+    "name": "Operation Dark Horizon: Singularity Event",
+    "description": "Null Void is stealing high-energy tachyon cores to trigger an artificial dark matter rift beneath Downtown.",
+    "progress": 45,
+    "cluesDiscovered": 1,
+    "maxClues": 4,
+    "districtId": "district-downtown",
+    "doomPenalty": "Downtown suffers catastrophic destruction and Public Approval drops by 40%.",
+    "bossEncounterReady": false,
+    "rewardMoney": 3000,
+    "rewardXp": 800,
+    "rewardTokens": 10
+  },
+  {
+    "id": "plan-inferno",
+    "villainId": "villain-queen-pyre",
+    "name": "Wildfire Extortion: Sub-City Conflagration",
+    "description": "Queen Pyre has rigged the natural gas mains in the Docklands with incendiary thermite charges.",
+    "progress": 30,
+    "cluesDiscovered": 2,
+    "maxClues": 3,
+    "districtId": "district-docklands",
+    "doomPenalty": "Docklands infrastructure collapses, crippling city economy and player daily salary.",
+    "bossEncounterReady": false,
+    "rewardMoney": 2200,
+    "rewardXp": 600,
+    "rewardTokens": 8
+  },
+  {
+    "id": "plan-grid-lock",
+    "villainId": "villain-cyber-gorgon",
+    "name": "Neural Lockdown: Project GorgonNet",
+    "description": "Cyber-Gorgon is compiling a viral backdoor into the Aero-Tech mainframe to enslave all city cybernetics.",
+    "progress": 20,
+    "cluesDiscovered": 0,
+    "maxClues": 4,
+    "districtId": "district-tech-park",
+    "doomPenalty": "All high-tech equipment jammed and city emergency response paralyzed.",
+    "bossEncounterReady": false,
+    "rewardMoney": 2500,
+    "rewardXp": 650,
+    "rewardTokens": 8
+  }
+]

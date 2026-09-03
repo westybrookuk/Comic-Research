@@ -1,0 +1,68 @@
+[
+  {
+    "origin": "Cosmic Awakening",
+    "title": "Interstellar Destiny",
+    "summary": "A freak solar flare or alien artifact infused you with celestial energy.",
+    "primaryStats": "Fortitude +3, Willpower +3, Strength +2",
+    "startingPowers": [
+      "Solar Beam",
+      "Photon Barrier"
+    ],
+    "lore": "You were an ordinary person until an anomaly in the night sky chose you. Radiant light flows through your veins, demanding you stand as a guardian of Earth."
+  },
+  {
+    "origin": "Billionaire Vigilante",
+    "title": "The Dark Crusade",
+    "summary": "Armed with vast wealth, peak human intellect, and cutting-edge military tech.",
+    "primaryStats": "Intellect +4, Agility +3, Charisma +2",
+    "startingPowers": [
+      "Shadow Flurry",
+      "Volt EMP Grenade"
+    ],
+    "lore": "Tragedy took someone you loved in an alleyway. You swore an oath: never again will the innocent suffer while corrupt barons sleep soundly in their penthouses."
+  },
+  {
+    "origin": "Genetic Mutation",
+    "title": "Evolutionary Leap",
+    "summary": "A spontaneous DNA divergence unlocked superhuman strength and impenetrable skin.",
+    "primaryStats": "Strength +4, Fortitude +4",
+    "startingPowers": [
+      "Meteor Punch",
+      "Adamantine Stance"
+    ],
+    "lore": "As adolescence struck, your body changed. Metal bent against your skin; buildings shook when you jumped. You chose to use your unnatural power for good."
+  },
+  {
+    "origin": "Arcane Pact",
+    "title": "The Ancient Mystery",
+    "summary": "Initiated into the occult arts by an ancient grimoire or mystical mentor.",
+    "primaryStats": "Intellect +3, Willpower +4, Charisma +2",
+    "startingPowers": [
+      "Eldritch Flame",
+      "Sanctuary Ward"
+    ],
+    "lore": "You opened a door between realms that was never meant to be unlocked. Now the mystic mantle rests on your shoulders to banish shadowy horrors."
+  },
+  {
+    "origin": "High-Tech Prodigy",
+    "title": "The Cyber Architect",
+    "summary": "A genius inventor who built their own exoskeleton armor and weapon systems.",
+    "primaryStats": "Intellect +5, Agility +2, Fortitude +2",
+    "startingPowers": [
+      "Swarm Micro-Missiles",
+      "Nanite Infusion"
+    ],
+    "lore": "Why wait for the gods when human ingenuity can conquer anything? With your custom suit of powered armor, you take to the skies."
+  },
+  {
+    "origin": "Street Brawler",
+    "title": "Champion of the Blocks",
+    "summary": "Master martial artist with iron willpower, defending everyday folks in the trenches.",
+    "primaryStats": "Agility +4, Strength +3, Fortitude +2",
+    "startingPowers": [
+      "Hyper-Sonic Sweep",
+      "Smoke Shroud Evade"
+    ],
+    "lore": "You grew up fighting for every breath in the toughest neighborhood. Now you fight with lethal martial arts precision to keep your streets safe."
+  }
+]

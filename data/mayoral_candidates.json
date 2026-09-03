@@ -1,0 +1,38 @@
+[
+  {
+    "id": "candidate-thomas-sterling",
+    "name": "Thomas Sterling",
+    "title": "Former District Judge & Civic Philanthropist",
+    "avatar": "👨‍⚖️🏛️",
+    "platform": "Hero-Civic Partnership & Transparent Justice",
+    "stance": "Superhero Advocate",
+    "pollRating": 38,
+    "perksGranted": "+30% Police Dispatch Intel, -25% HQ Upgrade Construction costs, and +15% Public Approval gains.",
+    "campaignQuote": "Our heroes are the shield that guards our future. City Hall should stand with them, not against them!",
+    "endorsed": true
+  },
+  {
+    "id": "candidate-victor-vance",
+    "name": "Victor Vance Sr.",
+    "title": "Ex-Commissioner of Municipal Police",
+    "avatar": "👮‍♂️⚖️",
+    "platform": "Zero Tolerance Law & Order & Anti-Vigilante Sanctions",
+    "stance": "Law & Order Hardliner",
+    "pollRating": 34,
+    "perksGranted": "Natural district crime rates decrease by 20%, but superhero suspicion increases twice as fast.",
+    "campaignQuote": "Unaccountable masked vigilantes cannot replace the rule of law. Order must be restored by badge and law!",
+    "endorsed": false
+  },
+  {
+    "id": "candidate-evelyn-cross",
+    "name": "Evelyn Cross-Sterling",
+    "title": "CEO of Apex Global Technologies",
+    "avatar": "💼🤖",
+    "platform": "Smart-City Automation & High-Tech Infrastructure",
+    "stance": "Corporate Technocrat",
+    "pollRating": 28,
+    "perksGranted": "+40% Day Job Salaries and +20% Gadget fabrication speed, but cyber-crime rates increase.",
+    "campaignQuote": "Through innovation, automated defense grids, and corporate prosperity, Metro Nova will lead the world.",
+    "endorsed": false
+  }
+]

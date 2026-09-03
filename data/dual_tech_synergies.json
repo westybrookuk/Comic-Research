@@ -1,0 +1,143 @@
+[
+  {
+    "id": "syn-solar-volt",
+    "name": "Solar Supernova Rush",
+    "heroRequired": "Solaris",
+    "partnerName": "Volt Spark",
+    "partnerAvatar": "⚡👦",
+    "partnerColor": "#FFDE59",
+    "superCost": 50,
+    "apCost": 35,
+    "damage": 145,
+    "statusEffects": [
+      "Burn",
+      "Stun"
+    ],
+    "description": "Solaris charges Volt Spark with radiant solar photon energy, propelling the speedster into a blinding supersonic blitz that engulfs the enemy in thermonuclear lightning!",
+    "comicBannerQuote": "LIGHT AT SPEED OF SOUND! TASTE THE DUAL SOLAR SURGE!",
+    "animationType": "solar"
+  },
+  {
+    "id": "syn-nocturne-mythos",
+    "name": "Shadow Rift Ambush",
+    "heroRequired": "Nocturne",
+    "partnerName": "Dr. Mythos",
+    "partnerAvatar": "🔮",
+    "partnerColor": "#8A2BE2",
+    "superCost": 50,
+    "apCost": 35,
+    "damage": 140,
+    "statusEffects": [
+      "Webbed",
+      "Weakened"
+    ],
+    "description": "Dr. Mythos tears open an astral nether portal behind the enemy, allowing Nocturne to execute a silent hyper-velocity glider drop-kick infused with eldritch binding seals.",
+    "comicBannerQuote": "OUT OF THE SHADOWS AND BEYOND THE VEIL!",
+    "animationType": "shadow"
+  },
+  {
+    "id": "syn-titan-circuit",
+    "name": "Seismic EMP Overload",
+    "heroRequired": "Titanix",
+    "partnerName": "Circuit Breaker",
+    "partnerAvatar": "⚡",
+    "partnerColor": "#00F0FF",
+    "superCost": 50,
+    "apCost": 40,
+    "damage": 155,
+    "statusEffects": [
+      "Stun",
+      "Weakened"
+    ],
+    "description": "Titanix smashes the tectonic plates while Circuit Breaker discharges an orbital EMP capacitor straight through his diamond-hard fists, electrocuting the entire frontline.",
+    "comicBannerQuote": "GROUNDED VOLTAGE! CRUSH THE SYSTEM!",
+    "animationType": "tech"
+  },
+  {
+    "id": "syn-solaris-prism",
+    "name": "Prismatic Nova Cascade",
+    "partnerName": "Chloe Rivera (Prism)",
+    "partnerAvatar": "👩🎨💎",
+    "partnerColor": "#EC4899",
+    "superCost": 50,
+    "apCost": 30,
+    "damage": 160,
+    "shield": 50,
+    "statusEffects": [
+      "Burn",
+      "Shielded"
+    ],
+    "description": "Chloe projects hard-light crystal prism mirrors around the target while Solaris fires a solar beam, refracting the light into a thousand blinding laser blades that also grant a party-wide shield!",
+    "comicBannerQuote": "LIGHT REFRACTED THROUGH AN UNBREAKABLE HEART!",
+    "animationType": "solar"
+  },
+  {
+    "id": "syn-nocturne-cyberhawk",
+    "name": "Drone Swarm Assassination",
+    "partnerName": "Cyber Hawk",
+    "partnerAvatar": "🦅💻",
+    "partnerColor": "#00F0FF",
+    "superCost": 50,
+    "apCost": 30,
+    "damage": 135,
+    "statusEffects": [
+      "Bleed",
+      "Weakened"
+    ],
+    "description": "Cyber Hawk blankets the arena in smoke-guided targeting lasers as her micro-drones bomb the enemy flank in unison with an acrobatic execution strike.",
+    "comicBannerQuote": "SYNCHRONIZED AIR-TO-GROUND OVERWATCH!",
+    "animationType": "tech"
+  },
+  {
+    "id": "syn-titan-nightblade",
+    "name": "Adamantine Dragon Cleave",
+    "partnerName": "Nightblade",
+    "partnerAvatar": "⚔️🥋",
+    "partnerColor": "#E63946",
+    "superCost": 50,
+    "apCost": 35,
+    "damage": 150,
+    "statusEffects": [
+      "Bleed",
+      "Stun"
+    ],
+    "description": "Titanix launches Nightblade into the upper air with superhuman kinetic force, descending with twin carbon katanas burning with friction plasma.",
+    "comicBannerQuote": "ONE HEAVY THROW, TWO LETHAL CUTS!",
+    "animationType": "brawl"
+  },
+  {
+    "id": "syn-mythos-aura",
+    "name": "Celestial Aegis Sanctuary",
+    "partnerName": "Aura",
+    "partnerAvatar": "🔮✨",
+    "partnerColor": "#A855F7",
+    "superCost": 50,
+    "apCost": 35,
+    "damage": 90,
+    "healing": 65,
+    "shield": 60,
+    "statusEffects": [
+      "Regenerating",
+      "Shielded"
+    ],
+    "description": "Dr. Mythos and Aura link their mystic leylines, raising a radiant lotus barrier that restores 65 HP to the entire heroic vanguard and cleanses all negative ailments.",
+    "comicBannerQuote": "THE SACRED LEYLINES CANNOT BE SEVERED!",
+    "animationType": "mystic"
+  },
+  {
+    "id": "syn-universal-strike",
+    "name": "Vanguard Double-Team Blitz",
+    "partnerName": "Active Companion",
+    "partnerAvatar": "🤝⚡",
+    "partnerColor": "#EAB308",
+    "superCost": 50,
+    "apCost": 30,
+    "damage": 125,
+    "statusEffects": [
+      "Weakened"
+    ],
+    "description": "A seamless, perfectly timed double-team assault combining kinetic brawn with tactical distraction, driving the enemy back into the ropes!",
+    "comicBannerQuote": "TWO HEROES, ONE UNIFIED BLOW!",
+    "animationType": "brawl"
+  }
+]

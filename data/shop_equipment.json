@@ -1,0 +1,88 @@
+[
+  {
+    "id": "eq-kevlar-weave",
+    "name": "Titanium-Kevlar Undersuit",
+    "slot": "Suit",
+    "statBonuses": {
+      "fortitude": 3
+    },
+    "bonusHp": 25,
+    "bonusArmor": 8,
+    "cost": 600,
+    "unlocked": true,
+    "equipped": false,
+    "description": "Lightweight ballistic weave that softens heavy kinetic blows and blade strikes.",
+    "iconName": "Shield"
+  },
+  {
+    "id": "eq-tactical-visor",
+    "name": "Thermal HUD Tactical Visor",
+    "slot": "Mask",
+    "statBonuses": {
+      "intellect": 3,
+      "agility": 2
+    },
+    "cost": 750,
+    "unlocked": true,
+    "equipped": false,
+    "description": "Monitors opponent vital signs and calculates trajectory paths to boost accuracy.",
+    "iconName": "Eye"
+  },
+  {
+    "id": "eq-shock-gauntlets",
+    "name": "Volt-Discharge Gauntlets",
+    "slot": "Gadget",
+    "statBonuses": {
+      "strength": 3
+    },
+    "bonusEnergy": 15,
+    "cost": 850,
+    "unlocked": true,
+    "equipped": false,
+    "description": "Gauntlets that channel 50,000 volts into melee strikes, shocking armored foes.",
+    "iconName": "Zap"
+  },
+  {
+    "id": "eq-stealth-glider",
+    "name": "Shadow-Glide Cape",
+    "slot": "Suit",
+    "statBonuses": {
+      "agility": 4
+    },
+    "bonusHp": 15,
+    "cost": 900,
+    "unlocked": true,
+    "equipped": false,
+    "description": "Aerodynamic memory fabric allows silent gliding between skyscrapers.",
+    "iconName": "Wind"
+  },
+  {
+    "id": "eq-apex-motorcycle",
+    "name": "Apex Turbo Cycle",
+    "slot": "Vehicle",
+    "statBonuses": {
+      "agility": 3,
+      "charisma": 3
+    },
+    "cost": 1600,
+    "unlocked": true,
+    "equipped": false,
+    "description": "Rocket-boosted stealth motorcycle that allows rapid crime scene arrivals and turns heads.",
+    "iconName": "Car"
+  },
+  {
+    "id": "eq-chronos-pendant",
+    "name": "Amulet of the Leylines",
+    "slot": "Relic",
+    "statBonuses": {
+      "willpower": 4,
+      "intellect": 2
+    },
+    "bonusEnergy": 30,
+    "cost": 1400,
+    "unlocked": true,
+    "equipped": false,
+    "description": "An ancient obsidian relic that resonates with mystic energies to restore power faster.",
+    "iconName": "Sparkles"
+  }
+]

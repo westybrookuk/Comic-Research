@@ -1,0 +1,543 @@
+================================================================================
+          VANGUARD: THE GREATEST HERO - COMPLETE CHARACTER ROSTER & VISUAL GUIDE
+              (Dual-Identity Catalog: Civilian vs. Superhero / Supervillain)
+================================================================================
+
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+1. Confidant Awakening Lore: Chloe Rivera, Dr. Sterling, Liam Vance, Capt. Ramirez
+2. Section 1: Main Legend Heroes (Civilian & Superhero Looks + AI Prompts)
+3. Section 2: Sidekicks & Protégés (Civilian & Superhero Looks + AI Prompts)
+4. Section 3: Civilian Confidants & Awakened Mantles (Civilian & Hero Looks + Prompts)
+5. Section 4: Rogues Gallery Supervillains (Civilian & Villain Armor Looks + Prompts)
+6. Section 5: Multiverse Incursion Boss Variants (Looks + Prompts)
+7. Top 10 High-Impact Feature Ideas for Vanguard
+8. Suno AI Music & Soundtrack Generation Prompt Suite
+9. Visual Effects & Comic Animation Architecture (Combat, Finishers, UI)
+================================================================================
+
+
+--------------------------------------------------------------------------------
+1. CONFIDANT AWAKENING LORE & SYSTEM RULES
+--------------------------------------------------------------------------------
+Can Civilian Confidants (like Chloe Rivera) become superheroes?
+YES! In Vanguard's universe, civilian confidants follow two narrative paths:
+
+1. THE GROUNDED CIVILIAN ANCHOR (Default Path):
+   - Keeping Chloe Rivera as your civilian best friend is vital for gameplay balance:
+     she runs Roaster's Haven Café, anchors your hero's humanity, listens to your
+     double-life struggles, and provides the passive "-50% Stress & -15% Suspicion"
+     recovery perk that keeps your hero from burning out or having their identity leaked.
+
+2. THE SUPERHERO AWAKENING ARC (Story Milestone / Succession / Editor):
+   - Through milestone achievements, sidekick promotions, or the Universe Editor,
+     confidants can awaken their own heroic mantle:
+     * CHLOE RIVERA -> "PRISM" (The Luminescent Aegis): Hard-light crystal shieldcaster.
+     * DR. SARAH STERLING -> "LIFELINE" (The Bio-Aegis Medic): Exosuit combat surgeon.
+     * LIAM VANCE -> "BLACKLINE" (The Shadow Sleuth): Undercover stealth hacker.
+     * CAPT. ELENA RAMIREZ -> "PRECINCT-ONE" (The Law Enforcer): Tactical police mech pilot.
+
+
+================================================================================
+SECTION 1: THE MAIN LEGEND HEROES
+================================================================================
+
+1. SOLARIS / Marcus Bennett
+--------------------------------------------------------------------------------
+• Civilian Persona: Dr. Marcus Bennett (Senior Astrophysicist, Helios Labs)
+  - Appearance: Handsome man in his late 20s, neat dark hair, warm amber eyes,
+    thin wire-rimmed glasses. Wears a crisp white lab coat over a burgundy turtleneck,
+    tailored dark slacks, and a leather watch while analyzing cosmic telemetry.
+  - AI Image Prompt (Civilian):
+    "Portrait of Marcus Bennett, male astrophysicist in his late 20s, handsome, short dark hair, warm amber eyes, thin wire-rimmed glasses. Wearing a white scientific lab coat over a burgundy turtleneck sweater and dark slacks, working in a futuristic astrophysics research observatory with starlight telescopes in the background, clean comic art style, detailed, 8k."
+
+• Superhero Persona: Solaris (The Radiant Guardian of Metro Nova)
+  - Costume: Aerodynamic micro-mesh suit in bright metallic gold and crimson red with
+    clean white rib accents. A brilliant white sunburst crest glows on the chest.
+    Ankle-length regal red-and-gold flowing cape, gold-plated bracers discharging solar beams,
+    open-face cowl with pure glowing golden eyes.
+  - AI Image Prompt (Superhero):
+    "Comic book hero splash art of Solaris, athletic male superhero in mid-20s with glowing golden eyes. Clad in a metallic gold and crimson superhero suit with a glowing sunburst chest emblem, flowing gold and red silk cape, gold armored gauntlets discharging solar energy beams, standing on a skyscraper rooftop at golden hour over Metro Nova, vibrant comic book cover art style, 8k."
+
+
+2. NOCTURNE / Cassandra Vance
+--------------------------------------------------------------------------------
+• Civilian Persona: Cassandra Vance (CEO & Heiress, Vance Dynamics)
+  - Appearance: Sleek commanding woman in her late 20s with sharp features, ice-blue eyes,
+    black hair tied into an elegant high ponytail. Tailored charcoal-gray pinstripe blazer,
+    silk blouse, designer heels, managing boardrooms in glass penthouses.
+  - AI Image Prompt (Civilian):
+    "Portrait of Cassandra Vance, high-powered female tech CEO in late 20s, sharp beautiful features, piercing blue eyes, black hair tied in an elegant ponytail. Wearing a tailored dark charcoal designer business suit and silk blouse in a high-rise glass boardroom overlooking a city skyline, modern comic book illustration, sophisticated lighting."
+
+• Superhero Persona: Nocturne (The Silent Justice in the Dark)
+  - Costume: Matte obsidian-black and slate-navy carbon-fiber ballistic suit with glowing
+    neon-cyan fiber-optic trim. Sculpted cowl with bat-eared audio sensors, glowing white lenses,
+    memory-cloth scalloped glider wings, utility belt, retractable titanium forearm blades.
+  - AI Image Prompt (Superhero):
+    "Dynamic comic book action shot of Nocturne, female vigilante superhero in full tactical costume. Clad in matte-black and deep navy carbon-fiber armor with glowing neon-cyan fiber-optic lines, sculpted cowl with bat ears and glowing white eye lenses, scalloped aerodynamic glider cape spread wide, perched on a Gothic skyscraper gargoyle in rainy mist, high contrast noir comic art."
+
+
+3. TITANIX / Derrick Hall
+--------------------------------------------------------------------------------
+• Civilian Persona: Derrick Hall (Senior Paramedic / EMS First Responder)
+  - Appearance: Broad-shouldered 6'4" muscular man in his early 30s with gentle brown eyes
+    and buzzcut hair. Navy blue EMS uniform with reflective yellow safety stripes,
+    trauma shears on belt, rolled-up sleeves showing heavily muscled forearms.
+  - AI Image Prompt (Civilian):
+    "Portrait of Derrick Hall, male paramedic in his early 30s, broad-shouldered muscular frame, warm friendly face, short buzzcut dark hair. Wearing a navy blue emergency medical responder uniform with reflective safety patches and radio, standing in front of an emergency ambulance in the city, realistic comic book art style."
+
+• Superhero Persona: Titanix (The Unbreakable Juggernaut of Steel)
+  - Costume: Colossal 6'6" frame with organic metallic slate-gray diamond skin.
+    Heavy navy blue and crimson armored chestplate with a bold white shield emblem,
+    heavy industrial hydraulic knuckle gauntlets, steel combat boots cracking the street.
+  - AI Image Prompt (Superhero):
+    "Full body comic book splash page of Titanix, colossal 6'6\" superhero with dense metallic slate-gray skin. Wearing a heavy navy blue and crimson armored cuirass with a bold white shield crest, massive hydraulic steel gauntlets smashing together in a kinetic shockwave, debris flying, heroic comic book art, bold inks, cinematic lighting."
+
+
+4. CIRCUIT BREAKER / Maya Lin
+--------------------------------------------------------------------------------
+• Civilian Persona: Maya Lin (Tech Columnist & Hacker Journalist)
+  - Appearance: Trendy East Asian woman in her mid-20s with teal-streaked bob haircut
+    and round tortoiseshell glasses. Oversized denim jacket over a graphic tee,
+    fingerless typing gloves, messenger bag loaded with hardware tools.
+  - AI Image Prompt (Civilian):
+    "Portrait of Maya Lin, East Asian female tech journalist in her mid-20s with short teal-streaked bob hair and round glasses. Wearing a stylish denim jacket over a graphic t-shirt, messenger bag strap across shoulder, holding a digital tablet in an urban cyber-café filled with holographic neon signs, vibrant comic book aesthetic."
+
+• Superhero Persona: Circuit Breaker (The Digital Storm)
+  - Costume: Motorized powered exosuit in electric cyan-blue, hazard yellow, and carbon black.
+    Retractable holographic HUD visor, pop-up shoulder micro-missile arrays,
+    forearm plasma cannons firing blue electric arcs, hovering repulsor jet boots.
+  - AI Image Prompt (Superhero):
+    "Dynamic comic cover of Circuit Breaker, female high-tech superhero hovering in flight. Wearing a sleek motorized cyan and yellow powered exosuit with holographic targeting visor, micro-missile launcher pods, plasma blast gauntlets firing electric blue lightning arcs, futuristic skyline background, crisp comic book art."
+
+
+5. DR. MYTHOS / Julian Blackwood
+--------------------------------------------------------------------------------
+• Civilian Persona: Julian Blackwood (Rare Antiquities Appraiser)
+  - Appearance: Distinguished scholar in his mid-30s with silver-streaked dark hair,
+    trimmed goatee, and violet-tinted eyes. Tweed waistcoat, white rolled-up shirt,
+    velvet bowtie, examining ancient leather grimoires in a candlelit library.
+  - AI Image Prompt (Civilian):
+    "Portrait of Julian Blackwood, male antique scholar in his mid-30s with silver-streaked dark hair and trimmed goatee, wearing a brown tweed waistcoat, white rolled-up dress shirt, and velvet bowtie, examining an ancient glowing leather grimoire in an atmospheric old bookstore with arched bookshelves, warm candlelit comic art style."
+
+• Superhero Persona: Dr. Mythos (Master of the Mystic Leylines)
+  - Costume: Ornate layered robes of midnight amethyst-purple and obsidian silk with
+    glowing gold astrological leylines. Levitating velvet mantle with glowing Amulet of
+    Aethelgard, surrounded by floating violet rift shields and golden Sanskrit glyphs.
+  - AI Image Prompt (Superhero):
+    "Full portrait comic book illustration of Dr. Mythos, male mystic sorcerer in mid-30s hovering in mid-air. Clad in ornate midnight-purple and gold embroidered velvet robes, glowing arcane amulet, high levitating collar, conjuring violet dimensional rift portals and golden runic glyphs around his hands, ethereal celestial lighting, epic comic book art."
+
+
+================================================================================
+SECTION 2: SIDEKICKS & PROTÉGÉS
+================================================================================
+
+6. VOLT SPARK / Kit Morales
+--------------------------------------------------------------------------------
+• Civilian Persona: Kit Morales (High School Track Star, Age 17)
+  - Appearance: Energetic Latino teenager with windblown curly black hair, cheerful smile.
+    Yellow and navy varsity track hoodie, athletic joggers, modern sports sneakers.
+  - AI Image Prompt (Civilian):
+    "Portrait of Kit Morales, 17-year-old Latino teenage boy, athletic runner build, cheerful confident smile, windblown curly hair. Wearing a yellow and navy high school varsity track hoodie and joggers, holding a water bottle on a high school running track, bright daytime comic book style."
+
+• Superhero Persona: Volt Spark (The Speedster Prodigy)
+  - Costume: Aerodynamic yellow, white, and black runner suit with lightning decals,
+    tinted amber goggles, winged ear comms, supersonic electrical trails trailing behind.
+  - AI Image Prompt (Superhero):
+    "Comic book action shot of Volt Spark, teenage speedster superhero running at supersonic speed. Wearing a bright yellow, white, and black aerodynamic runner suit with amber goggles, leaving brilliant yellow lightning sparks and speed lines across a city boulevard, dynamic energetic comic art."
+
+
+7. CYBER HAWK / Maya Vance
+--------------------------------------------------------------------------------
+• Civilian Persona: Maya Vance (Robotics & Drone Student)
+  - Appearance: Teenage girl with asymmetrical purple bangs and tech goggles on forehead.
+    Oversized bomber jacket with tech patches, graphic hoodie, carrying drone parts.
+  - AI Image Prompt (Civilian):
+    "Portrait of Maya Vance, teenage girl with asymmetrical purple bangs and tech goggles resting on her forehead. Wearing a casual bomber jacket and graphic hoodie, sitting at a robotics workbench soldering a micro-drone, neon ambient lighting, comic book art style."
+
+• Superhero Persona: Cyber Hawk (The Neon Drone Recon)
+  - Costume: Dark charcoal and luminous cyan cyberpunk flight suit, aviator jacket,
+    retractable hard-light cyan holographic glider wings, holographic monocle HUD,
+    twin robotic cyber-hawk drones hovering beside her.
+  - AI Image Prompt (Superhero):
+    "Dynamic comic art of Cyber Hawk, female teenage superhero in a sleek cyan and charcoal flight suit, glowing holographic cyan wings deployed from her back, holographic HUD over one eye, accompanied by two flying robotic cyber-hawk drones over city rooftops, modern comic style."
+
+
+8. NIGHTBLADE / Ren Kuroda
+--------------------------------------------------------------------------------
+• Civilian Persona: Ren Kuroda (Dojo Martial Arts Instructor)
+  - Appearance: Calm disciplined Japanese man in early 20s, tied-back black hair.
+    Traditional black martial arts training gi with white sash in a serene bamboo dojo.
+  - AI Image Prompt (Civilian):
+    "Portrait of Ren Kuroda, young Japanese martial artist in his early 20s with calm focused eyes and tied-back black hair. Wearing a traditional black martial arts training gi, standing in a serene bamboo and wood dojo, warm sunlight, clean crisp comic book art style."
+
+• Superhero Persona: Nightblade (The Urban Ronin)
+  - Costume: Dark crimson and charcoal shinobi armor, titanium pauldrons, black lower-face
+    ballistic respirator mask with crimson demon crest, dual energy-infused katanas on back.
+  - AI Image Prompt (Superhero):
+    "Comic book action illustration of Nightblade, male vigilante hero wearing dark crimson and tactical charcoal ninja armor, titanium pauldrons, black lower-face mask, drawing twin glowing steel katanas in a misty moonlit alleyway, bold ink strokes, gritty graphic novel style."
+
+
+9. AURA / Selene Vance
+--------------------------------------------------------------------------------
+• Civilian Persona: Selene Vance (Botanical Art Restorer)
+  - Appearance: Serene young woman with lavender-tinted brown hair and soft green eyes.
+    Flowing bohemian linen dress, denim apron with paint smudges, holding flower sketches.
+  - AI Image Prompt (Civilian):
+    "Portrait of Selene Vance, serene young woman with soft features and lavender-brown hair. Wearing a bohemian linen dress and light apron, holding botanical flower sketches inside a sunlit glass greenhouse surrounded by lush green plants, watercolor-infused comic art style."
+
+• Superhero Persona: Aura (The Sanctuary Warder)
+  - Costume: Lavender and pearl-white armored silk gown with floating translucent sashes,
+    silver tiara with glowing opal on brow, projecting glowing lotus forcefield shields.
+  - AI Image Prompt (Superhero):
+    "Celestial comic book art of Aura, young female mystic superhero in an elegant lavender and pearl-white armored silk gown, silver tiara on brow, creating glowing translucent turquoise lotus forcefield barriers with healing light, ethereal glowing particle effects, comic masterpiece."
+
+
+================================================================================
+SECTION 3: CIVILIAN CONFIDANTS & AWAKENED HERO MANTLES
+================================================================================
+
+10. CHLOE RIVERA
+--------------------------------------------------------------------------------
+• Civilian Persona: Chloe Rivera (Café Owner & Best Friend)
+  - Appearance: Warm Latina in her late 20s with messy bun brown hair and welcoming smile.
+    Olive-green apron over cream knit sweater, pouring latte art in Roaster's Haven.
+  - AI Image Prompt (Civilian):
+    "Portrait of Chloe Rivera, friendly 27-year-old Latina woman with wavy dark hair in a messy bun, warm brown eyes, genuine bright smile. Wearing an olive-green apron over a cream knit sweater, pouring artisan coffee behind a warm wooden café counter, cozy comic book art style."
+
+• Awakened Superhero Mantle: PRISM (The Luminescent Aegis)
+  - Costume: Bodysuit in faceted kaleidoscopic stained-glass jewel tones (emerald, magenta, gold).
+    Faceted crystal chest emblem projecting hard-light rainbow laser barriers and refractive shields.
+  - AI Image Prompt (Hero - Prism):
+    "Full body comic cover of superhero Prism (Chloe Rivera awakened), female light-wielding hero. Clad in an elegant armored bodysuit made of faceted stained-glass crystals in emerald, magenta, and gold, projecting shimmering kaleidoscopic hard-light barrier shields and refractive rainbow laser beams, vibrant triumphant comic book art."
+
+
+11. DR. SARAH STERLING
+--------------------------------------------------------------------------------
+• Civilian Persona: Dr. Sarah Sterling (Chief ER Trauma Surgeon)
+  - Appearance: Brilliant blonde woman in early 30s with blue eyes and hair pinned up.
+    Teal surgical scrubs under white doctor's coat, stethoscope, hospital ER background.
+  - AI Image Prompt (Civilian):
+    "Portrait of Dr. Sarah Sterling, female ER trauma surgeon in her early 30s, blonde hair pinned up, intelligent blue eyes. Wearing teal surgical scrubs under a white doctor's coat with stethoscope, hospital trauma center background, professional comic book style."
+
+• Awakened Superhero Mantle: LIFELINE (The Bio-Aegis Medic)
+  - Costume: White and emerald-green powered medical exosuit with cellular-regeneration mist
+    sprayers, deployable defibrillator gauntlets, and glowing holographic caduceus shield.
+  - AI Image Prompt (Hero - Lifeline):
+    "Comic book hero splash of Lifeline (Dr. Sarah Sterling awakened), female combat medic superhero. Wearing a sleek white and emerald-green powered medical exosuit with glowing bio-regenerative mist spraying from gauntlets, holographic green caduceus shield deployed, rescuing civilians in battle, heroic comic art."
+
+
+12. LIAM VANCE
+--------------------------------------------------------------------------------
+• Civilian Persona: Liam Vance (Pulitzer Investigative Reporter)
+  - Appearance: Cynical journalist in early 30s with stubble, loosened tie, rumpled shirt,
+    brown trench coat with press badge, holding vintage camera in the evening rain.
+  - AI Image Prompt (Civilian):
+    "Portrait of Liam Vance, cynical male investigative journalist in his early 30s with stubble and sharp observant eyes. Wearing a loosened tie, rumpled shirt, and brown trench coat with press credentials, holding a vintage camera on a rainy city street at dusk, noir comic art."
+
+• Awakened Vigilante Mantle: BLACKLINE (The Shadow Sleuth)
+  - Costume: Matte charcoal hooded tactical coat with sound-dampening mesh, glowing green
+    waveform visor, listening bug launchers, dual shock-batons.
+  - AI Image Prompt (Vigilante - Blackline):
+    "Comic book noir illustration of Blackline (Liam Vance awakened), urban stealth vigilante in a dark charcoal hooded tactical trench coat, green audio-waveform glowing visor, dual shock batons, crouching on a neon-lit fire escape in the rain, gritty detective comic style."
+
+
+13. CAPTAIN ELENA RAMIREZ
+--------------------------------------------------------------------------------
+• Civilian / Duty Persona: Captain Elena Ramirez (Precinct Police Commander)
+  - Appearance: Authoritative 40-year-old Latina police commander with graying hair in a bun.
+    Dark navy police chief uniform with gold badge and collar stars, precinct bullpen.
+  - AI Image Prompt (Civilian Duty):
+    "Portrait of Captain Elena Ramirez, authoritative 40-year-old Latina police captain, stern dignified expression, hair in a neat bun. Wearing a formal dark navy police commander uniform with gold badge and collar insignia, standing in a busy police precinct bullpen, grounded comic art."
+
+• Awakened Armored Hero Mantle: PRECINCT-ONE (The Law Enforcer)
+  - Costume: Heavy motorized blue-and-white titanium police-mech power-suit with flashing
+    red/blue shoulder beacons, deployable riot energy shield, kinetic shock cannons.
+  - AI Image Prompt (Hero - Precinct-One):
+    "Full body comic splash of Precinct-One (Captain Ramirez in power-armor), female armored police commander in a heavy blue and white motorized titanium mech-suit with flashing red and blue shoulder beacons, deployable riot energy barrier shield, defending civilians, epic superhero comic style."
+
+
+================================================================================
+SECTION 4: ROGUES GALLERY SUPERVILLAINS
+================================================================================
+
+14. NULL VOID / Victor Vance
+--------------------------------------------------------------------------------
+• Civilian Persona: Dr. Victor Vance (Disgraced Quantum Physicist)
+  - Appearance: Gaunt male scientist with sunken dark-ringed eyes, disheveled black hair.
+    Rumpled black suit under a stained research lab coat, clutching dark-matter formulas.
+  - AI Image Prompt (Civilian):
+    "Portrait of Dr. Victor Vance before his fall, gaunt male particle physicist with pale skin, intense haunted dark eyes, and messy black hair. Wearing a dark suit under a rumpled research lab coat, holding glowing purple dark-matter formulas in a dark laboratory, dramatic noir comic lighting."
+
+• Supervillain Armor: Null Void (The Cosmic Singularity)
+  - Armor: Pitch-black obsidian armor that absorbs all ambient light. Miniature spinning
+    purple black hole in chest core, dark matter tentacles distorting spacetime around claws.
+  - AI Image Prompt (Villain):
+    "Comic book villain splash page of Null Void, cosmic supervillain in full armor. Wearing pitch-black light-devouring obsidian armor with a miniature glowing purple black hole singularity spinning in his chest, dark matter tentacles distorting spacetime around his claws, dark menacing comic art, 8k."
+
+
+15. QUEEN PYRE / Ignacia Drake
+--------------------------------------------------------------------------------
+• Civilian Persona: Ignacia Drake (High-Society VIP Nightclub Owner)
+  - Appearance: Glamorous femme fatale in early 30s with cascading Auburn-red hair,
+    smoldering amber eyes, backless red velvet evening gown, gold serpent jewelry.
+  - AI Image Prompt (Civilian):
+    "Portrait of Ignacia Drake, glamorous villainous femme fatale in early 30s, wavy fiery Auburn-red hair, smoldering amber eyes, crimson lipstick. Wearing an elegant red velvet evening dress and gold jewelry, lounging in a luxury VIP penthouse club overlooking the city night, rich comic art."
+
+• Supervillain Armor: Queen Pyre (The Inferno Empress)
+  - Armor: Charcoal dragonscale battle-cuirass with glowing lava cracks. Hair ablaze with
+    roaring fire, gold bracers unleashing giant swirling pillars of flame.
+  - AI Image Prompt (Villain):
+    "Dynamic comic book cover of Queen Pyre, female pyromancer supervillain. Clad in charcoal dragonscale armor with molten glowing lava cracks, hair ablaze with roaring orange fire, unleashing giant swirling firestorms from gold gauntlets, menacing triumphant expression, epic comic villain art."
+
+
+16. CYBER-GORGON / Dr. Evelyn Cross
+--------------------------------------------------------------------------------
+• Civilian Persona: Dr. Evelyn Cross (Apex Biotech CEO)
+  - Appearance: Platinum blonde executive in tailored white-and-emerald designer suit,
+    cold icy green eyes, minimalist silver jewelry in a sterile server facility.
+  - AI Image Prompt (Civilian):
+    "Portrait of Dr. Evelyn Cross, ruthless female corporate biotech CEO in late 30s, sleek platinum blonde hair, cold icy green eyes. Wearing a tailored white designer suit with green accents in a futuristic high-tech corporate server room, modern comic illustration."
+
+• Supervillain Chassis: Cyber-Gorgon (The Nanotech AI Hive)
+  - Body: Biocybernetic empress with crown of glowing green robotic snake-cables with laser
+    eyes, black-and-emerald nanotech battle armor, hovering attack drones.
+  - AI Image Prompt (Villain):
+    "Full body comic splash of Cyber-Gorgon, female cybernetic supervillain. Pale porcelain skin, glowing green cybernetic eyes, crown of robotic snake cables flowing from her head with laser eyes, black and neon-green nanotech battle armor, surrounded by cybernetic attack drones, dark sci-fi comic aesthetic."
+
+
+17. IRON JUGGERNAUT / Boris Vance
+--------------------------------------------------------------------------------
+• Civilian Persona: Boris Vance (Industrial Demolitions Foreman)
+  - Appearance: Burly 6'5" scarred construction foreman with thick graying beard,
+    sleeveless work shirt, heavy leather gloves, standing in a rusty shipyard.
+  - AI Image Prompt (Civilian):
+    "Portrait of Boris Vance, massive burly construction foreman in his 40s, scarred face, thick graying beard, shaved head. Wearing a heavy work shirt, leather work gloves, standing in an industrial shipyard surrounded by rusting cranes, gritty realistic comic style."
+
+• Supervillain Armor: Iron Juggernaut (The Hydraulic Destroyer)
+  - Armor: 7-foot rusted iron hydraulic power suit with massive piston fists, heavy
+    welded shoulder plates, and glowing red horizontal visor slit.
+  - AI Image Prompt (Villain):
+    "Comic book action art of Iron Juggernaut, massive 7-foot brute supervillain inside heavy hydraulic industrial power-armor. Rusted iron and dark steel plating with piston-driven fists, glowing red visor slit, smashing through concrete walls, industrial destruction, bold comic book ink art."
+
+
+18. MADAME MIRAGE / Selene Moreau
+--------------------------------------------------------------------------------
+• Civilian Persona: Selene Moreau (Parisian Art Appraiser)
+  - Appearance: Chic French woman in early 30s with sleek dark bob, haute-couture black
+    trench dress, silk scarf, oversized sunglasses in an art gallery.
+  - AI Image Prompt (Civilian):
+    "Portrait of Selene Moreau, stylish French woman in early 30s, sleek dark bob hair, enigmatic smile, wearing a chic black designer trench coat and silk scarf, standing in a contemporary modern art gallery, elegant comic book illustration."
+
+• Supervillain Persona: Madame Mirage (The Psionic Illusionist)
+  - Costume: Royal purple velvet corseted catsuit with ornate silver filigree mask,
+    obsidian cane projecting holographic mirrors and glowing purple phantom duplicates.
+  - AI Image Prompt (Villain):
+    "Dynamic comic cover of Madame Mirage, female psionic illusionist supervillain. Wearing an elaborate royal purple velvet and silver masquerade outfit with ornate silver eye mask, surrounded by multiple glowing translucent mirror phantoms and psychic kaleidoscope reflections, mysterious comic art."
+
+
+19. CHRONOS MASTER / Prof. Tiberius Vance
+--------------------------------------------------------------------------------
+• Civilian Persona: Prof. Tiberius Vance (Antique Clockmaker)
+  - Appearance: Eccentric elderly watchmaker with wild white hair, bushy mustache,
+    brass magnifying loupes, leather apron with tiny gears in a cozy clock shop.
+  - AI Image Prompt (Civilian):
+    "Portrait of Professor Tiberius Vance, eccentric elderly watchmaker in his 60s with wild white hair, bushy mustache, and brass magnifying loupe on glasses. Wearing a leather apron, working with tweezers on delicate clockwork gears in an antique clock shop, warm comic book art."
+
+• Supervillain Persona: Chronos Master (The Time Architect)
+  - Armor: Steampunk gold and bronze clockwork harness with glowing blue tachyon tubes,
+    spinning gears, and an hourglass scepter that ripples temporal distortion waves.
+  - AI Image Prompt (Villain):
+    "Full body comic splash of Chronos Master, time-manipulating supervillain. Clad in ornate gold and bronze steampunk clockwork armor with spinning gears, glowing blue tachyon time tubes, holding an hourglass temporal staff that ripples time distortion waves across the city, epic comic art."
+
+
+================================================================================
+SECTION 5: MULTIVERSE INCURSION BOSS VARIANTS
+================================================================================
+
+20. EMPEROR SOLARIS REX (Earth-Omega: Cyber-Dystopia)
+  - Appearance: Warlord tyrant in spiked imperial gold-and-obsidian warplate, horned
+    golden helmet, blazing black-and-gold solar flares, flaming broadsword.
+  - AI Prompt: "Epic comic villain art of Emperor Solaris Rex, tyrannical multiverse warlord in spiked imperial gold and obsidian armor, horned golden sun helmet, blazing black-and-gold solar flare corona, holding a flaming broadsword above a conquered dystopian city, dark dramatic comic style."
+
+21. GRAND INQUISITOR DR. MYTHOS (Earth-Nether: Inverted Void)
+  - Appearance: Dark hooded inquisitor in necrotic purple and bone robes, chained grimoires,
+    glowing skull lanterns casting black void flames.
+  - AI Prompt: "Comic book villain illustration of Grand Inquisitor Dr. Mythos, dark alternate wizard in hooded necrotic purple robes adorned with silver chains and glowing skull lanterns, conjuring black void flames, eerie gothic mist, dark comic art."
+
+22. CHRONOS PRIME AUTOMATON (Earth-Steam: Chrono-Empire)
+  - Appearance: Giant 15-foot Victorian steampunk clockwork robot titan with brass gears,
+    steam exhaust chimneys, and glowing blue tachyon clock core in chest.
+  - AI Prompt: "Full splash comic page of Chronos Prime Automaton, giant 15-foot Victorian steampunk clockwork robot titan with brass gears, steam exhaust chimneys, and glowing blue tachyon clock core, towering over foggy 1890s cobblestone city streets, magnificent retro-futuristic comic art."
+
+
+================================================================================
+SECTION 6: TOP 10 HIGH-IMPACT FEATURE IDEAS FOR VANGUARD
+================================================================================
+
+1. DYNAMIC COMIC BOOK COVER GENERATOR 2.0 (Custom Font & Title Logo Styler):
+   - Export full-resolution comic book front covers with retro CCA stamps (Comics Code
+     Authority), custom font title logos, banner slogans ("IN THIS ISSUE: THE FALL OF SOLARIS!"),
+     and barcode pricing ($0.25 in Golden Age / $3.99 in Modern).
+
+2. NEMESIS ADAPTATION & REVENGE MEMORY SYSTEM:
+   - Defeated villains who escape prison remember your favorite attacks, build counter-tech
+     (e.g., if you spam Fire, they return with Heat-Absorbing Cryo Armor), and ambush you
+     during civilian dates or press conferences!
+
+3. INTERACTIVE BASE OF OPERATIONS (HQ ROOM BUILDER):
+   - Upgradeable 2D floorplan rooms for your Secret Sanctuary:
+     * Trophy Room (displays defeated boss masks & stolen relics)
+     * Danger Room / Holo-Simulator (train stats & test combos)
+     * Crime Supercomputer (boosts district patrol detection)
+     * Medbay & Cryo-Tanks (speeds injury recovery)
+
+4. CIVILIAN DATE NIGHT & DOUBLE-LIFE CRISIS MINI-STORIES:
+   - Interactive visual-novel style dating and social encounters with Chloe or Dr. Sterling.
+   - If a bank robbery sirens go off during dessert, choose between:
+     [A] Excuse yourself to the restroom (Hero +20, Romance -10, Suspicion +15)
+     [B] Stay and ignore the police radio (Stress +25, Romance +30)
+     [C] Reveal secret identity right then and there!
+
+5. VANGUARD TEAM SYNERGY & COMBINED SUPER FINISHERS:
+   - When deploying with a sidekick or alliance member, trigger cinematic Dual-Techs
+     (e.g., Solaris + Volt Spark = "Solar Supernova Rush", Nocturne + Dr. Mythos = "Shadow Rift Ambush").
+
+6. CITY HALL FACTIONS & MAYORAL DECREE POLICIES:
+   - Influence Metro Nova city council elections. Pass decrees like:
+     * Vigilante Registration Act (Police assist heroes, but secret identity is at risk)
+     * District Defense Turrets (lowers crime, lowers civilian trust)
+     * Charity Foundation Funding (lowers public stress, grants civilian discounts).
+
+7. RETIREMENT & LEGACY MANTLE SUCCESSION (ERA 2 GENERATOR):
+   - When your hero hits Age 45 or takes fatal permanent injuries, hold a retirement ceremony.
+   - Your sidekick (Kit, Maya, Ren, Selene) or confidant (Chloe, Dr. Sterling) takes up the mantle
+     with inherited traits, unlocking "Vanguard Vol. 2 #1"!
+
+8. ROGUES GALLERY PRISON BREAKOUT & CITY APOCALYPSE SIEGE:
+   - When City Crime reaches 90%, Iron Rock Penitentiary suffers a mass breakout!
+   - 4 bosses simultaneously conquer 4 districts, turning the map into a red disaster zone
+     requiring a 4-part multi-stage liberation raid.
+
+9. PRESS CONFERENCE PR SPIN & MEDIA SCANDAL WHEEL:
+   - After catastrophic fights, face a live podium of aggressive reporters with tough questions.
+   - Spin headlines: "Collateral Damage Hero" vs. "Saviour of Metro Nova", influencing public approval.
+
+10. MULTIVERSE PORTAL INCURSION RAIDS & INFINITE SHARDS:
+    - Open dimensional rift tears to fight dark inverted mirror versions of yourself and loot
+      Infinite Shards to unlock cosmic relics, god-tier suits, and New Game Plus modifiers.
+
+
+================================================================================
+SECTION 7: SUNO AI MUSIC SOUNDTRACK GENERATION SUITE
+================================================================================
+Use these exact prompt formulas in Suno AI (v3 / v3.5) to generate an original,
+cinematic orchestral and electronic comic book soundtrack:
+
+TRACK 1: MAIN MENU & HERO THEME ("Vanguard Anthem")
+• Suno Style Prompt:
+  "Epic cinematic orchestral, brass fanfare, heroic superhero theme, Hans Zimmer style, soaring french horns, driving timpani drums, hopeful strings, triumphant climax, studio quality, master recording, instrumental"
+• Suno Lyrics / Structure:
+  [Intro - French Horn Solo]
+  [Build - Churning Cello and Low Brass]
+  [Main Theme - Triumphant Full Orchestra Fanfare]
+  [Bridge - Hopeful Violin Arpeggios]
+  [Climax - Soaring Brass and Thunderous Timpani Crescendo]
+  [Outro - Resonant French Horn Fade]
+
+TRACK 2: NIGHT PATROL & ROOFTOP STEALTH ("Shadows Over Metro Nova")
+• Suno Style Prompt:
+  "Atmospheric dark synthwave, cyberpunk cinematic, driving analog bassline, moody piano, distant sirens, midnight rain ambiance, John Carpenter and Ludwig Göransson style, instrumental"
+• Suno Lyrics / Structure:
+  [Intro - Rainy Atmosphere, Low Sub Bass Pulse]
+  [Beat Drop - Crisp 808 Beats, Deep Moog Bassline]
+  [Melody - Haunting Neo-Noir Synth Melody]
+  [Bridge - Echoing Electric Guitar and Distant Chimes]
+  [Outro - Ambient Synth Drone and Raindrops]
+
+TRACK 3: STANDARD ENCOUNTER / CRIME SCENE BATTLE ("Street Justice")
+• Suno Style Prompt:
+  "High energy rock orchestra hybrid, heavy distorted guitar riffs, fast cinematic percussion, aggressive brass hits, punchy comic book action beat, 140 BPM, instrumental"
+• Suno Lyrics / Structure:
+  [Intro - Fast Drum Roll and Heavy Guitar Chug]
+  [Verse - Driving Action Rhythm, Staccato Strings]
+  [Chorus - Punchy Heavy Metal Riffs with Brass Hits]
+  [Bridge - Dual Guitar and Trumpet Counter-Melody]
+  [Outro - Heavy Final Chord Hit]
+
+TRACK 4: BOSS BATTLE / NEMESIS SHOWDOWN ("Clash of Destinies")
+• Suno Style Prompt:
+  "Intense apocalyptic orchestral, dark gothic choir, thundering taiko drums, screeching low brass, frantic violin ostinato, epic boss fight music, Dark Souls and Avengers hybrid, 150 BPM, instrumental"
+• Suno Lyrics / Structure:
+  [Intro - Dramatic Latin Gothic Choir and Taiko Hit]
+  [Phase 1 - Frenetic Fast Violins and Menacing Brass Stabs]
+  [Phase 2 - Choir Crescendo, Double Kick Drums, Complex Poly-rhythms]
+  [Climax - Full Force Choir Chanting, Blaring Horns, Maximum Intensity]
+  [Outro - Dark Suspended String Fadeout]
+
+TRACK 5: CIVILIAN LIFE & CAFÉ ROMANCE ("Roaster's Haven Lofi")
+• Suno Style Prompt:
+  "Warm lofi hip hop, cozy coffee shop vibes, gentle rhodes piano, mellow saxophone, soft vinyl crackle, relaxing acoustic guitar chords, warm bass, 80 BPM, instrumental"
+• Suno Lyrics / Structure:
+  [Intro - Warm Vinyl Crackle, Mellow Rhodes Chords]
+  [Beat - Soft Laid-back Lofi Beat, Upright Bass]
+  [Lead - Smooth Nostalgic Saxophone Melody]
+  [Bridge - Gentle Acoustic Guitar Strumming]
+  [Outro - Soft Piano Fade with Rain on Glass]
+
+TRACK 6: MULTIVERSE BOSS INCURSION ("Tears in Reality")
+• Suno Style Prompt:
+  "Cosmic sci-fi industrial orchestra, glitch effects, deep sub drops, eerie microtonal strings, futuristic electronic synthesizers, tense reality-bending soundscape, instrumental"
+• Suno Lyrics / Structure:
+  [Intro - Spacetime Glitch Sounds, Sub Bass Drone]
+  [Build - Pulsing Cyber Synth, Strange Modulating Strings]
+  [Drop - Massive Industrial Beat with Sci-Fi Laser Textures]
+  [Climax - Unhinged Symphonic Swells and Electronic Chaos]
+  [Outro - Disintegrating Synth Frequencies]
+
+
+================================================================================
+SECTION 8: VISUAL EFFECTS & COMIC ANIMATION ARCHITECTURE
+================================================================================
+
+1. DYNAMIC ONOMATOPOEIA POP-UPS (Combat Hits):
+   - When a punch, energy blast, or critical hit lands:
+     * An animated 3D jagged comic bubble zooms from scale 0 to 1.3 with a sound effect.
+     * Text: "POW!", "ZAPPP!", "KRAA-KOOM!", "BAM!", "CRUSH!", "SKREEE!"
+     * Color matched to damage type: Yellow/Red for Physical, Cyan for Energy,
+       Purple for Arcane, Green for Acid/Poison.
+
+2. FULL-SCREEN SUPER METER ULTIMATE FINISHER ("MANGA IMPACT"):
+   - When triggering 100% Super Ultimate:
+     * Screen flashes black & white manga speedlines for 0.4 seconds.
+     * A diagonal three-tier comic panel cutout slides across the screen showcasing:
+       1) Close-up on hero's glowing eyes
+       2) Weapon/fist charging with blinding particle energy
+       3) Full body pose delivering the cataclysmic strike
+     * Screen-shake (CSS camera shake) + radial chromatic aberration burst.
+
+3. DYNAMIC WEATHER & DAY/NIGHT SKYLINE CYCLING:
+   - Background dashboard transitions smoothly based on in-game time and weather:
+     * Dawn (Soft peach/gold sunrise with bird silhouettes)
+     * Afternoon (Clear bright blue sky, busy traffic parallax)
+     * Dusk (Crimson and violet horizon, neon signs lighting up)
+     * Midnight (Dark starry sky, rain streaks on window, searchlights sweeping)
+
+4. COMIC BOOK ISSUE COVER REVEAL ANIMATION:
+   - At the end of each week/month when publishing the latest Comic Issue:
+     * A 3D glossy magazine opens with a realistic page-turn flip sound.
+     * Star ratings (★★★★★) slam down one by one with golden particle sparkles.
+     * Sales numbers count up rapidly with cash register bell rings.
+
+5. PRESS CONFERENCE FLASHBULB BURSTS:
+   - Entering the PR Media Hub triggers a rapid cascade of white radial flashbulb flares
+     and shutter clicks, simulating a battery of reporters shouting questions.
+
+6. CIVIC RECONSTRUCTION BLUEPRINT OVERLAY:
+   - In District Management, hovering over ruined buildings switches the screen to a
+     glowing architectural blueprint grid showing repair costs, upgraded turrets,
+     and green holographic parks.
+
+================================================================================
+                         END OF FILE - VANGUARD GUIDE
+================================================================================

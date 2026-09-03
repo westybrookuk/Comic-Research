@@ -1,0 +1,29 @@
+[
+  {
+    "id": "news-1",
+    "day": 1,
+    "headline": "CRIME WAVE SWEEPS METRO NOVA: MAYOR CALLS FOR HEROIC ALLIANCE",
+    "district": "Downtown Metropolis",
+    "category": "Crime",
+    "snippet": "With syndicate activities rising in the Docklands and strange energy spikes detected near the Quantum collider, citizens call for caped protectors.",
+    "isBreaking": true
+  },
+  {
+    "id": "news-2",
+    "day": 1,
+    "headline": "APEX VANGUARD PATROL BOOSTS CIVIC MORALE",
+    "district": "Neon District",
+    "category": "Heroism",
+    "snippet": "Recent crime statistics show a 22% drop in armed muggings following coordinated superhero patrols.",
+    "isBreaking": false
+  },
+  {
+    "id": "news-3",
+    "day": 1,
+    "headline": "BLACKGATE ASYLUM REINFORCES SECURITY GRID AFTER RUMORED ESCAPE PLOT",
+    "district": "Gothic Quarter & Asylum",
+    "category": "Crisis",
+    "snippet": "Warden Vance assures the public that containment fields for high-tier supervillains remain fully operational.",
+    "isBreaking": false
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "press-monorail-aftermath",
+    "headline": "PRESS BRIEFING: DOWNTOWN TRANSIT CRISIS & VIGILANTE OVERSIGHT",
+    "topic": "Addressing city journalists regarding the high-speed monorail derailment response and civilian safety.",
+    "questions": [
+      {
+        "id": "q-chronicle-damage",
+        "outletName": "The Daily Chronicle",
+        "reporterName": "Liam Vance",
+        "outletBias": "Investigative",
+        "avatar": "📰🧑",
+        "topic": "District Property Damage vs Action",
+        "questionText": "Hero, while the passengers survived, two city transit pillars suffered severe structural cracks. Who pays for the repairs—and shouldn't superheroes be bonded by municipal insurance?",
+        "responses": [
+          {
+            "label": "Humble Defender: \"Every dollar of my comic royalties will aid public rebuilding.\"",
+            "stance": "Humble Defender",
+            "approvalDelta": 12,
+            "suspicionDelta": -5,
+            "comicSalesDelta": 15,
+            "mediaRatingDelta": 15,
+            "quote": "Buildings can be rebuilt; human lives cannot. I have already pledged my publisher royalties directly to the Downtown Repair Fund."
+          },
+          {
+            "label": "Transparent Partner: \"Let's look at the telemetry: the alternative was 300 lives lost.\"",
+            "stance": "Transparent Partner",
+            "approvalDelta": 8,
+            "suspicionDelta": -10,
+            "comicSalesDelta": 10,
+            "mediaRatingDelta": 10,
+            "quote": "The data is indisputable: sabotaged magnetic brakes left seconds to act. City engineers and I are working hand in hand."
+          },
+          {
+            "label": "Intimidating Enforcer: \"If the city council did its job catching sabotaging syndicates, I wouldn't have to catch trains.\"",
+            "stance": "Intimidating Enforcer",
+            "approvalDelta": -4,
+            "suspicionDelta": 15,
+            "comicSalesDelta": 20,
+            "mediaRatingDelta": 5,
+            "quote": "Direct your inquiries to the criminals who cut the brake lines, not the person who kept three hundred people breathing."
+          }
+        ]
+      },
+      {
+        "id": "q-channel6-police",
+        "outletName": "Channel 6 Action News",
+        "reporterName": "Brenda Chase",
+        "outletBias": "Sensationalist",
+        "avatar": "📺👩",
+        "topic": "Vigilantism vs Police Authority",
+        "questionText": "Critics are calling this an unauthorized military-grade intervention. Are you cooperating with Police Chief Ramirez or running a private army?",
+        "responses": [
+          {
+            "label": "Transparent Partner: \"Captain Ramirez and the precinct have my absolute respect and daily communication.\"",
+            "stance": "Transparent Partner",
+            "approvalDelta": 10,
+            "suspicionDelta": -10,
+            "comicSalesDelta": 8,
+            "mediaRatingDelta": 12,
+            "quote": "I wear a mask because enemies target families, but my badge of service is bound to the lawful protection of Metro Nova."
+          },
+          {
+            "label": "Charming Celebrity: \"Channel 6 always loves a dramatic headline! We're all on Team Metro Nova.\"",
+            "stance": "Charming Celebrity",
+            "approvalDelta": 8,
+            "suspicionDelta": 5,
+            "comicSalesDelta": 25,
+            "mediaRatingDelta": 10,
+            "quote": "Smile for the cameras, Brenda! When danger strikes, red tape shouldn't stand between good people and safety."
+          }
+        ]
+      }
+    ],
+    "completed": false
+  },
+  {
+    "id": "press-asylum-breakout",
+    "headline": "LIVE PRESS GALA: BLACKGATE ASYLUM SECURITY & ESCAPED ROGUES",
+    "topic": "Addressing intense public anxiety after supervillain breakout threats and containment protocols.",
+    "questions": [
+      {
+        "id": "q-tribune-justice",
+        "outletName": "Civic Watch Tribune",
+        "reporterName": "Marcus Vance",
+        "outletBias": "Law-and-Order",
+        "avatar": "⚖️👨",
+        "topic": "Lethal Force vs Containment",
+        "questionText": "When supervillains break out again and again, citizens ask: why doesn't the city's superhero league end these threats permanently?",
+        "responses": [
+          {
+            "label": "Humble Defender: \"If we become executioners, we surrender the very soul of the justice we swore to protect.\"",
+            "stance": "Humble Defender",
+            "approvalDelta": 15,
+            "suspicionDelta": -10,
+            "comicSalesDelta": 12,
+            "mediaRatingDelta": 15,
+            "quote": "The law must never be replaced by vengeance. Our duty is to bring villains to justice, not act as judge, jury, and executioner."
+          },
+          {
+            "label": "Intimidating Enforcer: \"Pushed too far, monsters will discover what true retribution looks like.\"",
+            "stance": "Intimidating Enforcer",
+            "approvalDelta": -5,
+            "suspicionDelta": 20,
+            "comicSalesDelta": 30,
+            "mediaRatingDelta": 5,
+            "quote": "Let every rogue listening to this broadcast understand: my patience with recidivism is at its absolute breaking point."
+          }
+        ]
+      }
+    ],
+    "completed": false
+  }
+]

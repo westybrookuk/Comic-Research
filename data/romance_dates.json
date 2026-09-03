@@ -1,0 +1,263 @@
+[
+  {
+    "id": "date-chloe-cafe",
+    "name": "Candlelit Espresso & Sketching at Roaster's Haven",
+    "partnerName": "Chloe Rivera",
+    "partnerId": "rel-civilian-chloe",
+    "location": "Roaster's Haven Café, Downtown",
+    "cost": 50,
+    "energyCost": 15,
+    "dialogueScenario": "Chloe turns off the neon \"Open\" sign, locks the front door, and brings out two steaming artisan hazelnut lattes along with her sketchbook of stained-glass crystal designs. She looks at you with a gentle, questioning smile.",
+    "dialogueResponses": [
+      {
+        "text": "\"Your glass artwork is stunning, Chloe. It feels like it belongs in an ancient cathedral or a superhero temple.\"",
+        "partnerReply": "Chloe blushes, tracing her sketchbook: \"Thanks... whenever the city gets crazy with supervillain headlines, sketching helps me believe there’s still pure beauty worth protecting.\"",
+        "affinityGain": 15
+      },
+      {
+        "text": "\"Remember when we were kids and got caught climbing the water tower?\"",
+        "partnerReply": "Chloe laughs softly, resting her chin on her hand: \"You almost fell, and you promised you'd never do anything crazy high up again! Look at you now, always running off...\"",
+        "affinityGain": 12
+      }
+    ],
+    "crisisDilemma": {
+      "title": "CRISIS: 3-ALARM CHEMICAL FIRE & SYNDICATE HEIST 2 BLOCKS AWAY!",
+      "premise": "Just as Chloe leans in to show you her latest sketch, police sirens shriek down 5th Avenue and an orange fireball illuminates the café windows!",
+      "sirenDescription": "The radio scanner on the counter crackles: \"ALL UNITS: Petro-chemical tanks ignited by masked saboteurs! Pinned workers on roof!\"",
+      "choices": [
+        {
+          "id": "restroom_hero",
+          "label": "🏃 Slip Out to the Restroom & Suit Up",
+          "description": "Excuse yourself (\"I need to wash up\"), slip out the back alley, suit up, and extinguish the fire.",
+          "heroismGain": 20,
+          "affinityGain": -10,
+          "stressChange": -5,
+          "suspicionChange": 15,
+          "outcomeDialogue": "You dive into the flames, saving 6 workers! But when you return 30 minutes later, Chloe is packing up her sketchbook with a quiet sigh: \"I guess your stomach really acted up again...\""
+        },
+        {
+          "id": "stay_date",
+          "label": "☕ Stay & Prioritize Chloe (Ignore the Sirens)",
+          "description": "Take Chloe's hand, ignore the wailing sirens, and assure her that first responders have it handled.",
+          "heroismGain": -10,
+          "affinityGain": 30,
+          "stressChange": 25,
+          "suspicionChange": -15,
+          "outcomeDialogue": "Chloe squeezes your hand tightly, touched that you stayed by her side. You share a deeply romantic moment, though your conscience burns with hero guilt."
+        },
+        {
+          "id": "confess_identity",
+          "label": "🎭 CONFESS YOUR SECRET IDENTITY RIGHT NOW!",
+          "description": "Look Chloe in the eyes, show her your costume under your coat, and tell her the whole truth.",
+          "heroismGain": 15,
+          "affinityGain": 50,
+          "stressChange": -30,
+          "suspicionChange": -100,
+          "outcomeDialogue": "Chloe’s eyes widen in awe and relief: \"I... I always suspected! You don't have to lie to me ever again. Go save them—I'll be waiting right here for you!\""
+        },
+        {
+          "id": "subtle_wits",
+          "label": "🧠 Subtle Civilian Hack / Wits (No Suit Up)",
+          "description": "Use your phone to hack the municipal fire-sprinkler water pressure grid while staying seated.",
+          "heroismGain": 15,
+          "affinityGain": 20,
+          "stressChange": -10,
+          "suspicionChange": -5,
+          "statCheckRequired": {
+            "stat": "intellect",
+            "threshold": 14
+          },
+          "outcomeDialogue": "You secretly override the water main pressure on your phone. Minutes later, the sirens subside as automated deluge cannons extinguish the blaze!"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "label": "Reminisce about growing up before superpowers changed everything.",
+        "affinityGain": 25,
+        "stressReduction": 40,
+        "perk": "+25 Affinity with Chloe & -40% Stress"
+      },
+      {
+        "label": "Help her brainstorm new specialty pastry recipes.",
+        "affinityGain": 18,
+        "stressReduction": 30,
+        "perk": "+18 Affinity with Chloe & -30% Stress"
+      }
+    ]
+  },
+  {
+    "id": "date-sarah-observatory",
+    "name": "Helios Celestial Observatory Rooftop Gala",
+    "partnerName": "Dr. Sarah Sterling",
+    "partnerId": "rel-love-interest-elena",
+    "location": "Helios Observatory, High District",
+    "cost": 100,
+    "energyCost": 15,
+    "dialogueScenario": "Sarah leans against the glass balustrade overlooking the twinkling city lights, holding two glasses of sparkling cider after a grueling 14-hour trauma shift.",
+    "dialogueResponses": [
+      {
+        "text": "\"You saved three lives in surgery today, Sarah. You're the real superhero of this city.\"",
+        "partnerReply": "Sarah smiles warmly, clinking her glass against yours: \"It takes a team. But it means the world coming from you.\"",
+        "affinityGain": 18
+      },
+      {
+        "text": "\"Look through the telescope—that star cluster has been stable for 4 billion years.\"",
+        "partnerReply": "Sarah chuckles softly: \"I wish human heart rates were that predictable during an emergency.\"",
+        "affinityGain": 14
+      }
+    ],
+    "crisisDilemma": {
+      "title": "CRISIS: HELICOPTER ROTOR FAILURE OVER THE OBSERVATORY SKYLINE!",
+      "premise": "A news traffic helicopter suffers mechanical failure directly above the observatory, spinning dangerously toward the crowded viewing terrace!",
+      "sirenDescription": "The pilot’s distress beacon blares over the PA: \"MAYDAY! TAIL ROTOR SEVERED! CRASH IMMINENT!\"",
+      "choices": [
+        {
+          "id": "restroom_hero",
+          "label": "🏃 Leap Over the Terrace & Suit Up in Mid-Air",
+          "description": "Vault off the balcony into the clouds, catch the spinning helicopter, and guide it to safety.",
+          "heroismGain": 25,
+          "affinityGain": -10,
+          "stressChange": 0,
+          "suspicionChange": 20,
+          "outcomeDialogue": "You catch the 4-ton helicopter in mid-air to thunderous applause! But Sarah is left standing alone at the terrace railing, searching the crowd for you."
+        },
+        {
+          "id": "stay_date",
+          "label": "☕ Protect Sarah & Shield Her from Shrapnel",
+          "description": "Pull Sarah behind the reinforced marble column, shielding her body with your own.",
+          "heroismGain": 5,
+          "affinityGain": 35,
+          "stressChange": 15,
+          "suspicionChange": -10,
+          "outcomeDialogue": "You shield Sarah as debris skids past. She gazes into your eyes, feeling the unnatural strength of your arms, deeply touched by your protective devotion."
+        },
+        {
+          "id": "confess_identity",
+          "label": "🎭 REVEAL IDENTITY: \"Sarah, trust me. I have to catch that chopper!\"",
+          "description": "Look Sarah in the eyes, let your powers flare, and leap into action in front of her.",
+          "heroismGain": 25,
+          "affinityGain": 45,
+          "stressChange": -20,
+          "suspicionChange": -100,
+          "outcomeDialogue": "Sarah gasps in realization: \"It’s been you all along... Be careful!\" She watches with fierce pride as you save the pilot, knowing your sacred secret."
+        },
+        {
+          "id": "subtle_wits",
+          "label": "🧠 Target Drone Tractor Beam via Smart-Watch",
+          "description": "Override the observatory magnetic crane beacon to guide the helicopter onto the helipad.",
+          "heroismGain": 20,
+          "affinityGain": 25,
+          "stressChange": -10,
+          "suspicionChange": -5,
+          "statCheckRequired": {
+            "stat": "intellect",
+            "threshold": 15
+          },
+          "outcomeDialogue": "You interface with the rooftop crane sensors, safely tethering the descending chopper without revealing your superhero alter-ego!"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "label": "Open up emotionally about the weight of your dual identity.",
+        "affinityGain": 20,
+        "stressReduction": 35,
+        "perk": "+20 Affinity with Sarah & -35% Stress"
+      },
+      {
+        "label": "Make a witty scientific joke to lighten the evening mood.",
+        "affinityGain": 15,
+        "stressReduction": 25,
+        "perk": "+15 Affinity with Sarah & -25% Stress"
+      }
+    ]
+  },
+  {
+    "id": "date-liam-jazz",
+    "name": "Midnight Vinyl & Drinks at The Blue Note",
+    "partnerName": "Liam Vance",
+    "partnerId": "rel-reporter-vance",
+    "location": "The Blue Note Lounge, Neon District",
+    "cost": 90,
+    "energyCost": 15,
+    "dialogueScenario": "Liam slides a glass of bourbon across the booth, adjusting his press badge with a smirk: \"Alright, let's skip the pleasantries. How does someone with your schedule always manage to be absent during the biggest break-ins?\"",
+    "dialogueResponses": [
+      {
+        "text": "\"A good investigative mind shouldn't see a conspiracy behind every late worker, Liam.\"",
+        "partnerReply": "Liam grins, tapping his pen: \"Fair enough. But you have to admit, your timing is Pulitzer-worthy.\"",
+        "affinityGain": 14
+      },
+      {
+        "text": "\"Maybe I just enjoy the nightlife as much as you do.\"",
+        "partnerReply": "Liam raises his glass: \"Then to the nightlife, and the secrets that keep Metro Nova interesting.\"",
+        "affinityGain": 16
+      }
+    ],
+    "crisisDilemma": {
+      "title": "CRISIS: ARMED MOB ENFORCERS RAID THE JAZZ CLUB!",
+      "premise": "Four syndicate enforcers kick through the front entrance of the lounge demanding the night's cash and hostage valuables!",
+      "sirenDescription": "The lead mobster fires a shotgun into the ceiling: \"NOBODY MOVE! PHONES AND WALLETS ON THE TABLE!\"",
+      "choices": [
+        {
+          "id": "restroom_hero",
+          "label": "🏃 Duck Into the Back Kitchen & Suit Up",
+          "description": "Duck into the kitchen pantry, don your cowl, and smash the gangsters through the entrance.",
+          "heroismGain": 15,
+          "affinityGain": -5,
+          "stressChange": 0,
+          "suspicionChange": 25,
+          "outcomeDialogue": "You defeat the mobsters in 10 seconds! Liam snaps photos with his camera, but writes in his notebook: \"Vigilante arrived suspiciously 3 seconds after civilian excused himself.\""
+        },
+        {
+          "id": "stay_date",
+          "label": "☕ Play the Cowardly Civilian to Deflect Liam's Suspicion",
+          "description": "Crouch under the table with Liam, handing over a fake wallet while memorizing gang tattoo insignias.",
+          "heroismGain": 0,
+          "affinityGain": 20,
+          "stressChange": 15,
+          "suspicionChange": -30,
+          "outcomeDialogue": "The thugs take the wallet and leave. Liam chuckles: \"Well, you certainly don't handle danger like a superhero.\" Suspicion drastically falls!"
+        },
+        {
+          "id": "confess_identity",
+          "label": "🎭 REVEAL IDENTITY: Disarm Gang in Front of Liam",
+          "description": "Stand up, catch the shotgun barrel in your bare fist, and bend the steel in two before Liam's eyes.",
+          "heroismGain": 20,
+          "affinityGain": 40,
+          "stressChange": -20,
+          "suspicionChange": -100,
+          "outcomeDialogue": "Liam drops his camera in disbelief: \"Holy... it was you the whole time! You saved my life. I swear on my Pulitzer, your secret dies with me.\""
+        },
+        {
+          "id": "subtle_wits",
+          "label": "🧠 Martial Disarm disguised as \"Bar Brawl Stumble\"",
+          "description": "Pretend to trip and spill drinks, sweeping the mobster's legs and kicking the gun under the bar.",
+          "heroismGain": 15,
+          "affinityGain": 25,
+          "stressChange": -10,
+          "suspicionChange": -10,
+          "statCheckRequired": {
+            "stat": "agility",
+            "threshold": 14
+          },
+          "outcomeDialogue": "You \"accidentally\" knock the lead thug unconscious with an ice bucket while tripping. Liam laughs: \"Craziest luck I've ever seen in a bar!\""
+        }
+      ]
+    },
+    "choices": [
+      {
+        "label": "Argue passionately that love is the very anchor that keeps heroes humane.",
+        "affinityGain": 22,
+        "stressReduction": 25,
+        "perk": "+22 Affinity with Liam & -15% Suspicion"
+      },
+      {
+        "label": "Challenge him to a friendly philosophical debate over drinks.",
+        "affinityGain": 16,
+        "stressReduction": 20,
+        "perk": "+16 Affinity with Liam & -20% Stress"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "proj-downtown-bridge",
+    "districtId": "district-downtown",
+    "districtName": "Downtown Metropolis",
+    "facilityName": "Metro Central Sky-Bridge & Monorail",
+    "damageLevel": 65,
+    "repairCost": 1500,
+    "heroTokenCost": 3,
+    "civicRewardApproval": 15,
+    "isRepaired": false,
+    "description": "Repair structural steel spans damaged during heavy battle with supervillains."
+  },
+  {
+    "id": "proj-docklands-filtration",
+    "districtId": "district-docklands",
+    "districtName": "The Iron Docklands",
+    "facilityName": "Harbor Water & Chemical Detox Grid",
+    "damageLevel": 50,
+    "repairCost": 1200,
+    "heroTokenCost": 2,
+    "civicRewardApproval": 12,
+    "isRepaired": false,
+    "description": "Cleanse contaminated runoff tanks following arms syndicate clashes."
+  },
+  {
+    "id": "proj-gothic-cathedral",
+    "districtId": "district-gothic",
+    "districtName": "Gothic Quarter & Asylum",
+    "facilityName": "St. Jude Heritage Medical Clinic",
+    "damageLevel": 75,
+    "repairCost": 1800,
+    "heroTokenCost": 4,
+    "civicRewardApproval": 20,
+    "isRepaired": false,
+    "description": "Restore emergency trauma center serving low-income families and asylum staff."
+  },
+  {
+    "id": "proj-neon-grid",
+    "districtId": "district-neon",
+    "districtName": "Neon District",
+    "facilityName": "Holographic Communications Sub-Station",
+    "damageLevel": 40,
+    "repairCost": 1000,
+    "heroTokenCost": 2,
+    "civicRewardApproval": 10,
+    "isRepaired": false,
+    "description": "Reboot fiber-optic relays disrupted by cybernetic EMP grenades."
+  }
+]
