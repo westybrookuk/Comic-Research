@@ -1,0 +1,222 @@
+================================================================================
+METRO CITY LOCATIONS & ARCHITECTURAL AI ART GENERATION PROMPT GUIDE
+================================================================================
+VANGUARD: THE GREATEST HERO RPG
+Universe: Metro City / Metro Nova
+Theme: Neo-Noir Comic Splash Art, Cyber-Gothic, Cinematic 80s/90s Comic Books
+
+This reference guide provides comprehensive architectural dossiers, combat hazards,
+lighting mood palettes, and master AI generation prompts for all 10 iconic locations
+in Metro City. Compatible with Midjourney v6, Stable Diffusion XL, and DALL-E 3.
+
+--------------------------------------------------------------------------------
+1. APEX TOWER PENTHOUSE SPIRE
+--------------------------------------------------------------------------------
+District: Downtown Financial Hub
+Category: Landmark & Corporate Headquarters
+Tagline: Gleaming 110-story skyscraper piercing the stormclouds with a neon holographic beacon.
+Description: The pinnacle of corporate wealth and technological ambition in Metro City.
+The helipad offers breathtaking 360-degree vistas of the illuminated skyline, with
+floor-to-ceiling reinforced smart glass and corporate laser security grids.
+
+Tactical Environmental Hazards:
+- 120 mph Gale-force winds (Knockback chance)
+- Glass penthouse shatter zone (Shrapnel damage)
+- Active corporate surveillance laser grids
+
+Lighting & Mood: High-contrast midnight noir, neon teal and amber corporate holograms, rain-slick reflections.
+
+Master AI Generation Prompt:
+Comic book concept art of Apex Tower penthouse helipad at midnight, towering above Metro City, dense rainstorm, hyper-detailed cyberpunk skyscraper architecture, glowing neon cyan and gold corporate holograms, cinematic wide-angle hero shot, dynamic atmospheric lighting, 8k comic illustration, Jack Kirby meets Moebius style --ar 16:9 --style raw
+
+Negative Prompt: blurry, low quality, photorealistic, messy line art, dull colors
+
+--------------------------------------------------------------------------------
+2. NEON ALLEYS & CYBER BLACK MARKET
+--------------------------------------------------------------------------------
+District: Neon District
+Category: Underworld & Hacker Haven
+Tagline: Multi-tiered alleyways bathed in pulsating pink, cyan, and violet holographic signage.
+Description: A labyrinth of clandestine noodle bars, black-market cyberware clinics,
+and rogue hacker havens sheltered beneath buzzing neon kanji signs and elevated monorail tracks.
+
+Tactical Environmental Hazards:
+- Exposed high-voltage power conduits (+Electric Stun)
+- Slick wet cobblestones (Evasion penalty)
+- Rogue combat drone patrols
+
+Lighting & Mood: Vibrant neon magenta, electric blue, steam vents glowing under soft pink neon, deep purple shadows.
+
+Master AI Generation Prompt:
+Vibrant comic book splash page of Neon District subterranean alley in Metro City, glowing neon kanji billboards, pink and cyan reflections on puddles, steam rising from grates, holographic noodle bar stands, deep shadows, Frank Miller style linework, cinematic wide perspective --ar 16:9 --v 6.0
+
+Negative Prompt: flat lighting, oversaturated bloom, blurry textures, watermark
+
+--------------------------------------------------------------------------------
+3. BLACKGATE SUPERVILLAIN PENITENTIARY
+--------------------------------------------------------------------------------
+District: Industrial Bay Island
+Category: Civic High-Security Containment
+Tagline: Brutalist titanium fortress island surrounded by turbulent, storm-tossed coastal waters.
+Description: Equipped with custom metahuman dampening cells, cryogenic cryo-stasis
+containment rings, and laser barbed fences to isolate humanity’s most dangerous villains.
+
+Tactical Environmental Hazards:
+- Power-dampening aura field (-25% AP regeneration)
+- Automated searchlight miniguns
+- Cryogenic cell rupture cold-zones (+Freeze status)
+
+Lighting & Mood: Stark emergency strobe sirens, industrial searchlights piercing ocean fog, ominous crimson hazard beacons.
+
+Master AI Generation Prompt:
+Dark grim comic book art of Blackgate Supervillain Asylum island fortress, brutalist titanium monolithic architecture, giant crimson warning strobe lights cutting through dense fog, stormy dark ocean waves crashing, ominous high-security searchlights, David Finch style --ar 16:9
+
+Negative Prompt: cheerful, cartoonish, bright daytime, low detail
+
+--------------------------------------------------------------------------------
+4. TITAN FOUNDRY & SMELTING WORKS
+--------------------------------------------------------------------------------
+District: Old Town Industrial Zone
+Category: Heavy Industrial & Lair
+Tagline: Rumbling heavy industrial facility with colossal blast furnaces and suspended magma vats.
+Description: The industrial heart of the city, where scrap metal and rare exotics
+are smelted. A treacherous combat ground of catwalks, glowing crucible pots, and roaring furnaces.
+
+Tactical Environmental Hazards:
+- Molten metal spillways (+50 Fire Damage / Burn)
+- Swinging heavy crane hooks
+- Superheated steam vents
+
+Lighting & Mood: Blazing furnace orange, fiery amber glow, dense black soot smoke, sparks cascading across iron catwalks.
+
+Master AI Generation Prompt:
+Dynamic comic book battle background of a massive industrial steel foundry at night, giant open blast furnaces glowing fiery orange and molten yellow, sparks raining down on iron catwalks, heavy chains and cranes, intense cinematic lighting, Mike Mignola comic aesthetic --ar 16:9
+
+Negative Prompt: cold colors, clean room, sterile, blurry
+
+--------------------------------------------------------------------------------
+5. PROMETHEUS QUANTUM ACCELERATOR
+--------------------------------------------------------------------------------
+District: Tech Corridor
+Category: Scientific Facility & Origin Landmark
+Tagline: Subterranean 5-mile particle accelerator ring humming with stabilized antimatter.
+Description: The epicenter of cutting-edge physics research and the birthplace
+of several metahuman origin anomalies. Floating holographic terminals and concentric magnetic rings.
+
+Tactical Environmental Hazards:
+- Anti-gravity distortion bursts (Floating / Disorientation)
+- Tachyon energy arcs (+Random Power Shift)
+- Temporal dilation fields
+
+Lighting & Mood: Luminescent cerulean energy vortex, prismatic quantum refraction rays, glowing circular containment rings.
+
+Master AI Generation Prompt:
+Futuristic sci-fi comic interior of Prometheus Quantum Accelerator ring, glowing concentric particle rings pulsing with electric blue and violet energy arcs, floating anti-gravity consoles, clean white and brushed steel labs, Olivier Coipel comic book art --ar 16:9
+
+Negative Prompt: medieval, fantasy, low resolution, dirty
+
+--------------------------------------------------------------------------------
+6. FORGOTTEN METRO CATACOMBS & ABANDONED RAIL
+--------------------------------------------------------------------------------
+District: Subterranean Transit
+Category: Underworld & Occult Labyrinth
+Tagline: Decommissioned 1920s subway tunnels and subterranean aqueducts overgrown with bioluminescence.
+Description: A subterranean labyrinth hidden beneath active transit lines,
+featuring cracked tiled walls, derelict subway cars, and hidden passages for clandestine syndicates.
+
+Tactical Environmental Hazards:
+- Live 750V third-rail tracks
+- Toxic stagnant water pools
+- Collapsing tunnel ceilings
+
+Lighting & Mood: Flickering incandescent utility bulbs, phosphorescent moss glow, long eerie tunnel shadows.
+
+Master AI Generation Prompt:
+Atmospheric comic book underground shot of an abandoned 1930s subway station tunnel in Metro City, cracked tiled walls covered in graffiti, puddles reflecting flickering yellow utility lanterns, eerie bioluminescent fungi, noir comic style, high contrast ink shadows --ar 16:9
+
+Negative Prompt: modern clean, daylight, bright sunshine, flat colors
+
+--------------------------------------------------------------------------------
+7. ST. JUDE INTERNATIONAL CARGO DOCKS
+--------------------------------------------------------------------------------
+District: Harbor District
+Category: Industrial & Smuggling Hotspot
+Tagline: Sprawling shipping container maze illuminated by towering halogen floodlights and harbor lighthouses.
+Description: Thousands of color-coded shipping containers stacked four high,
+serving as prime smuggler drop zones, rooftop ambush corridors, and heavy gantry crane showdowns.
+
+Tactical Environmental Hazards:
+- Toppling shipping container stacks
+- Deep dark harbor waters
+- Gantry crane magnetic clamps
+
+Lighting & Mood: Misty sea haze, stark yellow gantry floodlights, deep blue ocean fog, rotating lighthouse beams.
+
+Master AI Generation Prompt:
+Moody comic book illustration of international shipping docks at night, towering stacks of colorful cargo containers under heavy rain, giant harbor cranes silhouettes, misty ocean harbor with lighthouse beam in background, Jim Lee comic style --ar 16:9
+
+Negative Prompt: sunny beach, low contrast, washed out colors
+
+--------------------------------------------------------------------------------
+8. VANGUARD MEMORIAL PLAZA & HALL OF HEROES
+--------------------------------------------------------------------------------
+District: Central Civic District
+Category: Civic Landmark & Public Hub
+Tagline: Magnificent neoclassical marble plaza featuring statues of legendary Golden Age protectors.
+Description: The ceremonial heart of Metro City, where citizens gather for
+press conferences, mayoral rallies, and public memorials. Reflecting fountains and heroic banners.
+
+Tactical Environmental Hazards:
+- Crowded civilian bystanders (Approval Risk)
+- Marble column collapses
+- News helicopter downdrafts
+
+Lighting & Mood: Golden sunset rays reflecting off polished white marble, warm brass and bronze statue highlights.
+
+Master AI Generation Prompt:
+Epic comic book wide shot of Vanguard Memorial Plaza at golden hour sunset, towering bronze superhero statues standing vigil over neoclassical marble pillars and reflecting fountains, fluttering flags, majestic heroic mood, Alex Ross style painted realism --ar 16:9
+
+Negative Prompt: dark gritty, dystopian cyberpunk, ruined buildings
+
+--------------------------------------------------------------------------------
+9. ZEPHYR PEAK COSMIC OBSERVATORY
+--------------------------------------------------------------------------------
+District: Mountain Overlook
+Category: Cosmic & Astrological Research
+Tagline: High-altitude astronomical dome tuned to interstellar frequencies and cosmic anomalies.
+Description: Perched above the city smog on Mount Zephyr, this observatory
+tracks deep-space incursions, solar flares, and dimensional rifts across the multiverse.
+
+Tactical Environmental Hazards:
+- Sub-zero alpine frost (-Speed)
+- Cosmic tachyon interference
+- High-voltage telescope gyro-motors
+
+Lighting & Mood: Vibrant indigo night sky ablaze with the Aurora Borealis and star clusters, azure starlight beams.
+
+Master AI Generation Prompt:
+Cosmic comic book art of high-altitude mountain observatory dome open to the night sky, vibrant green and violet Aurora Borealis glowing overhead, giant optical telescope aimed at a pulsing interstellar nebula, starry night sky, Neil Gaiman Sandman aesthetic --ar 16:9
+
+Negative Prompt: urban smog, daylight, cartoonish flat vector
+
+--------------------------------------------------------------------------------
+10. ARCHANGEL SUSPENSION BRIDGE
+--------------------------------------------------------------------------------
+District: Inter-District Crossing
+Category: Landmark & Transit Artery
+Tagline: Iconic art-deco suspension bridge spanning the Metro River with steel gargoyle cable pylons.
+Description: The main artery connecting downtown to the outer boroughs, often
+the stage for high-speed vehicle pursuits, bomb defusal crises, and dramatic bridge-cable rescues.
+
+Tactical Environmental Hazards:
+- Suspension cable snaps
+- Traffic gridlock vehicle explosions
+- 200-foot drop into icy river rapids
+
+Lighting & Mood: Twin cable towers with glowing amber aviation beacons, car taillight light trails, river mist.
+
+Master AI Generation Prompt:
+Dramatic comic book wide splash page of a massive art-deco suspension bridge over a stormy river at night, heroic gargoyle statues on the pylons, streams of red and white car light trails, lightning flashing in the stormclouds behind, Greg Capullo style --ar 16:9
+
+Negative Prompt: simple, low poly, bad perspective, daytime
+================================================================================

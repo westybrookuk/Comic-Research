@@ -1,0 +1,267 @@
+import { ComicStoryCutscene } from '../types/game';
+
+export const STORY_CUTSCENES: ComicStoryCutscene[] = [
+  {
+    id: 'cutscene-nullvoid-preboss',
+    title: 'The Event Horizon Mandate',
+    actTitle: 'ACT III: SHADOWS OVER METRO NOVA',
+    premise: 'Null Void stands atop the Central Quantum Singularity Spire, gravity warping around his obsidian cape.',
+    triggerContext: 'PreBossClash',
+    villainId: 'villain-null-void',
+    initialPanelId: 'panel-1',
+    panels: [
+      {
+        id: 'panel-1',
+        speakerName: 'Null Void',
+        speakerRole: 'Villain',
+        speakerAvatar: '🌌',
+        expression: 'smirking',
+        backdropTheme: 'QuantumCore',
+        comicPanelLayout: 'wide-cinematic',
+        dialogueText: 'You arrive exactly 4.2 seconds too late, Vanguard. Look down upon Metro Nova... a chaotic organism clinging to fleeting illusions of order.',
+        onomatopoeiaOverlay: 'HUMMMM!',
+        sfxCue: 'laser',
+        nextPanelId: 'panel-2'
+      },
+      {
+        id: 'panel-2',
+        speakerName: 'PlayerHero',
+        speakerRole: 'Hero',
+        speakerAvatar: '🦸',
+        expression: 'determined',
+        backdropTheme: 'QuantumCore',
+        comicPanelLayout: 'dramatic-close',
+        dialogueText: 'Shut down the tachyon destabilizer, Void. This city has survived worse monsters than you, and it will survive tonight.',
+        onomatopoeiaOverlay: 'STEP!',
+        sfxCue: 'punch',
+        nextPanelId: 'panel-3'
+      },
+      {
+        id: 'panel-3',
+        speakerName: 'Null Void',
+        speakerRole: 'Villain',
+        speakerAvatar: '🌌',
+        expression: 'angry',
+        backdropTheme: 'QuantumCore',
+        comicPanelLayout: 'diagonal-split',
+        dialogueText: 'A monster? I am the surgeon excising human frailty! Will you uphold your fragile moral oath while the horizon collapses, or will you break?',
+        choices: [
+          {
+            id: 'choice-paragon',
+            label: '☀️ "My code is what separates protectors from tyrants!"',
+            previewQuote: 'Inspire the citizens listening to the broadcast.',
+            moralType: 'Paragon',
+            alignmentDelta: 10,
+            approvalDelta: 8,
+            suspicionDelta: -5,
+            combatBuffGranted: { bonusArmor: 5, bonusSuper: 20 },
+            outcomeNarrative: 'Your unwavering moral clarity resonates across emergency radios, firing up public morale!',
+            nextPanelId: 'panel-4-paragon'
+          },
+          {
+            id: 'choice-vigilante',
+            label: '🌑 "I don\'t need an oath to put you in the ground, Void."',
+            previewQuote: 'Focus on ruthless tactical efficiency.',
+            moralType: 'Vigilante',
+            alignmentDelta: 0,
+            approvalDelta: 2,
+            suspicionDelta: 2,
+            combatBuffGranted: { bonusCrit: 15, bonusSuper: 30 },
+            outcomeNarrative: 'You calibrate your tactical scanners, locking onto his quantum shield harmonics!',
+            nextPanelId: 'panel-4-vigilante'
+          },
+          {
+            id: 'choice-antihero',
+            label: '💀 "You\'re leaving this spire in an urn, not handcuffs."',
+            previewQuote: 'Strike pure dread into the supervillain.',
+            moralType: 'AntiHero',
+            alignmentDelta: -10,
+            approvalDelta: -4,
+            suspicionDelta: 6,
+            combatBuffGranted: { bonusCrit: 25, bonusArmor: -3 },
+            outcomeNarrative: 'A chilling aura emanates from your fists. Null Void recoils for a split second in surprise!',
+            nextPanelId: 'panel-4-antihero'
+          }
+        ]
+      },
+      {
+        id: 'panel-4-paragon',
+        speakerName: 'Null Void',
+        speakerRole: 'Villain',
+        speakerAvatar: '🌌',
+        expression: 'angry',
+        backdropTheme: 'QuantumCore',
+        comicPanelLayout: 'full-splash',
+        dialogueText: 'Sentimental fool! Then fall as an idol for sheep to weep over!',
+        onomatopoeiaOverlay: 'KRAA-KOOM!',
+        sfxCue: 'super'
+      },
+      {
+        id: 'panel-4-vigilante',
+        speakerName: 'Null Void',
+        speakerRole: 'Villain',
+        speakerAvatar: '🌌',
+        expression: 'shocked',
+        backdropTheme: 'QuantumCore',
+        comicPanelLayout: 'full-splash',
+        dialogueText: 'Calculating... ruthless. You are closer to my design than you admit!',
+        onomatopoeiaOverlay: 'ZAPPP!',
+        sfxCue: 'laser'
+      },
+      {
+        id: 'panel-4-antihero',
+        speakerName: 'Null Void',
+        speakerRole: 'Villain',
+        speakerAvatar: '🌌',
+        expression: 'terrified',
+        backdropTheme: 'QuantumCore',
+        comicPanelLayout: 'full-splash',
+        dialogueText: 'What kind of protector are you?! Guards, activate the singularity cannons NOW!',
+        onomatopoeiaOverlay: 'CRUSH!',
+        sfxCue: 'punch'
+      }
+    ]
+  },
+  {
+    id: 'cutscene-pyre-foundry',
+    title: 'Ashes of the High-Rise',
+    actTitle: 'ACT II: PYRO-SYNDICATE SIEGE',
+    premise: 'Queen Pyre has ignited the Eastside Foundry furnaces, threatening to melt downtown infrastructure.',
+    triggerContext: 'PreBossClash',
+    villainId: 'villain-queen-pyre',
+    initialPanelId: 'pyre-1',
+    panels: [
+      {
+        id: 'pyre-1',
+        speakerName: 'Queen Pyre',
+        speakerRole: 'Villain',
+        speakerAvatar: '🔥',
+        expression: 'smirking',
+        backdropTheme: 'VolcanoLair',
+        comicPanelLayout: 'wide-cinematic',
+        dialogueText: 'Listen to the steel groan, hero! The corporate barons built this city on grease and greed. Today, I burn it clean!',
+        onomatopoeiaOverlay: 'FZZZZT!',
+        sfxCue: 'laser',
+        nextPanelId: 'pyre-2'
+      },
+      {
+        id: 'pyre-2',
+        speakerName: 'PlayerHero',
+        speakerRole: 'Hero',
+        speakerAvatar: '🦸',
+        expression: 'heroic',
+        backdropTheme: 'VolcanoLair',
+        comicPanelLayout: 'dramatic-close',
+        dialogueText: 'Workers and innocent families are trapped on the lower levels, Pyre. Stand down before you incinerate yourself!',
+        choices: [
+          {
+            id: 'pyre-evacuate',
+            label: '🛡️ Prioritize safety valves and civilian evacuation first.',
+            previewQuote: 'Shield the refinery workers.',
+            moralType: 'Paragon',
+            alignmentDelta: 8,
+            approvalDelta: 12,
+            stressDelta: -10,
+            nextPanelId: 'pyre-3'
+          },
+          {
+            id: 'pyre-blitz',
+            label: '⚡ Overcharge thermal dampeners and rush Queen Pyre!',
+            previewQuote: 'Direct confrontation.',
+            moralType: 'Tactical',
+            alignmentDelta: 2,
+            approvalDelta: 4,
+            combatBuffGranted: { bonusSuper: 25 },
+            nextPanelId: 'pyre-3'
+          }
+        ]
+      },
+      {
+        id: 'pyre-3',
+        speakerName: 'Queen Pyre',
+        speakerRole: 'Villain',
+        speakerAvatar: '🔥',
+        expression: 'angry',
+        backdropTheme: 'VolcanoLair',
+        comicPanelLayout: 'full-splash',
+        dialogueText: 'Let the inferno rise! To ashes with all of you!',
+        onomatopoeiaOverlay: 'BOOOOM!',
+        sfxCue: 'super'
+      }
+    ]
+  },
+  {
+    id: 'cutscene-chloe-confession',
+    title: 'Over Steaming Espresso',
+    actTitle: 'CIVILIAN INTERLUDE: ROASTER\'S HAVEN',
+    premise: 'Late evening rain taps on the café window. Chloe slides a warm latte across the mahogany counter.',
+    triggerContext: 'ConfidantDate',
+    initialPanelId: 'chloe-1',
+    panels: [
+      {
+        id: 'chloe-1',
+        speakerName: 'Chloe Roaster',
+        speakerRole: 'Confidant',
+        speakerAvatar: '☕',
+        expression: 'somber',
+        backdropTheme: 'CafeInterior',
+        comicPanelLayout: 'wide-cinematic',
+        dialogueText: 'You look exhausted. And that bruise along your collarbone... that didn\'t come from a desk job at the office.',
+        sfxCue: 'page',
+        nextPanelId: 'chloe-2'
+      },
+      {
+        id: 'chloe-2',
+        speakerName: 'PlayerHero',
+        speakerRole: 'Hero',
+        speakerAvatar: '🦸',
+        expression: 'heroic',
+        backdropTheme: 'CafeInterior',
+        comicPanelLayout: 'dramatic-close',
+        dialogueText: 'It was a hectic commute on the subway line. Just city life, Chloe.',
+        nextPanelId: 'chloe-3'
+      },
+      {
+        id: 'chloe-3',
+        speakerName: 'Chloe Roaster',
+        speakerRole: 'Confidant',
+        speakerAvatar: '☕',
+        expression: 'romantic',
+        backdropTheme: 'CafeInterior',
+        comicPanelLayout: 'diagonal-split',
+        dialogueText: 'You don\'t have to carry the whole world alone when you walk through that door. Whatever you\'re fighting out there... I\'m here.',
+        choices: [
+          {
+            id: 'chloe-open-heart',
+            label: '❤️ "Having a place like this... having you... keeps me grounded."',
+            previewQuote: 'Deepen emotional bond.',
+            moralType: 'Romance',
+            affinityDelta: 20,
+            stressDelta: -25,
+            nextPanelId: 'chloe-4'
+          },
+          {
+            id: 'chloe-deflect',
+            label: '☕ "Best espresso in Metro Nova always heals whatever hurts."',
+            previewQuote: 'Keep things light and comforting.',
+            moralType: 'Tactical',
+            affinityDelta: 10,
+            stressDelta: -15,
+            nextPanelId: 'chloe-4'
+          }
+        ]
+      },
+      {
+        id: 'chloe-4',
+        speakerName: 'Chloe Roaster',
+        speakerRole: 'Confidant',
+        speakerAvatar: '☕',
+        expression: 'smirking',
+        backdropTheme: 'CafeInterior',
+        comicPanelLayout: 'wide-cinematic',
+        dialogueText: 'Promise me you\'ll come back in one piece tomorrow. Double caramel on the house if you do.',
+        sfxCue: 'camera'
+      }
+    ]
+  }
+];

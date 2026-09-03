@@ -1,0 +1,80 @@
+[
+  {
+    "id": "hq-supercomputer",
+    "name": "Mainframe AI Supercomputer (Cerebro-Core)",
+    "level": 1,
+    "maxLevel": 5,
+    "cost": 800,
+    "tokenCost": 2,
+    "category": "Tech",
+    "description": "Monitors police bands, encrypted criminal comms, and satellite imagery across Metro Nova.",
+    "currentBenefit": "+10% chance to detect active villain masterplan clues during patrols.",
+    "nextBenefit": "+20% clue detection and unlocks District Danger Forecasts.",
+    "icon": "Server"
+  },
+  {
+    "id": "hq-danger-room",
+    "name": "Holographic Combat Simulator (Danger Room)",
+    "level": 1,
+    "maxLevel": 5,
+    "cost": 1000,
+    "tokenCost": 3,
+    "category": "Training",
+    "description": "A hard-light combat simulator to test battle tactics and power synergies without injury.",
+    "currentBenefit": "+15% bonus XP gained from all combat encounters.",
+    "nextBenefit": "+30% bonus XP and grants +1 Stat Point upon upgrading.",
+    "icon": "Dumbbell"
+  },
+  {
+    "id": "hq-med-bay",
+    "name": "Cryo-Regeneration Medical Bay",
+    "level": 1,
+    "maxLevel": 5,
+    "cost": 750,
+    "tokenCost": 2,
+    "category": "Medical",
+    "description": "Equipped with rapid cell-regenerating biocams and detox synthesizers.",
+    "currentBenefit": "Recover +25% Health each day cycle and cures trauma fatigue.",
+    "nextBenefit": "Recover +50% Health each day and grants automatic combat revive at 25% HP once per week.",
+    "icon": "HeartPulse"
+  },
+  {
+    "id": "hq-armory",
+    "name": "Advanced Weapons & Suit Armory",
+    "level": 1,
+    "maxLevel": 5,
+    "cost": 1200,
+    "tokenCost": 4,
+    "category": "Tech",
+    "description": "Precision machining stations for suit composite weaving and tactical gadget fabrication.",
+    "currentBenefit": "+10 Base Armor and unlocks Tier II Gadget craft.",
+    "nextBenefit": "+20 Base Armor and +10% Power Damage output.",
+    "icon": "ShieldCheck"
+  },
+  {
+    "id": "hq-trophy-room",
+    "name": "Hall of Victory & Comic Archives",
+    "level": 1,
+    "maxLevel": 5,
+    "cost": 600,
+    "tokenCost": 2,
+    "category": "Defense",
+    "description": "Displays defeated villain gear, framed historic comic covers, and citizen thank-you awards.",
+    "currentBenefit": "+15% Fame and Comic Book Issue Sales revenue.",
+    "nextBenefit": "+30% Fame, +25% Comic Royalties, and boosts Hero Morale.",
+    "icon": "Trophy"
+  },
+  {
+    "id": "hq-teleporter",
+    "name": "Quantum Displacement Teleporter Pad",
+    "level": 0,
+    "maxLevel": 3,
+    "cost": 2000,
+    "tokenCost": 5,
+    "category": "Transport",
+    "description": "Instant transit beam across all city districts, bypassing traffic and ambush threats.",
+    "currentBenefit": "Not built yet (Costs 0 Energy to travel between districts when active).",
+    "nextBenefit": "Patrol Energy costs reduced by 50% across all districts.",
+    "icon": "Zap"
+  }
+]

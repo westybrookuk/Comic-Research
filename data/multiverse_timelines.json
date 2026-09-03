@@ -1,0 +1,86 @@
+[
+  {
+    "id": "timeline-omega-tyrant",
+    "name": "Earth-Omega: Cyber-Dystopia",
+    "universeCode": "EARTH-Ω-902",
+    "description": "A timeline where the Apex Vanguard fell, and an authoritarian sun-god crowned himself eternal emperor.",
+    "threatLevel": 45,
+    "bossVariant": {
+      "name": "Emperor Solaris Rex",
+      "title": "Tyrant Solar Imperator",
+      "origin": "Corrupted Cosmic Godhood",
+      "hp": 350,
+      "attack": 28,
+      "defense": 25,
+      "powers": [
+        "Solar Beam",
+        "Plasma Burst",
+        "Supernova Genesis"
+      ],
+      "avatar": "👑☀️",
+      "color": "#FF8C00",
+      "dialogue": "Order requires absolute rule! This timeline shall kneel as mine did!"
+    },
+    "riftOpen": true,
+    "defeated": false,
+    "shardReward": 50,
+    "uniqueCostumeReward": "👑 Imperial Sol Invictus Mantle",
+    "recruitedChampion": "Rebel Cyber-Nocturne"
+  },
+  {
+    "id": "timeline-nether-inquisition",
+    "name": "Earth-Nether: The Inverted Void",
+    "universeCode": "EARTH-Ψ-660",
+    "description": "A dark dimension where arcane magic devoured civilization and the Grimoire purged the light.",
+    "threatLevel": 50,
+    "bossVariant": {
+      "name": "Grand Inquisitor Dr. Mythos",
+      "title": "Arch-Purifier of the Nether-Rift",
+      "origin": "Forbidden Eldritch Pact",
+      "hp": 380,
+      "attack": 30,
+      "defense": 22,
+      "powers": [
+        "Eldritch Flame",
+        "Astral Binding Chains",
+        "Void Rift Singularity"
+      ],
+      "avatar": "🔮💀",
+      "color": "#4B0082",
+      "dialogue": "All dimensions must be cleansed in the purifying dark flame of the void!"
+    },
+    "riftOpen": false,
+    "defeated": false,
+    "shardReward": 75,
+    "uniqueCostumeReward": "🔮 Void-Walker Astral Cloak",
+    "recruitedChampion": "Saint Sarah the Redeemed"
+  },
+  {
+    "id": "timeline-prime-clockwork",
+    "name": "Earth-Steam: Chrono-Empire",
+    "universeCode": "EARTH-Σ-1899",
+    "description": "A steampunk timeline locked in an infinite temporal loop orchestrated by mechanical clockwork monoliths.",
+    "threatLevel": 60,
+    "bossVariant": {
+      "name": "Chronos Prime Automaton",
+      "title": "Infinite Master of Brass Entropy",
+      "origin": "Tachyon Steam Engine Core",
+      "hp": 420,
+      "attack": 32,
+      "defense": 30,
+      "powers": [
+        "Hyper-Sonic Sweep",
+        "Orbital Strike Protocol",
+        "Astral Binding Chains"
+      ],
+      "avatar": "⚙️🤖",
+      "color": "#B8860B",
+      "dialogue": "Tick-tock, anomaly. Your existence is mathematically overdue for deletion."
+    },
+    "riftOpen": false,
+    "defeated": false,
+    "shardReward": 100,
+    "uniqueCostumeReward": "⚙️ Clockwork Chrono-Exosuit",
+    "recruitedChampion": "Steampunk Titanix"
+  }
+]

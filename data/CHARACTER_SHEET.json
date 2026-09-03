@@ -1,0 +1,454 @@
+{
+  "heroes": [
+    {
+      "id": "hero-solaris",
+      "heroName": "Solaris",
+      "civilianName": "Marcus Bennett",
+      "gender": "masculine",
+      "origin": "Cosmic Awakening",
+      "tagline": "The Radiant Guardian of Metro Nova",
+      "avatarIcon": "☀️",
+      "colors": {
+        "primary": "#FFD700",
+        "secondary": "#FF3B30",
+        "accent": "#FFFFFF"
+      },
+      "job": "Senior Astrophysicist at Helios Labs",
+      "backstory": "Infused with the solar heart of an interstellar flare during an orbital research mission, Marcus returned to Earth as a beacon of unstoppable solar radiance.",
+      "powers": [
+        "Solar Beam",
+        "Plasma Burst",
+        "Photon Barrier",
+        "Supernova Genesis"
+      ]
+    },
+    {
+      "id": "hero-nocturne",
+      "heroName": "Nocturne",
+      "civilianName": "Cassandra Vance",
+      "gender": "feminine",
+      "origin": "Billionaire Vigilante",
+      "tagline": "The Silent Justice in the Dark",
+      "avatarIcon": "🦇",
+      "colors": {
+        "primary": "#1E1E2E",
+        "secondary": "#00F0FF",
+        "accent": "#A0AEC0"
+      },
+      "job": "CEO of Vance Dynamics",
+      "backstory": "Heir to the Vance Industrial empire, Cassandra trained in martial mastery across six continents to avenge her father and dismantle corruption from the shadows.",
+      "powers": [
+        "Shadow Flurry",
+        "Volt EMP Grenade",
+        "Smoke Shroud Evade",
+        "Ghost Blade Requiem"
+      ]
+    },
+    {
+      "id": "hero-titanix",
+      "heroName": "Titanix",
+      "civilianName": "Derrick Hall",
+      "gender": "masculine",
+      "origin": "Genetic Mutation",
+      "tagline": "The Unbreakable Juggernaut of Steel",
+      "avatarIcon": "🛡️",
+      "colors": {
+        "primary": "#E63946",
+        "secondary": "#457B9D",
+        "accent": "#F1FAEE"
+      },
+      "job": "Senior Paramedic - Metro Central EMS",
+      "backstory": "Born with dense hyper-cellular muscle fibers and bone density harder than diamond, Derrick works as an EMT, saving lives both with defibrillators and sheer muscle.",
+      "powers": [
+        "Meteor Punch",
+        "Tectonic Slam",
+        "Adamantine Stance",
+        "World Breaker Rush"
+      ]
+    },
+    {
+      "id": "hero-circuit-breaker",
+      "heroName": "Circuit Breaker",
+      "civilianName": "Maya Lin",
+      "gender": "feminine",
+      "origin": "High-Tech Prodigy",
+      "tagline": "The Digital Storm over the Skyline",
+      "avatarIcon": "⚡",
+      "colors": {
+        "primary": "#00F0FF",
+        "secondary": "#FFDE59",
+        "accent": "#111827"
+      },
+      "job": "Tech Columnist at The Daily Chronicle",
+      "backstory": "A prodigal cyberneticist who built her own powered exosuit with micro-missile arrays and cyber-disruption dampeners after her university lab was raided by cyber-terrorists.",
+      "powers": [
+        "Volt EMP Grenade",
+        "Swarm Micro-Missiles",
+        "Nanite Infusion",
+        "Orbital Strike Protocol"
+      ]
+    },
+    {
+      "id": "hero-dr-mythos",
+      "heroName": "Dr. Mythos",
+      "civilianName": "Julian Blackwood",
+      "gender": "masculine",
+      "origin": "Arcane Pact",
+      "tagline": "Master of the Mystic Leylines",
+      "avatarIcon": "🔮",
+      "colors": {
+        "primary": "#8A2BE2",
+        "secondary": "#FFD700",
+        "accent": "#1A0B2E"
+      },
+      "job": "Curator & Rare Antiquities Appraiser",
+      "backstory": "An antique scholar who unlocked the forbidden Grimoire of Aethelgard, gaining the power to bend eldritch dimensions and ward the mortal plane from cosmic horrors.",
+      "powers": [
+        "Eldritch Flame",
+        "Astral Binding Chains",
+        "Sanctuary Ward",
+        "Void Rift Singularity"
+      ]
+    }
+  ],
+  "villains": [
+    {
+      "id": "villain-null-void",
+      "name": "Null Void",
+      "alias": "Victor Vance",
+      "dangerTier": "City Scourge",
+      "category": "Cosmic",
+      "avatarIcon": "🕳️",
+      "color": "#3B0764",
+      "motive": "Devour Metro Nova in a miniature black hole singularity.",
+      "backstory": "Former particle physicist consumed by dark matter during an antimatter collider disaster. Believes the universe must return to peaceful absolute nothingness.",
+      "powers": [
+        "Eldritch Flame",
+        "Astral Binding Chains",
+        "Void Rift Singularity"
+      ],
+      "quips": [
+        "Your light is merely a brief spark before eternal darkness!",
+        "All atoms will bow before the void!",
+        "You cannot punch an event horizon, hero!"
+      ]
+    },
+    {
+      "id": "villain-queen-pyre",
+      "name": "Queen Pyre",
+      "alias": "Ignacia Drake",
+      "dangerTier": "Supervillain",
+      "category": "Energy",
+      "avatarIcon": "🔥",
+      "color": "#DC2626",
+      "motive": "Extort the city government by threatening to ignite the subterranean fuel reserves.",
+      "backstory": "A pyromancer who leads the Inferno Syndicate, ruling the underground black market with an iron and fiery fist.",
+      "powers": [
+        "Solar Beam",
+        "Plasma Burst",
+        "Supernova Genesis"
+      ],
+      "quips": [
+        "Is it getting warm in here, or is that just your impending defeat?",
+        "Metro Nova was built to burn!",
+        "Bow before the queen of flames!"
+      ]
+    },
+    {
+      "id": "villain-cyber-gorgon",
+      "name": "Cyber-Gorgon",
+      "alias": "Dr. Evelyn Cross",
+      "dangerTier": "Supervillain",
+      "category": "Tech",
+      "avatarIcon": "🤖",
+      "color": "#059669",
+      "motive": "Infect the city's central AI grid and convert citizens into augmented drones.",
+      "backstory": "An outcast cybernetics researcher who replaced her organic nervous system with a self-evolving neural network and venomous micro-drones.",
+      "powers": [
+        "Volt EMP Grenade",
+        "Swarm Micro-Missiles",
+        "Orbital Strike Protocol"
+      ],
+      "quips": [
+        "Flesh is weak. Logic is eternal.",
+        "Analyzing attack vector... probability of your survival: 0.04%.",
+        "Uploading your obsolescence now."
+      ]
+    },
+    {
+      "id": "villain-iron-juggernaut",
+      "name": "Iron Juggernaut",
+      "alias": "Boris Vance",
+      "dangerTier": "Local Menace",
+      "category": "Brawn",
+      "avatarIcon": "🦾",
+      "color": "#4B5563",
+      "motive": "Rob the Federal Depository and crush any cape who dares stand in his path.",
+      "backstory": "A disgraced mercenary clad in heavy hydraulic power-armor, specialized in high-risk armored bank heists and demolitions.",
+      "powers": [
+        "Meteor Punch",
+        "Tectonic Slam",
+        "Adamantine Stance"
+      ],
+      "quips": [
+        "You're like a fly on my reinforced titanium plating!",
+        "Time to smash some superhero skulls!",
+        "Out of my way, runt!"
+      ]
+    },
+    {
+      "id": "villain-madame-mirage",
+      "name": "Madame Mirage",
+      "alias": "Selene Moreau",
+      "dangerTier": "Supervillain",
+      "category": "Psionic",
+      "avatarIcon": "🎭",
+      "color": "#9333EA",
+      "motive": "Steal the Astral Diamond and frame the city's superhero league for the crime.",
+      "backstory": "A master psionic illusionist and international jewel thief who manipulates memories and bends sensory reality to execute impossible heists.",
+      "powers": [
+        "Psionic Spike",
+        "Smoke Shroud Evade",
+        "Synaptic Supernova"
+      ],
+      "quips": [
+        "Are you sure what you are seeing is real?",
+        "A hero blinded by their own self-righteous illusions.",
+        "You struck a phantom, darling."
+      ]
+    },
+    {
+      "id": "villain-chronos-master",
+      "name": "Chronos Master",
+      "alias": "Professor Tiberius Vance",
+      "dangerTier": "Cosmic Threat",
+      "category": "Tech",
+      "avatarIcon": "⏳",
+      "color": "#CA8A04",
+      "motive": "Rewind Metro Nova to 1920 to rule it as an immortal temporal monarch.",
+      "backstory": "A mad temporal physicist who created a localized tachyon time-distortion harness to manipulate entropy and conquer all timelines.",
+      "powers": [
+        "Hyper-Sonic Sweep",
+        "Orbital Strike Protocol",
+        "Astral Binding Chains"
+      ],
+      "quips": [
+        "I have already seen every move you will ever make.",
+        "Your defeat was written three minutes ago in my ledger.",
+        "Time ticks onward, hero!"
+      ]
+    }
+  ],
+  "sidekicks": [
+    {
+      "id": "sidekick-spark",
+      "heroAlias": "Volt Spark",
+      "civilianName": "Kit Morales",
+      "role": "Speedster Striker",
+      "avatarIcon": "⚡👦",
+      "color": "#FFDE59",
+      "backstory": "An eager high-school prodigy with natural electro-kinetic speed. Loyal, fast-talking, and eager to learn.",
+      "synergyMove": "Twin Lightning Barrage"
+    },
+    {
+      "id": "sidekick-nova-swift",
+      "heroAlias": "Cyber Hawk",
+      "civilianName": "Maya Vance",
+      "role": "Tech Hacker",
+      "avatarIcon": "🦅💻",
+      "color": "#00F0FF",
+      "backstory": "A teenage robotics genius who built reconnaissance drones to patrol alleyways in the Neon District.",
+      "synergyMove": "Drone EMP Disruption"
+    },
+    {
+      "id": "sidekick-shadow-kuroda",
+      "heroAlias": "Nightblade",
+      "civilianName": "Ren Kuroda",
+      "role": "Heavy Brawler",
+      "avatarIcon": "⚔️🥋",
+      "color": "#E63946",
+      "backstory": "A disciplined dojo prodigy with immense physical fortitude, determined to clear his family name.",
+      "synergyMove": "Tectonic Double Strike"
+    },
+    {
+      "id": "sidekick-aura-mystic",
+      "heroAlias": "Aura",
+      "civilianName": "Selene Vance",
+      "role": "Mystic Warder",
+      "avatarIcon": "🔮✨",
+      "color": "#8A2BE2",
+      "backstory": "An arcane novice gifted with rare healing sigils and shielding leylines.",
+      "synergyMove": "Sanctuary Aegis Pulse"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel-sidekick-spark",
+      "name": "Kit \"Spark\" Morales",
+      "role": "Sidekick",
+      "avatar": "👦⚡",
+      "backstory": "An eager teenage electro-kinetic speedster you took under your wing after saving his neighborhood.",
+      "perk": "Can be summoned to assist in combat, providing an extra attack each round."
+    },
+    {
+      "id": "rel-civilian-chloe",
+      "name": "Chloe Rivera",
+      "role": "Civilian Friend",
+      "avatar": "👩🎨",
+      "backstory": "Your childhood best friend and local coffee shop owner who provides emotional support and grounds you in normal life.",
+      "perk": "Spending time together reduces Hero Stress by 50% and reduces Identity Suspicion by 15%."
+    },
+    {
+      "id": "rel-reporter-vance",
+      "name": "Liam Vance",
+      "role": "Journalist Rival",
+      "avatar": "📰🧑",
+      "backstory": "A cynical Pulitzer-winning investigative journalist constantly digging into your civilian alibis.",
+      "perk": "Feeding exclusive scoops boosts Comic Issue sales by 30% and keeps media favor high."
+    },
+    {
+      "id": "rel-police-chief-ramirez",
+      "name": "Captain Elena Ramirez",
+      "role": "Police Chief",
+      "avatar": "👮‍♀️🚨",
+      "backstory": "A tough, honest precinct commander who secretly cooperates with capes to bypass corrupt bureaucracy.",
+      "perk": "Provides prioritized dispatch intel, revealing Masterplan Clues 50% faster during patrols."
+    },
+    {
+      "id": "rel-love-interest-elena",
+      "name": "Dr. Sarah Sterling",
+      "role": "Love Interest",
+      "avatar": "🩺👩‍⚕️",
+      "backstory": "Chief ER Trauma Surgeon at Metro General who repeatedly stitches up injured vigilantes and civilians alike.",
+      "perk": "Provides free emergency medical supplies, auto-healing 30% HP after difficult combats."
+    }
+  ],
+  "mayoral_candidates": [
+    {
+      "id": "candidate-thomas-sterling",
+      "name": "Thomas Sterling",
+      "title": "Former District Judge & Civic Philanthropist",
+      "avatar": "👨‍⚖️🏛️",
+      "platform": "Hero-Civic Partnership & Transparent Justice",
+      "stance": "Superhero Advocate",
+      "campaignQuote": "Our heroes are the shield that guards our future. City Hall should stand with them, not against them!"
+    },
+    {
+      "id": "candidate-victor-vance",
+      "name": "Victor Vance Sr.",
+      "title": "Ex-Commissioner of Municipal Police",
+      "avatar": "👮‍♂️⚖️",
+      "platform": "Zero Tolerance Law & Order & Anti-Vigilante Sanctions",
+      "stance": "Law & Order Hardliner",
+      "campaignQuote": "Unaccountable masked vigilantes cannot replace the rule of law. Order must be restored by badge and law!"
+    },
+    {
+      "id": "candidate-evelyn-cross",
+      "name": "Evelyn Cross-Sterling",
+      "title": "CEO of Apex Global Technologies",
+      "avatar": "💼🤖",
+      "platform": "Smart-City Automation & High-Tech Infrastructure",
+      "stance": "Corporate Technocrat",
+      "campaignQuote": "Through innovation, automated defense grids, and corporate prosperity, Metro Nova will lead the world."
+    }
+  ],
+  "alliances": [
+    {
+      "id": "alliance-apex",
+      "name": "The Apex Vanguard",
+      "motto": "By Vigilance, We Illuminate the Horizon.",
+      "headquarters": "Apex Citadel, Orbiting Sky-Tower",
+      "leader": "Solaris",
+      "members": [
+        "Solaris",
+        "Titanix",
+        "Zephyr"
+      ],
+      "icon": "Shield",
+      "bannerColor": "#FFD700"
+    },
+    {
+      "id": "alliance-street",
+      "name": "Street Knights Coalition",
+      "motto": "No Shadow Darker Than Our Resolve.",
+      "headquarters": "The Belfry, Gothic Quarter",
+      "leader": "Nocturne",
+      "members": [
+        "Nocturne",
+        "Phantom Blade",
+        "Vanguard Ronin"
+      ],
+      "icon": "Moon",
+      "bannerColor": "#00F0FF"
+    },
+    {
+      "id": "alliance-aegis",
+      "name": "Aegis Tech Syndicate",
+      "motto": "Tomorrow’s Defense, Engineered Today.",
+      "headquarters": "Helix Labs R&D Complex",
+      "leader": "Circuit Breaker",
+      "members": [
+        "Circuit Breaker",
+        "Pulse Vector",
+        "Exo-Centurion"
+      ],
+      "icon": "Zap",
+      "bannerColor": "#3B82F6"
+    },
+    {
+      "id": "alliance-cosmic",
+      "name": "The Arcane Enclave",
+      "motto": "Guardians Beyond the Veiled Veil.",
+      "headquarters": "Sanctum Arcanum",
+      "leader": "Dr. Mythos",
+      "members": [
+        "Dr. Mythos",
+        "Madame Astral",
+        "Spellweaver"
+      ],
+      "icon": "Sparkle",
+      "bannerColor": "#8A2BE2"
+    }
+  ],
+  "multiverse_boss_variants": [
+    {
+      "timelineId": "timeline-omega-tyrant",
+      "timeline": "Earth-Omega: Cyber-Dystopia",
+      "universeCode": "EARTH-Ω-902",
+      "boss": "Emperor Solaris Rex",
+      "title": "Tyrant Solar Imperator",
+      "origin": "Corrupted Cosmic Godhood",
+      "avatar": "👑☀️",
+      "color": "#FF8C00",
+      "dialogue": "Order requires absolute rule! This timeline shall kneel as mine did!"
+    },
+    {
+      "timelineId": "timeline-nether-inquisition",
+      "timeline": "Earth-Nether: The Inverted Void",
+      "universeCode": "EARTH-Ψ-660",
+      "boss": "Grand Inquisitor Dr. Mythos",
+      "title": "Arch-Purifier of the Nether-Rift",
+      "origin": "Forbidden Eldritch Pact",
+      "avatar": "🔮💀",
+      "color": "#4B0082",
+      "dialogue": "All dimensions must be cleansed in the purifying dark flame of the void!"
+    },
+    {
+      "timelineId": "timeline-prime-clockwork",
+      "timeline": "Earth-Steam: Chrono-Empire",
+      "universeCode": "EARTH-Σ-1899",
+      "boss": "Chronos Prime Automaton",
+      "title": "Infinite Master of Brass Entropy",
+      "origin": "Tachyon Steam Engine Core",
+      "avatar": "⚙️🤖",
+      "color": "#B8860B",
+      "dialogue": "Tick-tock, anomaly. Your existence is mathematically overdue for deletion."
+    }
+  ],
+  "cutscene_speakers": [
+    "Null Void (Villain)",
+    "PlayerHero (Hero)",
+    "Queen Pyre (Villain)",
+    "Chloe Roaster (Confidant)"
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rel-sidekick-spark",
+    "name": "Kit \"Spark\" Morales",
+    "role": "Sidekick",
+    "affinity": 70,
+    "trustLevel": "Trusted Ally",
+    "knowsSecretIdentity": true,
+    "avatar": "👦⚡",
+    "backstory": "An eager teenage electro-kinetic speedster you took under your wing after saving his neighborhood.",
+    "perkDescription": "Can be summoned to assist in combat, providing an extra attack each round.",
+    "lastInteractedDay": 1
+  },
+  {
+    "id": "rel-civilian-chloe",
+    "name": "Chloe Rivera",
+    "role": "Civilian Friend",
+    "affinity": 85,
+    "trustLevel": "Confidant",
+    "knowsSecretIdentity": true,
+    "avatar": "👩🎨",
+    "backstory": "Your childhood best friend and local coffee shop owner who provides emotional support and grounds you in normal life.",
+    "perkDescription": "Spending time together reduces Hero Stress by 50% and reduces Identity Suspicion by 15%.",
+    "lastInteractedDay": 1
+  },
+  {
+    "id": "rel-reporter-vance",
+    "name": "Liam Vance",
+    "role": "Journalist Rival",
+    "affinity": 40,
+    "trustLevel": "Acquaintance",
+    "knowsSecretIdentity": false,
+    "avatar": "📰🧑",
+    "backstory": "A cynical Pulitzer-winning investigative journalist constantly digging into your civilian alibis.",
+    "perkDescription": "Feeding exclusive scoops boosts Comic Issue sales by 30% and keeps media favor high.",
+    "lastInteractedDay": 1
+  },
+  {
+    "id": "rel-police-chief-ramirez",
+    "name": "Captain Elena Ramirez",
+    "role": "Police Chief",
+    "affinity": 65,
+    "trustLevel": "Trusted Ally",
+    "knowsSecretIdentity": false,
+    "avatar": "👮‍♀️🚨",
+    "backstory": "A tough, honest precinct commander who secretly cooperates with capes to bypass corrupt bureaucracy.",
+    "perkDescription": "Provides prioritized dispatch intel, revealing Masterplan Clues 50% faster during patrols.",
+    "lastInteractedDay": 1
+  },
+  {
+    "id": "rel-love-interest-elena",
+    "name": "Dr. Sarah Sterling",
+    "role": "Love Interest",
+    "affinity": 60,
+    "trustLevel": "Trusted Ally",
+    "knowsSecretIdentity": false,
+    "avatar": "🩺👩‍⚕️",
+    "backstory": "Chief ER Trauma Surgeon at Metro General who repeatedly stitches up injured vigilantes and civilians alike.",
+    "perkDescription": "Provides free emergency medical supplies, auto-healing 30% HP after difficult combats.",
+    "lastInteractedDay": 1
+  }
+]

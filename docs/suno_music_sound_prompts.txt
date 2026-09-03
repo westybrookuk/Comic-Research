@@ -1,0 +1,171 @@
+================================================================================
+          VANGUARD: THE GREATEST HERO - COMPLETE SUNO AI MUSIC & AUDIO SUITE
+               (Production-Ready Prompts, Styles, BPM & Song Structures)
+================================================================================
+
+HOW TO USE THESE PROMPTS IN SUNO AI (v3 / v3.5):
+1. Mode: Switch to "Custom Mode" in Suno.
+2. Style of Music Box: Copy and paste the "Style Prompt" string directly.
+3. Lyrics Box: Set to "Instrumental" OR paste the provided bracketed structure tags
+   ([Intro], [Drop], [Theme], [Outro]) to guide Suno's arrangement flow.
+4. Model Setting: Use v3.5 for longer 4-minute compositions or v3 for punchy action loops.
+
+================================================================================
+TRACK 1: MAIN THEME / MENU & HEROIC OVERVIEW ("Vanguard Anthem")
+================================================================================
+• Scene: Main Menu, Hero Selection Screen, Game Title Splash
+• Mood: Triumphant, Uplifting, Noble, Legendary, Epic
+• Style Prompt:
+  Epic cinematic superhero orchestral theme, soaring french horn melody, driving brass fanfare, heroic strings arpeggios, massive timpani percussion, uplifting emotional climax, Hans Zimmer and John Williams hybrid, cinematic trailer score, 120 BPM, instrumental, pristine studio mix
+
+• Arrangement Structure (Paste in Lyrics box):
+  [Intro - Noble French Horn solo playing main leitmotif]
+  [Build - Churning cello ostinato, rolling snares, ascending woodwinds]
+  [Main Theme - Triumphant full orchestra fanfare, blaring brass, crashing cymbals]
+  [Bridge - Soaring emotional violin melody, hopeful piano accents]
+  [Climax - Thunderous timpani rolls, choir crescendo, triumphant brass climax]
+  [Outro - Resonant French Horn and soft string sustain fadeout]
+
+================================================================================
+TRACK 2: MIDNIGHT PATROL & ROOFTOP STEALTH ("Shadows Over Metro Nova")
+================================================================================
+• Scene: Night District Patrol, Stealth Infiltration, Rooftop Reconnaissance
+• Mood: Atmospheric, Moody, Mysterious, Cyber-Noir, Tense
+• Style Prompt:
+  Atmospheric dark synthwave, cyberpunk neo-noir cinematic score, deep analog moog bassline, moody piano chords, midnight rain ambiance, subtle glitch textures, distant sirens, Ludwig Göransson and John Carpenter style, 100 BPM, instrumental, wide stereo mix
+
+• Arrangement Structure:
+  [Intro - Distant thunder, rain texture, low sub-bass drone]
+  [Beat Drop - Crisp 808 percussion, driving pulse bassline]
+  [Melody - Haunting Rhodes piano and analog synth lead]
+  [Build - Filter sweep, echoing electric guitar textures, tense hi-hats]
+  [Climax - Deep pulsating synth drop with sweeping pads]
+  [Outro - Ambient synth pad drone fading into falling rain]
+
+================================================================================
+TRACK 3: STANDARD TURN-BASED COMBAT ("Street Justice")
+================================================================================
+• Scene: Bank Heist Fights, Gang Enforcer Brawls, Tactical Turn Combat
+• Mood: High Energy, Punchy, Aggressive, Rhythmic, Dynamic
+• Style Prompt:
+  High-energy comic book action rock orchestra hybrid, fast distorted electric guitar power riffs, punchy drum kit grooves, staccato string stabs, energetic brass hits, dynamic anime superhero battle theme, 140 BPM, instrumental, high impact mastering
+
+• Arrangement Structure:
+  [Intro - Fast double-kick drum roll, heavy guitar chug]
+  [Verse - Driving bass rhythm, rhythmic staccato string ostinato]
+  [Chorus - Punchy heavy metal guitar riffs layered with bright brass accents]
+  [Bridge - Blistering guitar solo trading bars with orchestral horns]
+  [Climax - Maximum drum intensity, crashing brass stabs, heavy rhythm drop]
+  [Outro - Aggressive power chord hit and drum fill ring-out]
+
+================================================================================
+TRACK 4: NEMESIS BOSS BATTLE ("Clash of Destinies")
+================================================================================
+• Scene: Supervillain Climax (Null Void, Queen Pyre, Cyber-Gorgon Showdown)
+• Mood: Apocalyptic, Terrifying, Monumental, Furious, Desperate
+• Style Prompt:
+  Apocalyptic dark orchestral boss battle music, thundering taiko war drums, dark gothic choir chants, screeching low brass stabs, frantic fast violin ostinato, epic superhero clash, Dark Souls and Avengers endgame hybrid, 155 BPM, instrumental, massive bass drops
+
+• Arrangement Structure:
+  [Intro - Ominous Latin choir chanting and booming taiko drum strike]
+  [Phase 1 - Frenetic 16th-note violin runs, menacing low brass blasts]
+  [Build - Fast tribal percussion rolls, choir rising in pitch and urgency]
+  [Phase 2 - Choir explodes into full apocalyptic fury, aggressive double-bass kicks]
+  [Climax - Cataclysmic brass crescendos, blazing choir polyphony, thunderous hits]
+  [Outro - Sudden silence followed by single dark cellos and deep sub-drop]
+
+================================================================================
+TRACK 5: CHLOE'S CAFÉ & ROMANCE ("Roaster's Haven Lofi")
+================================================================================
+• Scene: Roaster's Haven Café, Civilian Social Dates, Rest & Recovery
+• Mood: Cozy, Relaxing, Heartwarming, Nostalgic, Chill
+• Style Prompt:
+  Cozy lofi hip hop, relaxing coffee shop beat, soft warm rhodes electric piano chords, smooth mellow saxophone melody, vinyl crackle, gentle acoustic guitar fingerpicking, deep upright bass, 80 BPM, instrumental, lush warm tape saturation
+
+• Arrangement Structure:
+  [Intro - Vinyl dust crackle, delicate warm rhodes chords]
+  [Beat Drop - Soft dusty boom-bap drum groove, warm sub bass]
+  [Lead - Silky smooth saxophone melody drifting above chords]
+  [Bridge - Mellow acoustic guitar arpeggios, gentle wind chime accents]
+  [Refrain - Rhodes piano solo with gentle brush drum rhythm]
+  [Outro - Soft piano chords fading out with coffee shop ambient murmurs]
+
+================================================================================
+TRACK 6: BASE OF OPERATIONS / HQ BLUEPRINT ("The Sanctuary Protocol")
+================================================================================
+• Scene: Interactive HQ Builder, Danger Room Holo-Simulator, Supercomputer Lab
+• Mood: Futuristic, High-Tech, Focused, Calculating, Inspiring
+• Style Prompt:
+  Futuristic cyberpunk ambient electronic, glowing holographic synthesizer pads, crisp tech-house groove, bubbling arpeggiators, deep clean sub-bass, sci-fi laboratory theme, Deus Ex and Tron Legacy hybrid, 124 BPM, instrumental, pristine spatial audio
+
+• Arrangement Structure:
+  [Intro - Computer boot hum, sparkling digital arpeggiator]
+  [Build - Minimalist four-on-the-floor tech kick and crisp closed hats]
+  [Main Section - Warm analog synth pads, pulsing futuristic bassline]
+  [Tech Solo - Complex melodic synth sequence simulating quantum computing]
+  [Outro - Smooth filter sweep, digital telemetry beeps, clean sub fade]
+
+================================================================================
+TRACK 7: MULTIVERSE INCURSIONS & RIFTS ("Tears in Reality")
+================================================================================
+• Scene: Multiverse Incursion Raids, Spacetime Anomaly Battles
+• Mood: Cosmic, Mind-Bending, Alien, Sci-Fi Industrial, Reality-Distorting
+• Style Prompt:
+  Cosmic industrial sci-fi orchestra, glitch electronic sound design, deep sub bass drops, microtonal eerie strings, aggressive modular synthesizers, time-bending soundscape, Hans Zimmer Interstellar and Mick Gordon hybrid, 135 BPM, instrumental
+
+• Arrangement Structure:
+  [Intro - Spacetime distortion warps, eerie reversed string pads]
+  [Build - Glitchy broken beats, pulsating electronic bass drone]
+  [Drop - Massive industrial electro-orchestral beat, shearing synth leads]
+  [Anomaly - Time-stretched orchestral swells and reality-warping pitch bends]
+  [Climax - Unstoppable cosmic drum barrage, apocalyptic electronic brass]
+  [Outro - Disintegrating digital audio frequencies fading into the void]
+
+================================================================================
+TRACK 8: PRESS CONFERENCE & PR SCANDAL ("Under the Flashbulbs")
+================================================================================
+• Scene: Live Press Conferences, Mayoral Elections, City Hall Debates
+• Mood: Tense, Sophisticated, High-Stakes, Politically Charged, Urgent
+• Style Prompt:
+  Modern political thriller soundtrack, pulsing acoustic bass, staccato cello ostinato, ticking clock percussion, tense muted trumpets, sleek electronic pulses, Succession and House of Cards soundtrack style, 115 BPM, instrumental, tight chamber mix
+
+• Arrangement Structure:
+  [Intro - Rapid ticking hi-hats, tense muted piano single notes]
+  [Build - Driving staccato cello rhythm, subtle bass pulse]
+  [Tension Peak - Piercing violin accents, dramatic brass question-and-answer]
+  [Release - Swelling chamber strings leading to unresolved cliffhanger]
+  [Outro - Final sharp piano stab with lingering reverb tail]
+
+================================================================================
+TRACK 9: COMIC BOOK ISSUE MILESTONE & FANFARE ("Front Page Legend")
+================================================================================
+• Scene: Publishing New Issue, 5-Star Reviews, Era 2 Legacy Succession
+• Mood: Victorious, Celebratory, Golden Age Nostalgia, Triumphant
+• Style Prompt:
+  Golden Age 1980s superhero orchestral fanfare, bright celebratory trumpets, soaring major key strings, marching snare drum rolls, joyful orchestral crash cymbals, vintage comic cartoon hero theme, 130 BPM, instrumental, bright nostalgic mix
+
+• Arrangement Structure:
+  [Intro - Triple trumpet fanfare call]
+  [Celebration - Full orchestra bursting into joyful victorious melody]
+  [March - Snare drum parade cadence with playful brass harmonies]
+  [Climax - Spectacular soaring crescendo with full tubular bells and timpani]
+  [Outro - Iconic 4-chord superhero resolution ending]
+
+================================================================================
+TRACK 10: HERO'S DEFEAT / FALLEN MEMORIAL ("Requiem for a Vanguard")
+================================================================================
+• Scene: Hero Hospitalization, Chronic Injury, Funeral of a Legend
+• Mood: Somber, Heartbreaking, Noble, Solemn, Moving
+• Style Prompt:
+  Emotional cinematic orchestral requiem, sorrowful solo cello, gentle poignant piano, tragic swelling strings, soft French horn eulogy, melancholy movie score, 65 BPM, instrumental, deeply moving acoustic space
+
+• Arrangement Structure:
+  [Intro - Solitary, weeping solo cello melody]
+  [Verse - Fragile acoustic piano joining in a minor key]
+  [Swell - Warm but heartbreaking orchestral strings lifting the theme]
+  [Tribute - Noble French horn playing a bittersweet farewell variation]
+  [Outro - Gentle piano chords fading into peaceful silence]
+
+================================================================================
+                      END OF SUNO AI MUSIC PROMPT SUITE
+================================================================================

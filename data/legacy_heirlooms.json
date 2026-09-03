@@ -1,0 +1,50 @@
+[
+  {
+    "id": "heirloom-solar-crest",
+    "name": "The Aegis Solar Crest of Epochs",
+    "slot": "Relic",
+    "bonusStats": {
+      "fortitude": 4,
+      "willpower": 3
+    },
+    "perkEffect": "+30 Max HP, +15 Max Energy, and +20% Super Meter charge rate from all actions.",
+    "lore": "Passed down from the founding champions of the Apex Vanguard. Resonates with generational heroic determination.",
+    "icon": "☀️"
+  },
+  {
+    "id": "heirloom-shadow-cloak",
+    "name": "Vanguard Shadow Weave Cloak",
+    "slot": "Suit",
+    "bonusStats": {
+      "agility": 5,
+      "intellect": 2
+    },
+    "perkEffect": "+15 Base Armor, +25% Evasion, and grants free Smoke Shroud on turn 1 of every combat.",
+    "lore": "Woven from sound-dampening memory fibers tested across decades of midnight vigilantism.",
+    "icon": "🦇"
+  },
+  {
+    "id": "heirloom-cerebro-visor",
+    "name": "Cerebro-Core Quantum HUD Visor",
+    "slot": "Mask",
+    "bonusStats": {
+      "intellect": 5,
+      "charisma": 2
+    },
+    "perkEffect": "+30 AP capacity, +35% Clue Discovery, and reveals enemy weak points instantly.",
+    "lore": "An advanced tactical optic synced directly with the city’s mainframe supercomputer.",
+    "icon": "👁️"
+  },
+  {
+    "id": "heirloom-titan-gauntlets",
+    "name": "Adamantine Kinetic Crush Gauntlets",
+    "slot": "Gadget",
+    "bonusStats": {
+      "strength": 5,
+      "fortitude": 2
+    },
+    "perkEffect": "+20 Melee Damage, +15% Critical Strike Chance, and punches ignore 30% enemy armor.",
+    "lore": "Hydraulic kinetic servos that magnify the bearer’s physical force tenfold.",
+    "icon": "🥊"
+  }
+]

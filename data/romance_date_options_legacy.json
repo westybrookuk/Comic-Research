@@ -1,0 +1,74 @@
+[
+  {
+    "id": "date-stargazing",
+    "name": "Stargazing at Helios Observatory",
+    "partnerName": "Dr. Sarah Sterling",
+    "partnerId": "rel-love-interest-elena",
+    "location": "Helios Celestial Observatory",
+    "cost": 80,
+    "energyCost": 15,
+    "dialogueScenario": "Sarah points out a distant nebula through the telescope and mentions how much pressure both of your careers bring.",
+    "choices": [
+      {
+        "label": "Open up emotionally about the weight of your dual identity.",
+        "affinityGain": 20,
+        "stressReduction": 35,
+        "perk": "+20 Affinity with Sarah & -35% Stress"
+      },
+      {
+        "label": "Make a witty scientific joke to lighten the evening mood.",
+        "affinityGain": 15,
+        "stressReduction": 25,
+        "perk": "+15 Affinity with Sarah & -25% Stress"
+      }
+    ]
+  },
+  {
+    "id": "date-coffee-bakery",
+    "name": "Late-Night Artisan Coffee & Pastries",
+    "partnerName": "Chloe Rivera",
+    "partnerId": "rel-civilian-chloe",
+    "location": "Roaster's Haven Café",
+    "cost": 40,
+    "energyCost": 10,
+    "dialogueScenario": "Chloe locks up the cafe after hours and pours two cups of fresh espresso, laughing about old childhood school days.",
+    "choices": [
+      {
+        "label": "Reminisce about growing up before superpowers changed everything.",
+        "affinityGain": 25,
+        "stressReduction": 40,
+        "perk": "+25 Affinity with Chloe & -40% Stress"
+      },
+      {
+        "label": "Help her brainstorm new specialty pastry recipes.",
+        "affinityGain": 18,
+        "stressReduction": 30,
+        "perk": "+18 Affinity with Chloe & -30% Stress"
+      }
+    ]
+  },
+  {
+    "id": "date-jazz-lounge",
+    "name": "Velvet Midnight Jazz Club",
+    "partnerName": "Liam Vance",
+    "partnerId": "rel-reporter-vance",
+    "location": "The Blue Note Lounge, Neon District",
+    "cost": 120,
+    "energyCost": 15,
+    "dialogueScenario": "Over smooth saxophone melodies, Liam questions whether any vigilante in Metro Nova can truly balance normal love with the cape.",
+    "choices": [
+      {
+        "label": "Argue passionately that love is the very anchor that keeps heroes humane.",
+        "affinityGain": 22,
+        "stressReduction": 25,
+        "perk": "+22 Affinity with Liam & -15% Suspicion"
+      },
+      {
+        "label": "Challenge him to a friendly philosophical debate over drinks.",
+        "affinityGain": 16,
+        "stressReduction": 20,
+        "perk": "+16 Affinity with Liam & -20% Stress"
+      }
+    ]
+  }
+]

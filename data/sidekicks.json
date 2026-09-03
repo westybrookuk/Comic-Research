@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sidekick-spark",
+    "heroAlias": "Volt Spark",
+    "civilianName": "Kit Morales",
+    "role": "Speedster Striker",
+    "level": 2,
+    "xp": 80,
+    "xpToNextLevel": 250,
+    "stats": {
+      "strength": 10,
+      "agility": 18,
+      "intellect": 12,
+      "fortitude": 11,
+      "willpower": 12,
+      "charisma": 14
+    },
+    "avatarIcon": "⚡👦",
+    "color": "#FFDE59",
+    "backstory": "An eager high-school prodigy with natural electro-kinetic speed. Loyal, fast-talking, and eager to learn.",
+    "status": "Active Companion",
+    "synergyMove": {
+      "name": "Twin Lightning Barrage",
+      "damage": 48,
+      "apCost": 25,
+      "description": "Volt Spark dashes behind the target, pinning them with electricity while you strike."
+    }
+  },
+  {
+    "id": "sidekick-nova-swift",
+    "heroAlias": "Cyber Hawk",
+    "civilianName": "Maya Vance",
+    "role": "Tech Hacker",
+    "level": 1,
+    "xp": 0,
+    "xpToNextLevel": 200,
+    "stats": {
+      "strength": 8,
+      "agility": 15,
+      "intellect": 18,
+      "fortitude": 10,
+      "willpower": 13,
+      "charisma": 12
+    },
+    "avatarIcon": "🦅💻",
+    "color": "#00F0FF",
+    "backstory": "A teenage robotics genius who built reconnaissance drones to patrol alleyways in the Neon District.",
+    "status": "Training",
+    "synergyMove": {
+      "name": "Drone EMP Disruption",
+      "damage": 42,
+      "apCost": 20,
+      "description": "Deploys a shock drone that stuns the target and shreds 15 armor points."
+    }
+  },
+  {
+    "id": "sidekick-shadow-kuroda",
+    "heroAlias": "Nightblade",
+    "civilianName": "Ren Kuroda",
+    "role": "Heavy Brawler",
+    "level": 1,
+    "xp": 0,
+    "xpToNextLevel": 200,
+    "stats": {
+      "strength": 17,
+      "agility": 12,
+      "intellect": 10,
+      "fortitude": 16,
+      "willpower": 14,
+      "charisma": 10
+    },
+    "avatarIcon": "⚔️🥋",
+    "color": "#E63946",
+    "backstory": "A disciplined dojo prodigy with immense physical fortitude, determined to clear his family name.",
+    "status": "Training",
+    "synergyMove": {
+      "name": "Tectonic Double Strike",
+      "damage": 55,
+      "apCost": 30,
+      "description": "Unleashes a devastating synchronized seismic slam with heavy kinetic force."
+    }
+  },
+  {
+    "id": "sidekick-aura-mystic",
+    "heroAlias": "Aura",
+    "civilianName": "Selene Vance",
+    "role": "Mystic Warder",
+    "level": 1,
+    "xp": 0,
+    "xpToNextLevel": 200,
+    "stats": {
+      "strength": 8,
+      "agility": 11,
+      "intellect": 16,
+      "fortitude": 12,
+      "willpower": 18,
+      "charisma": 15
+    },
+    "avatarIcon": "🔮✨",
+    "color": "#8A2BE2",
+    "backstory": "An arcane novice gifted with rare healing sigils and shielding leylines.",
+    "status": "Training",
+    "synergyMove": {
+      "name": "Sanctuary Aegis Pulse",
+      "damage": 35,
+      "apCost": 25,
+      "description": "Heals the hero for 35 HP and inflicts Confused status upon the target."
+    }
+  }
+]

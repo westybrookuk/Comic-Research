@@ -1,0 +1,68 @@
+[
+  {
+    "id": "district-downtown",
+    "name": "Downtown Metropolis",
+    "theme": "Glass skyscrapers, financial towers, media headquarters, and crowded avenues.",
+    "crimeRate": 35,
+    "dangerLevel": "Medium",
+    "patrolCostEnergy": 15,
+    "description": "The bustling heart of Metro Nova. High public visibility, massive comic press exposure, but bank heists and hostage crises are frequent.",
+    "bgGradient": "from-blue-900 to-indigo-950",
+    "iconName": "Building2"
+  },
+  {
+    "id": "district-docklands",
+    "name": "The Iron Docklands",
+    "theme": "Heavy industrial shipping yards, rusting cranes, cargo warehouses, and shadowy docks.",
+    "crimeRate": 58,
+    "dangerLevel": "High",
+    "patrolCostEnergy": 20,
+    "description": "A hotbed for arms smuggling, illicit tech trafficking, and brute mob enforcers.",
+    "bgGradient": "from-zinc-900 to-slate-950",
+    "iconName": "Anchor"
+  },
+  {
+    "id": "district-neon",
+    "name": "Neon District",
+    "theme": "Cyberpunk glow, holographic billboards, underground clubs, and high-tech black markets.",
+    "crimeRate": 45,
+    "dangerLevel": "Medium",
+    "patrolCostEnergy": 15,
+    "description": "Vibrant nightlife paired with data heists, neural hacking, and flashy rogue turf wars.",
+    "bgGradient": "from-purple-950 to-pink-950",
+    "iconName": "Sparkles"
+  },
+  {
+    "id": "district-gothic",
+    "name": "Gothic Quarter & Asylum",
+    "theme": "Victorian gargoyles, mist-draped alleys, ancient cathedrals, and the maximum-security Blackgate Asylum.",
+    "crimeRate": 68,
+    "dangerLevel": "High",
+    "patrolCostEnergy": 22,
+    "description": "Occult rituals, supervillain breakout attempts, and psychological terror lurk behind every foggy corner.",
+    "bgGradient": "from-red-950 to-stone-950",
+    "iconName": "Skull"
+  },
+  {
+    "id": "district-tech-park",
+    "name": "Aero-Tech Research Park",
+    "theme": "Clean minimalist science campuses, fusion generators, cleanrooms, and orbital transport pads.",
+    "crimeRate": 25,
+    "dangerLevel": "Low",
+    "patrolCostEnergy": 15,
+    "description": "Frequent target of corporate espionage, high-end power prototype thefts, and rogue AI meltdowns.",
+    "bgGradient": "from-cyan-950 to-blue-950",
+    "iconName": "Cpu"
+  },
+  {
+    "id": "district-underbelly",
+    "name": "Subterranean Underbelly",
+    "theme": "Abandoned subway tunnels, radioactive runoff conduits, toxic subterranean bunkers.",
+    "crimeRate": 75,
+    "dangerLevel": "Extreme",
+    "patrolCostEnergy": 25,
+    "description": "The lawless subterranean frontier where mutated renegades and exiled supervillains build doomsday machines.",
+    "bgGradient": "from-emerald-950 to-neutral-950",
+    "iconName": "Flame"
+  }
+]

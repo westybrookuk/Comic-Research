@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Investigative Journalist",
+    "title": "Investigative Reporter - Metro Daily",
+    "salary": 650,
+    "intelBonus": 25,
+    "suspicionRisk": 12,
+    "workSatisfaction": 80,
+    "performance": 80,
+    "description": "Uncover criminal rings and interview corrupt politicians while digging for villain clues."
+  },
+  {
+    "type": "Tech CEO",
+    "title": "Chief Executive Officer - Apex Solutions",
+    "salary": 2200,
+    "intelBonus": 15,
+    "suspicionRisk": 22,
+    "workSatisfaction": 70,
+    "performance": 85,
+    "description": "Manage massive corporate capital and divert secret R&D resources to your superhero crusade."
+  },
+  {
+    "type": "Paramedic / Doctor",
+    "title": "Senior Emergency Physician - Metro Central",
+    "salary": 800,
+    "intelBonus": 12,
+    "suspicionRisk": 6,
+    "workSatisfaction": 90,
+    "performance": 90,
+    "description": "Save lives in the ER by day, witnessing first-hand the collateral damage of supervillain rampages."
+  },
+  {
+    "type": "Forensic Detective",
+    "title": "Lead Crime Scene Investigator - MCPD",
+    "salary": 720,
+    "intelBonus": 30,
+    "suspicionRisk": 15,
+    "workSatisfaction": 85,
+    "performance": 88,
+    "description": "Analyze ballistic traces, mutant DNA samples, and villain calling cards before anyone else."
+  },
+  {
+    "type": "High School Teacher",
+    "title": "Science & Physics Educator - Metro High",
+    "salary": 480,
+    "intelBonus": 5,
+    "suspicionRisk": 4,
+    "workSatisfaction": 85,
+    "performance": 92,
+    "description": "Inspire the next generation while maintaining a quiet, unassuming civilian identity."
+  },
+  {
+    "type": "Café Barista",
+    "title": "Head Barista - Roaster’s Haven",
+    "salary": 350,
+    "intelBonus": 10,
+    "suspicionRisk": 2,
+    "workSatisfaction": 75,
+    "performance": 95,
+    "description": "Low-profile and casual. Perfect for overhearing street gossip and civilian rumors."
+  },
+  {
+    "type": "Research Scientist",
+    "title": "Lead Particle Physicist - Quantum Corp",
+    "salary": 950,
+    "intelBonus": 20,
+    "suspicionRisk": 10,
+    "workSatisfaction": 90,
+    "performance": 86,
+    "description": "Work with supercomputers, quantum colliders, and advanced energy shields."
+  }
+]
