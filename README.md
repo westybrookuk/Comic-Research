@@ -35,7 +35,7 @@ research-pack/
 | File | Contents |
 |------|----------|
 | `character_roster_and_visual_prompts.txt` | Complete character roster & visual guide (dual identities, costumes, prompts) |
-| `city_locations_ai_prompts.txt` | Metro City locations & architectural prompt guide |
+| `city_locations_ai_prompts.txt` | Metro City locations & architectural prompt guide for the 10 iconic Metro City locations |
 | `CINEMATIC_VIDEO_AND_IMAGE_PROMPT_BIBLE.md` | Master video/image prompt bible (16:9 cutscenes, trailers) |
 | `VIBES_AI_9_16_MASTER_PROMPT_SUITE.md` | 9:16 portrait prompt suite — heroes, sidekicks, confidants, villains, locations |
 | `VIBES_AI_ACTOR_LOCKED_9_16_PROMPTS.md` | Same cast in the "Timeless Neo-Deco" unified aesthetic (actor-locked looks) |
